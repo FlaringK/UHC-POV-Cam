@@ -4,7 +4,7 @@ module.exports = {
   modVersion: 0.1,
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
-  description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <br><br>This mod is unfinished, as you can probably tell by the version.<br><br><b>This mod will unfortunately bug out with multiple tabs, only the furthest right tab will display the correct timeline links</b><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
+  description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <b>This mod will unfortunately bug out with multiple tabs, only the furthest right tab will display the correct timeline links</b><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
 
   // Add images to UHC
   routes: {
