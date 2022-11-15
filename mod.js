@@ -4,12 +4,9 @@ module.exports = {
   modVersion: 0.1,
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
-  description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <b>This mod will unfortunately bug out with multiple tabs, only the furthest right tab will display the correct timeline links</b><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
+  description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
 
   // Add images to UHC
-  routes: {
-    "assets://images/araida.png": "./icons/aradia.png"
-  },
   trees: {
     './icons/': 'assets://images/'
   },
@@ -90,6 +87,7 @@ module.exports = {
       let nextpages = []
 
       for (let i = 0; i < linkData.length; i++) {
+        // Account for missing page indexs 
         if (linkData[i][4][0]) nextpages.push(`00${linkData[i][4][0][0]}`)
         else nextpages.push(nextpages[nextpages.length - 1])
       }
@@ -122,19 +120,19 @@ module.exports = {
                 let linkData = timelinePage[timelinePage.length - i - 1]
                 let linkIndex = archive.mspa.story[pageString].next.length - i
                 LinkStyle += `
-                .nextArrow div:nth-child(${linkIndex}) {
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
                   ${api.store.get(povData.groups[linkData[3]]) ? "display: none" : ""}
                 }
-                .nextArrow div:nth-child(${linkIndex}) a {
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
                   color: ${povData.colours[linkData[1]]}; 
                   ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
                 } 
-                .nextArrow div:nth-child(${linkIndex}) p::Before { 
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
                   content: url("assets://images/${povData.images[linkData[2]]}");
                   display: inline-block;
                   transform: translateY(5px); 
                 }
-                 `
+                `
               }
 
               archive.mspa.story[pageString].content += `<style>${LinkStyle}</style>`
