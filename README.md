@@ -17,6 +17,7 @@ TODO:
 
 - Fixed undefined pages bug (Signaled end of a timeline)
 - Added end of Timeline signals
+- Fixed pages linking beyond 10000 causing errors
 
 ### v0.2
 
