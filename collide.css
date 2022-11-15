@@ -1,0 +1,1188 @@
+div[data-pageid*="009987"] .nextArrow div:nth-child(2) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(2):hover::before {
+  content: "John";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(2) a {
+  color: #0715CD !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(2) p::Before {
+  content: url("assets://images/john2.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(2) p::After {
+  color: #0715CD;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(3) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(3):hover::before {
+  content: "Rose";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(3) a {
+  color: #B536DA !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(3) p::Before {
+  content: url("assets://images/rose.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(3) p::After {
+  color: #B536DA;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(4) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(4):hover::before {
+  content: "Dave";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(4) a {
+  color: #E00707 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(4) p::Before {
+  content: url("assets://images/davescratch.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(4) p::After {
+  color: #E00707;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(5) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(5):hover::before {
+  content: "Jade";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(5) a {
+  color: #4AC925 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(5) p::Before {
+  content: url("assets://images/jade.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(5) p::After {
+  color: #4AC925;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(6) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(6):hover::before {
+  content: "Nannasprite";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(6) a {
+  color: #00D5F2 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(6) p::Before {
+  content: url("assets://images/nannasprite.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(6) p::After {
+  color: #00D5F2;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(7) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(7):hover::before {
+  content: "The Mayor";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(7) a {
+  color: #000000 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(7) p::Before {
+  content: url("assets://images/dersite.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(7) p::After {
+  color: #000000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(8) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(8):hover::before {
+  content: "Prospitian Monarch";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(8) a {
+  color: #FFFFFF !important;
+  text-shadow: 1px 1px 0px black;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(8) p::Before {
+  content: url("assets://images/prospitian.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(8) p::After {
+  color: #FFFFFF;
+  text-shadow: 1px 1px 0px black;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(9) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(9):hover::before {
+  content: "Jack Noir";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(9) a {
+  color: #000000 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(9) p::Before {
+  content: url("assets://images/spades.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(9) p::After {
+  color: #000000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(10) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(10):hover::before {
+  content: "Spades Slick";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(10) a {
+  color: #000000 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(10) p::Before {
+  content: url("assets://images/spades.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(10) p::After {
+  content: "End of Spades Slick's Timeline.";
+  color: #000000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(11) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(11):hover::before {
+  content: "Itchy";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(11) a {
+  color: #FFEA00 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(11) p::Before {
+  content: url("assets://images/ball01.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(11) p::After {
+  content: "End of Itchy's Timeline.";
+  color: #FFEA00;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(12) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(12):hover::before {
+  content: "Doze";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(12) a {
+  color: #4040FD !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(12) p::Before {
+  content: url("assets://images/ball02.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(12) p::After {
+  content: "End of Doze's Timeline.";
+  color: #4040FD;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(13) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(13):hover::before {
+  content: "Trace";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(13) a {
+  color: #DF0000 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(13) p::Before {
+  content: url("assets://images/ball03.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(13) p::After {
+  content: "End of Trace's Timeline.";
+  color: #DF0000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(14) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(14):hover::before {
+  content: "Clover";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(14) a {
+  color: #A357FF !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(14) p::Before {
+  content: url("assets://images/ball04.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(14) p::After {
+  content: "End of Clover's Timeline.";
+  color: #A357FF;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(15) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(15):hover::before {
+  content: "Fin";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(15) a {
+  color: #FF6000 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(15) p::Before {
+  content: url("assets://images/ball05.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(15) p::After {
+  content: "End of Fin's Timeline.";
+  color: #FF6000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(16) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(16):hover::before {
+  content: "Die";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(16) a {
+  color: #008140 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(16) p::Before {
+  content: url("assets://images/ball06.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(16) p::After {
+  content: "End of Die's Timeline.";
+  color: #008140;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(17) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(17):hover::before {
+  content: "Crowbar";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(17) a {
+  color: #950015 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(17) p::Before {
+  content: url("assets://images/ball07.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(17) p::After {
+  content: "End of Crowbar's Timeline.";
+  color: #950015;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(18) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(18):hover::before {
+  content: "Stitch";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(18) a {
+  color: #FFEA00 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(18) p::Before {
+  content: url("assets://images/ball09.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(18) p::After {
+  content: "End of Stitch's Timeline.";
+  color: #FFEA00;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(19) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(19):hover::before {
+  content: "Sawbuck";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(19) a {
+  color: #4040FD !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(19) p::Before {
+  content: url("assets://images/ball10.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(19) p::After {
+  content: "End of Sawbuck's Timeline.";
+  color: #4040FD;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(20) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(20):hover::before {
+  content: "Matchsticks";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(20) a {
+  color: #DF0000 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(20) p::Before {
+  content: url("assets://images/ball11.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(20) p::After {
+  content: "End of Matchsticks's Timeline.";
+  color: #DF0000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(21) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(21):hover::before {
+  content: "Eggs";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(21) a {
+  color: #A357FF !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(21) p::Before {
+  content: url("assets://images/ball12.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(21) p::After {
+  content: "End of Eggs's Timeline.";
+  color: #A357FF;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(22) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(22):hover::before {
+  content: "Biscuits";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(22) a {
+  color: #FF6000 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(22) p::Before {
+  content: url("assets://images/ball13.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(22) p::After {
+  content: "End of Biscuits's Timeline.";
+  color: #FF6000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(23) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(23):hover::before {
+  content: "Quarters";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(23) a {
+  color: #008140 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(23) p::Before {
+  content: url("assets://images/ball14.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(23) p::After {
+  content: "End of Quarters's Timeline.";
+  color: #008140;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(24) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(24):hover::before {
+  content: "Cans";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(24) a {
+  color: #950015 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(24) p::Before {
+  content: url("assets://images/ball15.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(24) p::After {
+  content: "End of Cans's Timeline.";
+  color: #950015;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(25) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(25):hover::before {
+  content: "Aradia";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(25) a {
+  color: #A10000 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(25) p::Before {
+  content: url("assets://images/aradia.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(25) p::After {
+  color: #A10000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(26) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(26):hover::before {
+  content: "Tavros";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(26) a {
+  color: #A15000 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(26) p::Before {
+  content: url("assets://images/tavros.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(26) p::After {
+  color: #A15000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(27) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(27):hover::before {
+  content: "Sollux";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(27) a {
+  color: #A1A100 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(27) p::Before {
+  content: url("assets://images/sollux.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(27) p::After {
+  content: "End of Sollux's Timeline.";
+  color: #A1A100;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(28) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(28):hover::before {
+  content: "Karkat";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(28) a {
+  color: #626262 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(28) p::Before {
+  content: url("assets://images/karkat.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(28) p::After {
+  color: #626262;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(29) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(29):hover::before {
+  content: "Kanaya";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(29) a {
+  color: #008141 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(29) p::Before {
+  content: url("assets://images/kanaya.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(29) p::After {
+  color: #008141;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(30) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(30):hover::before {
+  content: "Terezi";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(30) a {
+  color: #008282 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(30) p::Before {
+  content: url("assets://images/terezi.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(30) p::After {
+  color: #008282;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(31) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(31):hover::before {
+  content: "Vriska";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(31) a {
+  color: #005682 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(31) p::Before {
+  content: url("assets://images/vriska.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(31) p::After {
+  color: #005682;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(32) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(32):hover::before {
+  content: "Her Imperious Condescension";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(32) a {
+  color: #77003C !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(32) p::Before {
+  content: url("assets://images/condesce.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(32) p::After {
+  content: "End of Her Imperious Condescension's Timeline.";
+  color: #77003C;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(33) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(33):hover::before {
+  content: "Jane";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(33) a {
+  color: #00D5F2 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(33) p::Before {
+  content: url("assets://images/jane.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(33) p::After {
+  color: #00D5F2;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(34) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(34):hover::before {
+  content: "Roxy";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(34) a {
+  color: #FF6FF2 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(34) p::Before {
+  content: url("assets://images/roxy.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(34) p::After {
+  color: #FF6FF2;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(35) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(35):hover::before {
+  content: "Dirk";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(35) a {
+  color: #F2A400 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(35) p::Before {
+  content: url("assets://images/dirk.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(35) p::After {
+  color: #F2A400;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(36) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(36):hover::before {
+  content: "Jake";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(36) a {
+  color: #1F9400 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(36) p::Before {
+  content: url("assets://images/jake.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(36) p::After {
+  color: #1F9400;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(37) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(37):hover::before {
+  content: "Jasprosesprite^2";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(37) a {
+  color: #B536DA !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(37) p::Before {
+  content: url("assets://images/jasprosesprite2.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(37) p::After {
+  content: "End of Jasprosesprite^2's Timeline.";
+  color: #B536DA;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(38) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(38):hover::before {
+  content: "ARquiusprite";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(38) a {
+  color: #E00707 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(38) p::Before {
+  content: url("assets://images/arquiusprite.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(38) p::After {
+  content: "End of ARquiusprite's Timeline.";
+  color: #E00707;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(39) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(39):hover::before {
+  content: "Davepetasprite^2";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(39) a {
+  color: #F2A400 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(39) p::Before {
+  content: url("assets://images/davepetasprite2.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(39) p::After {
+  content: "End of Davepetasprite^2's Timeline.";
+  color: #F2A400;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(40) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(40):hover::before {
+  content: "Jack English";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(40) a {
+  color: #000000 !important;
+  display: none;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(40) p::Before {
+  content: url("assets://images/spades.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(40) p::After {
+  content: "End of Jack English's Timeline.";
+  color: #000000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(41) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(41):hover::before {
+  content: "Meenah";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(41) a {
+  color: #77003C !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(41) p::Before {
+  content: url("assets://images/feferi.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(41) p::After {
+  color: #77003C;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(42) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(42):hover::before {
+  content: "Calliope";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(42) a {
+  color: #929292 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(42) p::Before {
+  content: url("assets://images/calliope.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(42) p::After {
+  color: #929292;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(43) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(43):hover::before {
+  content: "Calliope";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(43) a {
+  color: #FF0000 !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(43) p::Before {
+  content: url("assets://images/calliope.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(43) p::After {
+  color: #FF0000;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(44) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(44):hover::before {
+  content: "Caliborn";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(44) a {
+  color: #2ED73A !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(44) p::Before {
+  content: url("assets://images/caliborn.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(44) p::After {
+  color: #2ED73A;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(45) {
+  position: relative;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(45):hover::before {
+  content: "Lord English";
+  color: black;
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(45) a {
+  color: #2ED73A !important;
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(45) p::Before {
+  content: url("assets://images/lordenglish.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="009987"] .nextArrow div:nth-child(45) p::After {
+  color: #2ED73A;
+}

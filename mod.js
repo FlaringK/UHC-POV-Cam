@@ -1,7 +1,7 @@
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
-  modVersion: "0.3",
+  modVersion: "0.4",
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
@@ -10,6 +10,13 @@ module.exports = {
   trees: {
     './icons/': 'assets://images/'
   },
+
+  // Set collide style manually
+  styles: [
+      {
+          source: "./collide.css"
+      }
+  ],
 
   // Turn on and off each page group
   settings: {
@@ -135,9 +142,21 @@ module.exports = {
               LinkStyle += `
               div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
                 ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
+                position: relative;
+              }
+              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}):hover::before {
+                content: "${povData.peoplenames[linkData[0]]}";
+                position: absolute;
+                top: 10px;
+                right: calc(100% + 5px);
+                background: white;
+                border: solid black 1px;
+                font-size: 12px;
+                padding: 2px;
+                white-space: nowrap;
               }
               div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
-                color: ${povData.colours[linkData[1]]}; 
+                color: ${povData.colours[linkData[1]]} !important; 
                 ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
                 ${isEndofTimeline ? "display: none;" : ""}
               } 
