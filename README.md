@@ -11,6 +11,13 @@ TODO:
 - Remove the need for a full reload when changing options
 - Resolve missing pages
 
+## Changelog
+
+### v0.3
+
+- Fixed undefined pages bug (Signaled end of a timeline)
+- Added end of Timeline signals
+
 ### v0.2
 
 - Accounted for missing page indexes within timelines.json

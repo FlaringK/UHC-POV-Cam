@@ -1,7 +1,7 @@
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
-  modVersion: 0.2,
+  modVersion: "0.3",
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
@@ -89,7 +89,7 @@ module.exports = {
       for (let i = 0; i < linkData.length; i++) {
         // Account for missing page indexs 
         if (linkData[i][4][0]) nextpages.push(`00${linkData[i][4][0][0]}`)
-        else nextpages.push(nextpages[nextpages.length - 1])
+        else nextpages.push(undefined)
       }
 
       nextPageArray[`00${pagenum}`] = nextpages
@@ -107,35 +107,55 @@ module.exports = {
           // if the page exists (prevents certain errors)
           if (archive.mspa.story[pageString] && nextPageArray[pageString]) {
 
-              // Add new next pages to 
-              archive.mspa.story[pageString].next = archive.mspa.story[pageString].next.concat(nextPageArray[pageString])
-
-              // Create style for links
-              const timelinePage = povData.timelines[String(i)]
-
-              let LinkStyle = ""
-
-              // Loop throught array backwards to avoid styling the original links 
-              for (let i = timelinePage.length - 1; i >= 0; i--) {
-                let linkData = timelinePage[timelinePage.length - i - 1]
-                let linkIndex = archive.mspa.story[pageString].next.length - i
-                LinkStyle += `
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
-                  ${api.store.get(povData.groups[linkData[3]]) ? "display: none" : ""}
-                }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
-                  color: ${povData.colours[linkData[1]]}; 
-                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-                } 
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
-                  content: url("assets://images/${povData.images[linkData[2]]}");
-                  display: inline-block;
-                  transform: translateY(5px); 
-                }
-                `
+            // Check if page numbers are valid
+            var validNextPages = []
+            var validNextIndex = []
+            for (let i = 0; i < nextPageArray[pageString].length; i++) {
+              if (nextPageArray[pageString][i]) {
+                validNextPages.push(true)
+                validNextIndex.push(nextPageArray[pageString][i])
+              } else {
+                validNextPages.push(false)
+                validNextIndex.push("001901")
               }
+            }
 
-              archive.mspa.story[pageString].content += `<style>${LinkStyle}</style>`
+            // Add new next pages to 
+            archive.mspa.story[pageString].next = archive.mspa.story[pageString].next.concat(validNextIndex)
+
+            // Create style for links
+            const timelinePage = povData.timelines[String(i)]
+
+            let LinkStyle = ""
+
+            // Loop throught array backwards to avoid styling the original links 
+            for (let i = timelinePage.length - 1; i >= 0; i--) {
+              let linkData = timelinePage[timelinePage.length - i - 1]
+              let linkIndex = archive.mspa.story[pageString].next.length - i
+              let isEndofTimeline = !validNextPages[timelinePage.length - i - 1]
+              LinkStyle += `
+              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
+                ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
+              }
+              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
+                color: ${povData.colours[linkData[1]]}; 
+                ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                ${isEndofTimeline ? "display: none;" : ""}
+              } 
+              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
+                content: url("assets://images/${povData.images[linkData[2]]}");
+                display: inline-block;
+                transform: translateY(5px); 
+              }
+              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::After {
+                ${isEndofTimeline ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                color: ${povData.colours[linkData[1]]}; 
+                ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+              }
+              `
+            }
+
+            archive.mspa.story[pageString].content += `<style>${LinkStyle}</style>`
 
           }
         }
