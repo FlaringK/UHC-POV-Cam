@@ -13,6 +13,7 @@ TODO:
 ### v0.4
 - Added hover text
 - Fixed styling on Collide
+- Fixed paths on Act 7
 
 ### v0.3
 

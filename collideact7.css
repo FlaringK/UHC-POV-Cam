@@ -1,3 +1,4 @@
+/* Collide */
 div[data-pageid*="009987"] .nextArrow div:nth-child(2) {
   position: relative;
 }
@@ -1184,5 +1185,565 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(45) p::Before {
   transform: translateY(5px);
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(45) p::After {
+  color: #2ED73A;
+}
+
+/* Act 7 */
+div[data-pageid*="010027"] .nextArrow div:first-child {
+  margin-bottom: 20px;
+}
+div[data-pageid*="010027"] .nextArrow div + div {
+  font-size: x-large !important;
+}
+
+div[data-pageid*="010027"] .nextArrow div:nth-child(2) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(2):hover::before {
+  content: "John";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(2) a {
+  color: #0715CD !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(2) p::Before {
+  content: url("assets://images/john2.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(2) p::After {
+  color: #0715CD;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(3) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(3):hover::before {
+  content: "Rose";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(3) a {
+  color: #B536DA !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(3) p::Before {
+  content: url("assets://images/rose.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(3) p::After {
+  color: #B536DA;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(4) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(4):hover::before {
+  content: "Dave";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(4) a {
+  color: #E00707 !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(4) p::Before {
+  content: url("assets://images/davescratch.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(4) p::After {
+  color: #E00707;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(5) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(5):hover::before {
+  content: "Jade";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(5) a {
+  color: #4AC925 !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(5) p::Before {
+  content: url("assets://images/jade.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(5) p::After {
+  color: #4AC925;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(6) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(6):hover::before {
+  content: "The Mayor";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(6) a {
+  color: #000000 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(6) p::Before {
+  content: url("assets://images/dersite.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(6) p::After {
+  content: "End of The Mayor's Timeline.";
+  color: #000000;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(7) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(7):hover::before {
+  content: "Prospitian Monarch";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(7) a {
+  color: #FFFFFF !important;
+  text-shadow: 1px 1px 0px black;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(7) p::Before {
+  content: url("assets://images/prospitian.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(7) p::After {
+  content: "End of Prospitian Monarch's Timeline.";
+  color: #FFFFFF;
+  text-shadow: 1px 1px 0px black;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(8) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(8):hover::before {
+  content: "Aradia";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(8) a {
+  color: #A10000 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(8) p::Before {
+  content: url("assets://images/aradia.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(8) p::After {
+  content: "End of Aradia's Timeline.";
+  color: #A10000;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(9) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(9):hover::before {
+  content: "Tavros";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(9) a {
+  color: #A15000 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(9) p::Before {
+  content: url("assets://images/tavros.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(9) p::After {
+  content: "End of Tavros's Timeline.";
+  color: #A15000;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(10) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(10):hover::before {
+  content: "Karkat";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(10) a {
+  color: #626262 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(10) p::Before {
+  content: url("assets://images/karkat.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(10) p::After {
+  content: "End of Karkat's Timeline.";
+  color: #626262;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(11) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(11):hover::before {
+  content: "Kanaya";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(11) a {
+  color: #008141 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(11) p::Before {
+  content: url("assets://images/kanaya.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(11) p::After {
+  content: "End of Kanaya's Timeline.";
+  color: #008141;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(12) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(12):hover::before {
+  content: "Terezi";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(12) a {
+  color: #008282 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(12) p::Before {
+  content: url("assets://images/terezi.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(12) p::After {
+  content: "End of Terezi's Timeline.";
+  color: #008282;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(13) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(13):hover::before {
+  content: "Vriska";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(13) a {
+  color: #005682 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(13) p::Before {
+  content: url("assets://images/vriska.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(13) p::After {
+  content: "End of Vriska's Timeline.";
+  color: #005682;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(14) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(14):hover::before {
+  content: "Jane";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(14) a {
+  color: #00D5F2 !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(14) p::Before {
+  content: url("assets://images/jane.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(14) p::After {
+  color: #00D5F2;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(15) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(15):hover::before {
+  content: "Roxy";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(15) a {
+  color: #FF6FF2 !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(15) p::Before {
+  content: url("assets://images/roxy.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(15) p::After {
+  color: #FF6FF2;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(16) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(16):hover::before {
+  content: "Dirk";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(16) a {
+  color: #F2A400 !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(16) p::Before {
+  content: url("assets://images/dirk.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(16) p::After {
+  color: #F2A400;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(17) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(17):hover::before {
+  content: "Jake";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(17) a {
+  color: #1F9400 !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(17) p::Before {
+  content: url("assets://images/jake.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(17) p::After {
+  color: #1F9400;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(18) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(18):hover::before {
+  content: "Meenah";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(18) a {
+  color: #77003C !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(18) p::Before {
+  content: url("assets://images/feferi.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(18) p::After {
+  content: "End of Meenah's Timeline.";
+  color: #77003C;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(19) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(19):hover::before {
+  content: "Calliope";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(19) a {
+  color: #929292 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(19) p::Before {
+  content: url("assets://images/calliope.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(19) p::After {
+  content: "End of Calliope's Timeline.";
+  color: #929292;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(20) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(20):hover::before {
+  content: "Calliope";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(20) a {
+  color: #FF0000 !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(20) p::Before {
+  content: url("assets://images/calliope.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(20) p::After {
+  content: "End of Calliope's Timeline.";
+  color: #FF0000;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(21) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(21):hover::before {
+  content: "Caliborn";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(21) a {
+  color: #2ED73A !important;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(21) p::Before {
+  content: url("assets://images/caliborn.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(21) p::After {
+  color: #2ED73A;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(22) {
+  position: relative;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(22):hover::before {
+  content: "Lord English";
+  position: absolute;
+  top: 10px;
+  right: calc(100% + 5px);
+  background: white;
+  border: solid black 1px;
+  font-size: 12px;
+  padding: 2px;
+  white-space: nowrap;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(22) a {
+  color: #2ED73A !important;
+  display: none;
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(22) p::Before {
+  content: url("assets://images/lordenglish.png");
+  display: inline-block;
+  transform: translateY(5px);
+}
+div[data-pageid*="010027"] .nextArrow div:nth-child(22) p::After {
+  content: "End of Lord English's Timeline.";
   color: #2ED73A;
 }

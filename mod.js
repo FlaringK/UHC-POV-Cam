@@ -14,7 +14,7 @@ module.exports = {
   // Set collide style manually
   styles: [
       {
-          source: "./collide.css"
+          source: "./collideact7.css"
       }
   ],
 
@@ -108,7 +108,7 @@ module.exports = {
       edit(archive) {
 
         // For each page in homestuck
-        for (let i = 1901; i < 10027; i++) {
+        for (let i = 1901; i < 10028; i++) {
           const pageString = i < 10000 ? `00${i}` : `0${i}`
           // if the page exists (prevents certain errors)
           if (archive.mspa.story[pageString] && nextPageArray[pageString]) {
