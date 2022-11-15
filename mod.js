@@ -91,6 +91,7 @@ module.exports = {
 
       for (let i = 0; i < linkData.length; i++) {
         if (linkData[i][4][0]) nextpages.push(`00${linkData[i][4][0][0]}`)
+        else nextpages.push(nextpages[nextpages.length - 1])
       }
 
       nextPageArray[`00${pagenum}`] = nextpages
