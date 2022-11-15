@@ -1,7 +1,7 @@
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
-  modVersion: 0.1,
+  modVersion: 0.2,
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: "A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><h3>Changing the below options will require a full reload [ctrl + r]</h3>",
