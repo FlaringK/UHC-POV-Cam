@@ -88,22 +88,21 @@ module.exports = {
 
       for (let i = 0; i < linkData.length; i++) {
         // Account for missing page indexs 
-        if (linkData[i][4][0]) nextpages.push(`00${linkData[i][4][0][0]}`)
+        if (linkData[i][4][0]) nextpages.push(linkData[i][4][0][0] < 10000 ? `00${linkData[i][4][0][0]}` : `0${linkData[i][4][0][0]}`)
+        //`00${linkData[i][4][0][0]}`)
         else nextpages.push(undefined)
       }
 
-      nextPageArray[`00${pagenum}`] = nextpages
+      nextPageArray[pagenum < 10000 ? `00${pagenum}` : `0${pagenum}`] = nextpages
 
     }
-
-    api.logger.info(nextPageArray)
     
     return {
       edit(archive) {
 
         // For each page in homestuck
-        for (let i = 1901; i < 9999; i++) {
-          const pageString = `00${i}`;
+        for (let i = 1901; i < 10027; i++) {
+          const pageString = i < 10000 ? `00${i}` : `0${i}`
           // if the page exists (prevents certain errors)
           if (archive.mspa.story[pageString] && nextPageArray[pageString]) {
 
@@ -116,7 +115,7 @@ module.exports = {
                 validNextIndex.push(nextPageArray[pageString][i])
               } else {
                 validNextPages.push(false)
-                validNextIndex.push("001901")
+                validNextIndex.push(pageString)
               }
             }
 
@@ -155,7 +154,7 @@ module.exports = {
               `
             }
 
-            archive.mspa.story[pageString].content += `<style>${LinkStyle}</style>`
+            archive.mspa.story[pageString].content += `\n<style>${LinkStyle}</style>`
 
           }
         }
