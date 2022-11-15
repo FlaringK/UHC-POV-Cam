@@ -9,7 +9,7 @@ This mod is unfinished, as you can probably tell by the version.
 TODO:
 - Enable hover text
 - Remove the need for a full reload when changing options
-- Resolve missing pages
+- Fix Start over / go back bug
 
 ## Changelog
 
