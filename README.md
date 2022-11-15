@@ -1,6 +1,6 @@
 # UHC-POV-Cam
 
-A port of [https://github.com/madman-bob/Homestuck-POV-Cam](madman-bob's Homestuck POV Cam Chrome extension to the UHC.
+A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homestuck POV Cam Chrome extension to the UHC.
 
 **This mod will unfortunately bug out with multiple tabs, only the furthest right tab will display the correct timeline links**
 
