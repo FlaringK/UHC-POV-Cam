@@ -10,6 +10,9 @@ TODO:
 
 ## Changelog
 
+### v0.4.1
+- Updated DOTA timeline intersection
+
 ### v0.4
 - Added hover text
 - Fixed styling on Collide
