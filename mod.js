@@ -11,16 +11,14 @@ module.exports = {
     './icons/': 'assets://images/'
   },
 
-  // Set collide style manually
-  styles: [
-      {
-          source: "./collideact7.css"
-      }
-  ],
-
   // Turn on and off each page group
   settings: {
-    boolean: [{
+    boolean: [
+    {
+      model: "disableHover",
+      label: "Always display character names",
+      desc: "Always display each timeline's character name instead of viewing them by hovering with your mouse."
+    },{
       model: "Kids",
       label: "Disable Beta Kids timelines",
     },
@@ -105,6 +103,14 @@ module.exports = {
     }
     
     return {
+
+      // Set collide style manually
+      styles: [
+        {
+          source: api.store.get("disableHover") ? "./collideact7_nohover.css" : "./collideact7.css"
+        }
+      ],
+
       edit(archive) {
 
         // For each page in homestuck
@@ -144,7 +150,7 @@ module.exports = {
                 ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
                 position: relative;
               }
-              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}):hover::before {
+              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
                 content: "${povData.peoplenames[linkData[0]]}";
                 position: absolute;
                 top: 10px;
