@@ -10,6 +10,9 @@ TODO:
 
 ## Changelog
 
+### v0.5
+- Added "Always display names" option
+
 ### v0.4.1
 - Updated DOTA timeline intersection
 
