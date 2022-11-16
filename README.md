@@ -30,5 +30,5 @@ TODO:
 ### v0.2
 
 - Accounted for missing page indexes within timelines.json
-- Revised john.png with john2.png
+- Revised john.png
 - Fixed tab bug
