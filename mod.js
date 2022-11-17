@@ -1,3 +1,5 @@
+let toPageString = pageNumber => pageNumber < 10000 ? `00${pageNumber}` : `0${pageNumber}`
+
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
@@ -93,21 +95,25 @@ module.exports = {
 
       for (let i = 0; i < linkData.length; i++) {
         // Account for missing page indexs 
-        if (linkData[i][4][0]) nextpages.push(linkData[i][4][0][0] < 10000 ? `00${linkData[i][4][0][0]}` : `0${linkData[i][4][0][0]}`)
+        if (linkData[i][4][0]) nextpages.push(toPageString(linkData[i][4][0][0]))
         //`00${linkData[i][4][0][0]}`)
         else nextpages.push(undefined)
       }
 
-      nextPageArray[pagenum < 10000 ? `00${pagenum}` : `0${pagenum}`] = nextpages
+      nextPageArray[toPageString(pagenum)] = nextpages
 
     }
     
     return {
 
-      // Set collide style manually
+      
       styles: [
         {
+          // Set collide & act 7 style manually
           source: api.store.get("disableHover") ? "./collideact7_nohover.css" : "./collideact7.css"
+        },
+        {
+          source: "./povmap.css"
         }
       ],
 
@@ -115,7 +121,7 @@ module.exports = {
 
         // For each page in homestuck
         for (let i = 1901; i < 10028; i++) {
-          const pageString = i < 10000 ? `00${i}` : `0${i}`
+          const pageString = toPageString(i)
           // if the page exists (prevents certain errors)
           if (archive.mspa.story[pageString] && nextPageArray[pageString]) {
 
@@ -145,6 +151,7 @@ module.exports = {
               let linkData = timelinePage[timelinePage.length - i - 1]
               let linkIndex = archive.mspa.story[pageString].next.length - i
               let isEndofTimeline = !validNextPages[timelinePage.length - i - 1]
+
               LinkStyle += `
               div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
                 ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
@@ -177,6 +184,7 @@ module.exports = {
                 ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
               }
               `
+
             }
 
             archive.mspa.story[pageString].content += `\n<style>${LinkStyle}</style>`
@@ -184,6 +192,108 @@ module.exports = {
           }
         }
 
+        archive.tweaks.modHomeRowItems.push({
+          href: "/povmap",
+          thumbsrc: "https://file.garden/X8UcPOa95myVypAH/fic/plagiarism/wordle.png",
+          title: 'Homestuck POV Cam Map',
+          description: `<p>Test</p>`
+        });
+
+      },
+
+    }
+  },
+
+  // Add POV map
+  browserPages: {
+    // UNFINISHED
+    "POVMAP": {
+      component: {
+        title: () => "Timeline Map",
+        template: `
+        <div data-v-4a4152c6 data-v-f1fcf218 class="pageBody customStyles pixelated theme-Denizenthemes-0 povmap"><nav data-v-1e24ec16 data-v-4a4152c6 class="navBanner customNavBanner pixelated"><div data-v-1e24ec16 class="navList"><ul data-v-1e24ec16 class="nav1"><li data-v-1e24ec16><a data-v-1e24ec16 href="/">HOMESTUCK COLLECTION</a></li></ul><div data-v-1e24ec16 class="candyCorn"></div><ul data-v-1e24ec16 class="nav2"><li data-v-1e24ec16><a data-v-1e24ec16 href="/help">HELP</a></li></ul><div data-v-1e24ec16 class="candyCorn"></div><ul data-v-1e24ec16 class="nav3"><li data-v-1e24ec16><a data-v-1e24ec16 href="/map">MAP</a></li><li data-v-1e24ec16><a data-v-1e24ec16 href="/log">LOG</a></li><li data-v-1e24ec16><a data-v-1e24ec16 href="/search">SEARCH</a></li></ul><div data-v-1e24ec16 class="candyCorn"></div><ul data-v-1e24ec16 class="nav4"><li data-v-1e24ec16><a data-v-1e24ec16 href="/news">NEWS</a></li><li data-v-1e24ec16><a data-v-1e24ec16 href="/music">MUSIC</a></li></ul><div data-v-1e24ec16 class="candyCorn"></div><ul data-v-1e24ec16 class="nav5"><li data-v-1e24ec16><a data-v-1e24ec16 href="/evenmore">MORE</a></li><li data-v-1e24ec16><a data-v-1e24ec16 href="/settings">SETTINGS</a></li><li data-v-1e24ec16><a data-v-1e24ec16 href="/credits">CREDITS</a></li></ul></div></nav>
+        
+        <div data-v-4a4152c6 class="pageFrame">
+        <div data-v-4a4152c6 class="pageContent">
+
+        <div data-v-4a4152c6 class="mediaContent">
+        <h2 data-v-4a4152c6 class="pageTitle">Homestuck POV Timeline Map</h2>
+        <div data-v-4a4152c6 class="media"><img data-v-5ff78e9b data-v-4a4152c6 src="assets://storyfiles/hs2/02546_2.gif" alt class="panel"></div>
+        </div>
+
+        <div data-v-4a4152c6 class="textContent">
+        <p data-v-74e43957 data-v-4a4152c6 class="prattle text bold" style="font-size: 1em; line-height: 1.15;">
+        Under contruction
+        </p>
+        
+        <nav data-v-c8c019be data-v-4a4152c6 class="pageNavigation">
+        <div data-v-c8c019be class="nextArrow">
+        
+        <!-- Beta kids -->
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/john.png">
+        <img src="assets://images/rose.png">
+        <img src="assets://images/dave.png">
+        <img src="assets://images/jade.png">
+        &gt; <a data-v-c8c019be href="/mspa/003790" class="nextArrowLink">==></a></p></div>
+        
+        <!-- Beta Guardians -->
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/nanna.png">
+        <img src="assets://images/mom.png">
+        <img src="assets://images/bro.png">
+        <img src="assets://images/grandpa.png">
+        &gt; <a data-v-c8c019be href="/mspa/003787" class="nextArrowLink">==></a></p></div>
+
+        <!-- Trolls -->
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/aradia.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/tavros.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/sollux.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/karkat.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/nepeta.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/kanaya.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/terezi.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/vriska.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/equius.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/gamzee.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/eridan.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        <div data-v-c8c019be><p data-v-c8c019be> 
+        <img src="assets://images/feferi.png">
+        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        
+        </div>
+        </nav>
+        </div>
+
+        </div>
+        </div>
+
+        <div data-v-61a86b91 data-v-4a4152c6 class="footer theme-Denizenthemes-0 pixelated" style="width: 950px;"><img data-v-5ff78e9b data-v-61a86b91 src="assets://images/mspalogo_mspa.png" alt draggable="false" class="bannerImage left"><img data-v-5ff78e9b data-v-61a86b91 src="assets://images/mspalogo_mspa.png" alt draggable="false" class="bannerImage right"></div>
+        </div>
+        `,
+        scss: ``
       }
     }
   }
