@@ -12,6 +12,7 @@ TODO:
 
 ### v0.6
 - Redid inserting link code
+- Added timeline map page (/povmap)
 
 ### v0.5
 - Added "Always display names" option

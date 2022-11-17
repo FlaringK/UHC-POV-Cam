@@ -1,3 +1,103 @@
 .povmap .nextArrow img {
   transform: translateY(5px); 
 }
+
+.povmap .nextArrow {
+  text-align: center !important;
+}
+.povmap .nextArrow > div {
+  text-align: left !important;
+}
+
+.povmap .alpha {
+  transform: translateY(0.6em); 
+}
+.povmap .alpha img {
+  transform: translateY(-0.6em) translateY(5px); 
+}
+
+.povmap .flex {
+  display: flex;
+}
+.povmap .flex > div {
+  width: 50%;
+}
+
+/* colors */
+.povmap .beta a, .povmap .alpha a, .povmap .jr2 a, .povmap .dp2 a { text-decoration: none;}
+.povmap .beta c, .povmap .alpha c, .povmap .jr2 c, .povmap .dp2 c { text-decoration: underline;}
+
+.povmap .beta c:nth-child(1) { color: #0715cd }
+.povmap .beta c:nth-child(2) { color: #b536da }
+.povmap .beta c:nth-child(3) { color: #e00707 }
+.povmap .beta c:nth-child(4) { color: #4ac925 }
+.povmap .alpha c:nth-child(1) { color: #00d5f2 }
+.povmap .alpha c:nth-child(2) { color: #f141ef }
+.povmap .alpha c:nth-child(3) { color: #f2a400 }
+.povmap .alpha c:nth-child(4) { color: #1f9400 }
+
+.povmap .dad a { color: #4B4B4B }
+.povmap .bec a { color: #FFFFFF; text-shadow: 1px 1px 0 #000000; }
+
+.povmap .trolls div div:nth-child(1) a { color: #a10000 }
+.povmap .trolls div div:nth-child(2) a { color: #a15000 }
+.povmap .trolls div div:nth-child(3) a { color: #a1a100 }
+.povmap .trolls div div:nth-child(4) a { color: #626262 }
+.povmap .trolls div div:nth-child(5) a { color: #416600 }
+.povmap .trolls div div:nth-child(6) a { color: #008141 }
+.povmap .trolls div div:nth-child(7) a { color: #008282 }
+.povmap .trolls div div:nth-child(8) a { color: #005682 }
+.povmap .trolls div div:nth-child(9) a { color: #000056 }
+.povmap .trolls div div:nth-child(10) a { color: #2b0057 }
+.povmap .trolls div div:nth-child(11) a { color: #6a006a }
+.povmap .trolls div div:nth-child(12) a { color: #77003c }
+
+.povmap .trolls .pre div:nth-child(4) a { color: #ff0000 }
+.povmap .hic a { color: #77003c }
+
+.povmap .cherubs .left div:nth-child(1) a { color: #929292 }
+.povmap .cherubs .left div:nth-child(2) a { color: #323232 }
+.povmap .cherubs .left div:nth-child(3) a { color: #ffffff; text-shadow: 1px 1px 0 #000000; }
+
+.povmap .cherubs .right div:nth-child(1) a { color: #ff0000 }
+.povmap .cherubs .right div:nth-child(2) a { color: #A6A6A6 }
+.povmap .cherubs .right div:nth-child(3) a { color: #2ED73A }
+
+.povmap .carp > div:nth-child(1) a { color: #000000 }
+.povmap .carp > div:nth-child(2) a { color: #ffffff; text-shadow: 1px 1px 0 #000000; }
+
+.povmap .agents div:nth-child(1) a { color: #BF0000 }
+.povmap .agents div:nth-child(2) a { color: #C39797 }
+.povmap .agents div:nth-child(3) a { color: #8F8F8F }
+.povmap .agents div:nth-child(4) a, .povmap .jackeng a { color: #000000 }
+
+.povmap .sprites .left div:nth-child(1) a { color: #00d5f2 }
+.povmap .sprites .left div:nth-child(2) a { color: #f2a400 }
+.povmap .sprites .left div:nth-child(3) a { color: #4ac925 }
+.povmap .sprites .left div:nth-child(4) a { color: #0715cd }
+.povmap .sprites .left div:nth-child(5) a { color: #b536da }
+.povmap .sprites .left div:nth-child(6) a { color: #1f9400 }
+.povmap .sprites .left div:nth-child(7) a { color: #e00707 }
+
+.povmap .sprites .right div:nth-child(1) a { color: #f141ef }
+.povmap .sprites .right div:nth-child(2) a { color: #f2a400 }
+.povmap .sprites .right div:nth-child(3) a { color: transparent }
+.povmap .sprites .right div:nth-child(4) a { color: #0715cd }
+.povmap .sprites .right div:nth-child(5) a { color: #b536da }
+.povmap .sprites .right div:nth-child(6) a { color: #1f9400 }
+
+.povmap .jr2 c:nth-child(1) { color: #f141ef }
+.povmap .jr2 c:nth-child(2) { color: #b536da }
+
+.povmap .dp2 c:nth-child(1) { color: #f2a400 }
+.povmap .dp2 c:nth-child(2) { color: #4ac925 }
+
+.povmap .snowman a { color: #000000 }
+
+.povmap .felt div:nth-child(1) a { color: #FFEA00 }
+.povmap .felt div > div:nth-child(2) a { color: #4040FD }
+.povmap .felt div:nth-child(3) a { color: #DF0000 }
+.povmap .felt div:nth-child(4) a { color: #A357FF }
+.povmap .felt div:nth-child(5) a { color: #FF6000 }
+.povmap .felt div:nth-child(6) a { color: #008140 }
+.povmap .felt div:nth-child(7) a { color: #950015 }
