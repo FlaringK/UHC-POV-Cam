@@ -84,28 +84,8 @@ module.exports = {
     // Load Json
     const povData = api.readJson('./timelines.json')
     api.logger.info(povData)
-
-    // Array of next page indexes
-    let nextPageArray = {}
-
-    // Fill nextPageArray
-    // Do this before edit due to some links not having pages
-    for (const [pagenum, linkData] of Object.entries(povData.timelines)) {
-      let nextpages = []
-
-      for (let i = 0; i < linkData.length; i++) {
-        // Account for missing page indexs 
-        if (linkData[i][4][0]) nextpages.push(toPageString(linkData[i][4][0][0]))
-        //`00${linkData[i][4][0][0]}`)
-        else nextpages.push(undefined)
-      }
-
-      nextPageArray[toPageString(pagenum)] = nextpages
-
-    }
     
     return {
-
       
       styles: [
         {
@@ -123,67 +103,56 @@ module.exports = {
         for (let i = 1901; i < 10028; i++) {
           const pageString = toPageString(i)
           // if the page exists (prevents certain errors)
-          if (archive.mspa.story[pageString] && nextPageArray[pageString]) {
+          if (archive.mspa.story[pageString] && povData.timelines[String(i)]) {
 
-            // Check if page numbers are valid
-            var validNextPages = []
-            var validNextIndex = []
-            for (let i = 0; i < nextPageArray[pageString].length; i++) {
-              if (nextPageArray[pageString][i]) {
-                validNextPages.push(true)
-                validNextIndex.push(nextPageArray[pageString][i])
-              } else {
-                validNextPages.push(false)
-                validNextIndex.push(pageString)
-              }
-            }
-
-            // Add new next pages to 
-            archive.mspa.story[pageString].next = archive.mspa.story[pageString].next.concat(validNextIndex)
-
-            // Create style for links
-            const timelinePage = povData.timelines[String(i)]
-
+            let pageLinkDataList = povData.timelines[String(i)]
             let LinkStyle = ""
 
-            // Loop throught array backwards to avoid styling the original links 
-            for (let i = timelinePage.length - 1; i >= 0; i--) {
-              let linkData = timelinePage[timelinePage.length - i - 1]
-              let linkIndex = archive.mspa.story[pageString].next.length - i
-              let isEndofTimeline = !validNextPages[timelinePage.length - i - 1]
+            // Each Character data
+            for (let j = 0; j < pageLinkDataList.length; j++) {
+              let linkData = pageLinkDataList[j]
 
-              LinkStyle += `
-              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
-                ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
-                position: relative;
+              // Add in missing pageNext
+              if (!linkData[4][0]) linkData[4][0] = [parseInt(pageString)]
+
+              for (let k = 0; k < linkData[4].length; k++) {
+                archive.mspa.story[pageString].next.push(toPageString(linkData[4][k][0]))
+                let linkIndex = archive.mspa.story[pageString].next.length
+
+                LinkStyle += `
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
+                  ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
+                  position: relative;
+                }
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                  content: "${povData.peoplenames[linkData[0]]}";
+                  position: absolute;
+                  top: 10px;
+                  right: calc(100% + 5px);
+                  background: white;
+                  border: solid black 1px;
+                  font-size: 12px;
+                  padding: 2px;
+                  white-space: nowrap;
+                }
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
+                  color: ${povData.colours[linkData[1]]} !important; 
+                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                  ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                } 
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
+                  content: url("assets://images/${povData.images[linkData[2]]}");
+                  display: inline-block;
+                  transform: translateY(5px); 
+                }
+                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::After {
+                  ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                  color: ${povData.colours[linkData[1]]}; 
+                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                }
+                `
+
               }
-              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
-                content: "${povData.peoplenames[linkData[0]]}";
-                position: absolute;
-                top: 10px;
-                right: calc(100% + 5px);
-                background: white;
-                border: solid black 1px;
-                font-size: 12px;
-                padding: 2px;
-                white-space: nowrap;
-              }
-              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
-                color: ${povData.colours[linkData[1]]} !important; 
-                ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-                ${isEndofTimeline ? "display: none;" : ""}
-              } 
-              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
-                content: url("assets://images/${povData.images[linkData[2]]}");
-                display: inline-block;
-                transform: translateY(5px); 
-              }
-              div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::After {
-                ${isEndofTimeline ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
-                color: ${povData.colours[linkData[1]]}; 
-                ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-              }
-              `
 
             }
 
@@ -257,13 +226,13 @@ module.exports = {
         &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/karkat.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/004077" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/nepeta.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/003955" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/kanaya.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/005220" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/terezi.png">
         &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
@@ -272,16 +241,16 @@ module.exports = {
         &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/equius.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/004108" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/gamzee.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/003910" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/eridan.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/003966" class="nextArrowLink">==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/feferi.png">
-        &gt; <a data-v-c8c019be href="/mspa/005479" class="nextArrowLink">==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/004080" class="nextArrowLink">==></a></p></div>
         
         </div>
         </nav>

@@ -10,8 +10,12 @@ TODO:
 
 ## Changelog
 
+### v0.6
+- Redid inserting link code
+
 ### v0.5
 - Added "Always display names" option
+- Added Timeline Map (Unfishined)
 
 ### v0.4.1
 - Updated DOTA timeline intersection
