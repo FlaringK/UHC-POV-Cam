@@ -138,6 +138,7 @@ module.exports = {
                   font-size: 12px;
                   padding: 2px;
                   white-space: nowrap;
+                  color: black;
                 }
                 div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
                   color: ${povData.colours[linkData[1]]} !important; 

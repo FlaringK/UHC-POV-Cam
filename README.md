@@ -10,6 +10,9 @@ TODO:
 
 ## Changelog
 
+#### v0.6.1
+- Fixed white hover text in scratch theme
+
 ### v0.6
 - Redid inserting link code
 - Finished Timeline map (/povmap)
