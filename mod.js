@@ -331,7 +331,7 @@ module.exports = {
         &gt; <a data-v-c8c019be href="/mspa/006480" class="nextArrowLink">Aranea ==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/equius.png">
-        &gt; <a data-v-c8c019be href="/mspa/006892" class="nextArrowLink">Horrus ==></a></p></div>
+        &gt; <a data-v-c8c019be href="/mspa/006892" class="nextArrowLink">Horuss ==></a></p></div>
         <div data-v-c8c019be><p data-v-c8c019be> 
         <img src="assets://images/gamzee.png">
         &gt; <a data-v-c8c019be href="/mspa/006892" class="nextArrowLink">Kurloz ==></a></p></div>

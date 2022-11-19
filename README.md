@@ -2,16 +2,13 @@
 
 A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homestuck POV Cam Chrome extension to the UHC.
 
-This mod is unfinished, as you can probably tell by the version.
-
-TODO:
-- Remove the need for a full reload when changing options
-- Fix Start over / go back bug
+[Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
 ## Changelog
 
 #### v0.6.1
 - Fixed white hover text in scratch theme
+- Fixed Horuss's name in the timeline povmap
 
 ### v0.6
 - Redid inserting link code
