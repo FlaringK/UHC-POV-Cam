@@ -2,7 +2,7 @@
 
 A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homestuck POV Cam Chrome extension to the UHC.
 
-[Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
+Download this mod as a ZIP file and place it into your mods folder within the UHC asset pack. [Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
 ## Changelog
 
