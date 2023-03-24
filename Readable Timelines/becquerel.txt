@@ -1,0 +1,63 @@
+Name: Becquerel
+Colour: #FFFFFF
+Image: becquerel.png
+Group: Kids' Guardians
+
+Be created
+3840
+
+Arrive on Earth
+2973
+
+Witness arrival of Jade to island, Dave to planet
+3775
+
+Take Jade to find present
+3032-3033
+
+Be controlled by Tavros
+4950-4954
+
+Locate and feed the devilbeast you call a pet.
+2842-2844
+
+Play with Jade
+Tuck Jade in
+2880-2883
+
+Be asleep in foyer
+2976
+
+Take Jade home
+3287-3288
+
+Teleport bed where Jade will land
+4556-4557
+
+Be asleep in front of fireplace
+4760-4761
+4768
+
+Be woken by John
+Teleport globe into space
+4777-4779
+
+Prototype self, destroy meteor
+4827
+
+Name: Becsprite
+Group: Kids' Sprites
+
+Destroy uranium imp
+4901-4913
+
+Take Jade home
+4920-4921
+
+Be controlled by Tavros (reprise)
+4957-4958
+
+Be given irradiated steak
+Become Jadesprite
+5109-5111
+~ Jadesprite

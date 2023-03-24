@@ -1,0 +1,45 @@
+Name: Itchy
+Colour: #FFEA00
+Image: ball01.png
+Group: The Felt
+
+Become minion of Caliborn
+7839
+
+Assist Caliborn in his quest
+7846
+7965
+8011
+7906
+
+Midnight Crew: Act 1031
+2733
+
+Swap everyone's hats around
+Untie Doze
+3082
+3084
+
+Swap SS's hat
+Be killed by SS
+3086-3089
+
+	Play cards with die
+	3110-3112
+<==
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

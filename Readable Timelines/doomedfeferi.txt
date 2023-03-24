@@ -1,0 +1,16 @@
+Name: Doomed Feferi
+Colour: #77003C
+Image: feferi.png
+Group: Trolls
+
+Heal The Mayor
+6589-6590
+
+	Meteor montage
+	9349
+
+Ministrife (frame 1707, bottom right)
+7327
+
+Be double killed by LE
+7161

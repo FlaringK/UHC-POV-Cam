@@ -1,0 +1,42 @@
+Name: Draconian Dignitary
+Colour: #C39797
+Image: diamonds.png
+Group: Kids' Agents
+
+Be in background
+3432
+
+Be contacted by CD
+Be informed that CD has WQs ring
+3688
+
+Be encouraged to make Becquerel
+4961-4962
+
+Lurk outside Dave's room
+3759-3760
+
+Kill doomed Dave
+4963-4964
+
+Be hidden underneath Dave's house as he throws himself out the window
+3763-3764
+
+Discard Rose's story, Dave's copy of Sburb
+Use MEOW code
+3824-3828
+
+Create Becquerel
+3840
+
+Keep Jack's destructive tendencies in check
+Be informed of Jack's inability to kill Jade
+Give CD new mission
+5458-5461
+
+Be on Derse's moon
+Wake Dave
+5839-5840
+
+Be killed by Dave
+6009

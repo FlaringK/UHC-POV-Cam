@@ -1,0 +1,340 @@
+Name: Jane
+Colour: #00D5F2
+Image: jane.png
+Group: Alpha Kids
+
+Universe starts up
+Play piano
+6013
+
+Be introduced
+6015-6017
+
+Examine fetch modus.
+Look around
+Talk with Jake
+Talk with UU
+Talk with Roxy
+6022-6036
+	6088
+<==
+6037-6061
+
+Sneak out of house
+Talk with Jake
+6095-6117
+
+Activate Lil' Seb
+Damage poppop
+Talk with Dirk
+Level up.
+6137-6142
+6154-6169
+
+Get mail
+6178-6183
+
+Wake up
+Regard the miracle of a new beginning
+Be greeted by Jack Noir
+Die
+6290-6299
+
+Do some sorta lifey thing
+Wake up
+Talk with Roxy
+Install Sburb client
+Have computer explode
+Talk with Dirk
+6307-6310
+6312-6360
+
+Talk with Lil' Hal, Roxy
+6469-6471
+
+Talk with Jake
+Make fool of self
+Talk with Lil' Hal
+Have dream self protected by WQ
+6487-6501
+
+Enter.
+6562-6565
+
+	Meet Tavrosprite
+	9349
+	
+	Follow the yellow brick road
+	Find Jade, Calliope
+	Recognise Calliope's symbol
+	Perform expression of in-person friendship: "hug"
+	Consider making trollsona
+	9088-9105
+	
+	Tell story
+	9164-9173
+	
+	Talk of unanticipated factor
+	9255-9258
+	
+	Be told of unexpected leader
+	9305-9307
+	
+	Fall through spiral
+	Arrive on yellow brick road
+	Enter memory of Echidna's lair
+	Wake up
+	Reunite with Roxy
+	Meet John
+	Witness creation of Jasprosesprite^2
+	9461-9492
+	
+	:O
+	9547-9551
+	
+	Y34H, SH3'S JUST GONN4 BR1NG N3P3T4 B4CK 1SN'T SH3
+	9569-9571
+	
+		Character select
+		9581
+	<====
+	Be introduced to Calliope
+	Flatter Calliope
+	9582-9585
+	
+		Character select
+		9596
+	<====
+	Talk with John
+	9597-9599
+	
+		Character select
+		9613
+	<====
+	Notice Jasprosesprite^2 reappear
+	Be taken to LOCAH by Japrosesprite^2
+	Be introduced to Nannasprite
+	9614-9624
+	
+		Character select
+		9704
+	<====
+	Talk with Nannasprite
+	Meet Nannaspritex2
+	9705-9709
+	
+	Be on Derse
+	Prepare to fight Condesce
+	Witness arrival of Condesce
+	9876-9886
+	9986
+	
+	Collide
+	Revive Rose, Kanaya, Jake
+	9987
+	
+	Be healed by Nannasprite
+	9989
+	
+	Be helped up by John
+	9990
+	
+	Fly off
+	9991
+	
+	Revive Dirk
+	9993
+	
+	Be on frog platform
+	9994
+	
+	Be hugged by Roxy
+	10012-10013
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+	
+	Appear in front of Caliborn
+	Witness bisection of Gamzee
+	Be defeated
+	Witness defeat of Caliborn
+	9318-9345
+
+Arrive on LOCAH
+Talk with Calliope, Roxy, Jake
+Meet Gamzee
+Witness creation of Tavrisprite, Tavrisplosion
+6720
+	6721
+<==
+	6722
+<==
+	6723
+<==
+6724-6725
+6727-6737
+
+Snooze on Prospit
+6844
+
+Look for dad
+Talk to Lil' Hal, Caliope
+6851-6862
+
+Talk with Lil' Hal
+Become Roxy's server
+Teleport to Derse
+Meet dream Dirk, Jake
+6935-6951
+
+Talk to Roxy
+6981
+
+Meet Dirk on derse
+Be told off by Dirk
+Be killed by Red Miles
+7038-7041
+
+Unite.
+7152
+7156-7157
+
+Play keep away with Dirk's head
+7365-7366
+
+Enter
+7160
+
+Proceed through game
+7338
+
+Prepare for birthday party
+Talk with Jake
+Break headset
+Abscond
+7417-7436
+
+Ollie outie.
+Talk with Caliborn
+Keep absconding.
+7446-7458
+
+Return home.
+Put on tiaratop
+Talk with Jake
+Receive gift from Calliope
+Miss conversation with Roxy
+Alchemize jujus
+Engage trickster mode
+Fly to LOMAX
+Convert Jake
+Fly to Derse
+Convert Roxy
+Fly to LOPAN
+Get Fefetasprite
+Fly to LOTAK
+Convert Dirk
+Witness dear, sweet precious Fefetasplosion
+Alchemize
+Go back to Act 6 Act 5 Act 1
+7583-7680
+
+Act 6 Act 5 Act 1 x2 combo
+7688-7692-2
+7696-7704-2
+7716-7748-2
+7752
+7758-7762-2
+7770-7774-2
+7778-7782-2
+7786-7792-2
+7798-7802-2
+Colour: #FF0000
+7804-7808-2
+7814-7824-2
+
+Create GCat
+8178
+
+Glitch out
+Interrogate Jake on Derse
+Have glitches removed by John
+8185-8187
+8335-8346
+
+Threaten Karkat, Kanaya on LOFAF
+Kill Karkat
+Resurrect Karkat
+8224-8242
+
+Sell Kanaya potions
+8298-8300
+
+Build Jake's house on LOMAX
+8431-8434
+
+Notice flying battleship
+8461-8465
+
+Follow Prospitian battleship to Derse
+Report to Jade
+8469-8471
+
+Notice angels
+8487-8493
+
+TALLY HO!
+8500-8501
+
+Tell Jake off
+Be taunted by Aranea
+Witness Jake beat Jade, Aranea kill Jade
+8506-8511
+8517
+8519
+8525-8551
+
+Attempt to resurrect Jade
+Be distracted by Gamzee
+Escape from Gamzee while he's distracted by Terezi
+8557-8559
+8563-8565
+8582-8595
+8599
+
+Attempt to resurrect Jade
+Notice Jade's body is being protected by PM, Jack Noir
+8610-8612
+8618-8634
+
+Be flown past by Rose
+8659
+8661
+
+Kill Jake
+8664-8668
+8670
+
+Attack Aranea
+8673-8674
+
+Be put to sleep
+8680-8684
+
+Continue attacking anyway
+8690-8693
+8695-8696
+8700-8702
+8736-8737
+
+Condesce arrives
+8745-8752
+
+GAME OVER
+8801
+
+Remem8er.
+9859

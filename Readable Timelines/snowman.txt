@@ -1,0 +1,34 @@
+Name: Snowman
+Colour: #000000
+Image: ball08.png
+Group: The Felt
+
+Be Black Queen
+Become Snowman
+4207-4211
+
+Be exile for Vriska, Terezi
+4420-4431
+4444-4446
+
+Comfort Vriska
+Continue briefing Terezi
+4452-4464
+
+Make dramatic entrance
+3167
+
+Witness SS embarrassing himself
+3204-3205
+
+Interrupt SS
+Rip off SS's arm
+3242-3247
+
+Save SS's life
+Reveal kismesis with SS
+Be shooed by Doc Scratch
+5739-5759
+
+Be killed by SS
+6009

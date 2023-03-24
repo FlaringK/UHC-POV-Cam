@@ -1,0 +1,55 @@
+Name: Diamonds Droog
+Colour: #C39797
+Image: diamonds.png
+Group: Midnight Crew
+
+Command Aradia
+Skip to the end.
+4478-4489
+
+Command Tavros
+5023-5027
+
+Midnight Crew: Act 1031
+2733
+
+Have hat taken by Itchy
+Be punched from future
+Give CD instructions
+3098-3106
+
+Find end of blood trail
+Hit Fins in the past
+Predestined bullet holes are convenient. Gives you something to aim for.
+3128-3133
+3141
+3150
+
+Inform SS that CD is following Fin
+3155
+
+Capture Stitch
+3160-3161
+
+	Be in gunfight with The Felt
+	3165
+	3167-3170
+
+Call SS
+Have Stitch patch up SS's effigy
+3198-3201
+
+Shoot at Biscuit's, Eggs'
+3207-3208
+
+Be freed from madness by SS
+Witness HB eat Eggs
+3214-3220
+
+Ask Clover for the ultimate riddle.
+Hit Clover with newspaper
+Be punched into next week by Cans
+3222-3232
+
+Be dead
+3237

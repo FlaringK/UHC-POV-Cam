@@ -1,0 +1,56 @@
+Name: Clover
+Colour: #A357FF
+Image: ball04.png
+Group: The Felt
+
+Become minion of Caliborn
+7846
+
+Assist Caliborn in his quest
+7922
+7965
+8011
+7906
+
+Midnight Crew: Act 1031
+2733
+
+Appear at the strike of four
+3152
+
+Dance around
+3207
+
+Warn SS of dangers of opening safe
+Be asked by DD to open the safe
+Be hit by newspaper
+3222-3227
+
+Ogle newspaper
+3229-3231
+3233-3234
+
+Erm...
+3236-3237
+
+Turn up in Doc Scratches apartment
+Flip coin
+5732-5735
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+Fight Karkat
+Be defeated by Karkat
+9987

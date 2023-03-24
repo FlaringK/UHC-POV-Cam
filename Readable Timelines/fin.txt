@@ -1,0 +1,41 @@
+Name: Fin
+Colour: #FF6000
+Image: ball05.png
+Group: The Felt
+
+Become minion of Caliborn
+7922
+
+Assist Caliborn in his quest
+7965
+8011
+
+Follow DD from past
+Be hit, then shot from future
+3130-3132
+
+Go downstairs
+3134
+
+Follow CD
+3147-3149
+
+Arrive in Stitch's workshop
+Die from blood loss
+3156-3157
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

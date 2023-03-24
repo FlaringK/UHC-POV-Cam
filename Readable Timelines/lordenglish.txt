@@ -1,0 +1,42 @@
+Name: Lord English
+Colour: #2ED73A
+Image: lordenglish.png
+Group: The Felt
+
+Emerge from Doc Scratch's corpse
+6011
+
+GIRL, QUIT ALL THIS SCURRYING AROUND
+5976-5981
+
+Enter AH's house
+6577-6584
+
+CANE!
+6688-6691
+
+Kill AH
+6700-6713
+
+Destroy dream bubble
+7161
+
+Create cracks around Green Sun
+7848
+7923
+
+Arrive in dream bubble, in front of Meenah, army
+9951-9959
+9983
+
+Collide
+Fight army
+9987
+
+Be pointed at by Hussie
+10004-10005
+
+ACT 7
+Be approached by Vriska, army
+Witness reality crumbling, Vriska using weapon on you
+10027

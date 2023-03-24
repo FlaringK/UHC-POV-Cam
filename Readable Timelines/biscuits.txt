@@ -1,0 +1,45 @@
+Name: Biscuits
+Colour: #FF6000
+Image: ball13.png
+Group: The Felt
+
+Become minion of Caliborn
+8011
+
+Assist Caliborn in his quest
+7906
+
+Midnight Crew: Act 1031
+2733
+
+Be in oven
+3123-3125
+
+Waste exactly four hours on this tomfoolery.
+3151
+3154
+3162
+
+Be shot at
+3207-3209
+
+Be unduplicated
+Retreat into oven
+Be blown up by CD
+3212-3221
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

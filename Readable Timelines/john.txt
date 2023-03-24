@@ -1,0 +1,735 @@
+Name: John
+Colour: #0715CD
+Image: john.png
+Group: Kids
+
+Be created
+3790-3791
+3803-3805
+
+Be sent to Earth
+B1
+3840
+B2
+# Jane's Popop
+
+Arrive on Earth
+3782-3783
+
+Grow up
+4526
+
+Be trolled by Kanaya
+4605-4606
+
+Send Jade birthday present
+2899-2900
+
+Change pesterchum handle
+3425
+3428-3429
+
+Be introduced
+Mess around
+1901-2032
+	3560-3561
+<==
+3562
+
+Get trapped in room
+2033-2113
+
+Kiss poster goodbye
+2123
+
+Create apple
+Enter
+2140-2146
+
+	Name: (John)
+	Be watched by future self
+	9026-9029
+<==
+
+BOY.
+YOU THERE. BOY.
+MAKE HASTE ON THE NARROW CATWALK!
+2150-2170
+
+Second tier prototype sprite
+2175-2193
+	2973
+<==
+2194
+
+STAY WARY OF THESE FOES.
+2234-2236
+2285-2287
+
+Strife!
+2291-2293
+2297
+
+Put the bunny back in the box
+2300-2311
+
+Notice door is fixed
+Be pranked
+Meet Nanasprite
+2316-2331
+
+GET THE COOKIES!
+2334-2338
+
+Put bunny in strife specibus
+Start building
+2371-2390
+
+Hammer your way to victory
+Wonder where can opener is
+2393-2408
+
+Collect loot
+2414-2421
+
+Look on back of captchalogue card
+Punch cards
+2423-2439
+
+Find Colonel Sassacre's daunting text of magical frivolity and practical japery
+Captchalogue captchalogue card
+2442-2461
+
+Make totems
+2514-2522
+
+Shuffle in captchalogue cards
+Make pogo hammer
+Sleep
+2527-2544
+
+Wake up
+Prepare for boss battle
+2551-2563
+
+Boss battle!
+2743
+2779-2785
+
+	Write captcha code walkthrough
+	2745
+<==
+
+Enter Dad's room
+2808-2810
+2846-2849
+
+Mess around with Sylladex
+2863-2879
+
+Talk to Rose
+2889
+2901
+2903-2904
+
+Start building up
+2922-2925
+
+Alchemise
+2952-2969
+
+Build to first gate
+2981
+
+Enter
+3049-3052
+
+Explore
+3258
+
+Be talked to by PM
+3317-3329
+
+Talk to Jade
+3291-3292
+
+Be trolled by Karkat
+3294-3295
+
+Talk to Rose
+3423
+
+Prepare for boss battle
+3334-3335
+
+Be assisted by Jade's grandfather
+3363-3372
+
+Put out fire
+Be commanded by PM
+3384-3390
+3446
+
+Be trolled by Terezi
+3478-3481
+
+Take shortcut
+Be trolled by Karkat, Terezi
+Enter return gate
+3497-3507
+
+Make rocket pack.
+3533-3537
+==>
+	Name: Doomed John
+	
+	PCHOOOOO
+	3538-3540
+	
+	Die
+	
+	Be trolled by Vriska's ghost
+	5781-5785
+	
+	Meet Vriska
+	5805-5825
+	
+	Tell Vriska how you died
+	5849-5853
+	
+	Double die
+	7161
+
+Be convinced by future Dave not to go
+3546-3549
+3552
+
+reconsider...
+Talk with Dave
+Be trolled Karkat
+3563-3568
+
+Be trolled by Terezi
+Proceed to the second gate.
+Be tricked by Dave into captchaloging book
+3583-3595
+
+Open present
+Put the bunny back in the box
+Be trolled by Kanaya, pretend to be Rose
+3605-3614
+
+Make Fear No Anvil
+Pester Davesprite
+3637-3640
+
+Blast off.
+3650-3653
+
+Explore.
+Arrive on meteor
+Find maplehoof, Lil' Cal
+Equip lab suit
+3660-3676
+
+Perform ectobiology
+3765-3794
+
+Be trolled by Karkat
+3803-3807
+
+Get trolled by CG in sane and linear manner.
+3829-3831
+
+Send babies on their way
+3840
+
+Be found by AR
+Be saved from crashing meteor
+3866-3868
+
+Land already
+4530-4532
+
+Recover ring from dream Jade
+3846-3847
+
+Meet PM
+Be given package
+Meet Jack Noir
+Be protected by bunny
+3852-3862
+3869
+
+View clouds
+3882-3886
+
+Find Dad, Mom
+Wake
+Drop ring
+4538-4549
+
+Be trolled by Vriska
+Learn Terezi's, Spinneret's names
+Get server copy
+4553-4555
+
+Continue talking with Vriska
+Use return node
+Dispatch these pests.
+Be confused about bucket
+Talk to Rose
+4561-4582
+
+Make backup computer
+Talk with Vriska
+4623-4625
+
+!!!!!!!!!
+pchoooooooo!
+Talk to Dave
+Send Dave boonbuck
+4632-4637
+
+Talk to Vriska
+4684-4685
+
+Talk with Karkat, Dave in the Fruity Rumpus Asshole Factory
+4688
+4690
+
+Connect to Jade.
+Be interrupted by Nanasprite
+Gain boon from Nanasprite
+4693-4702
+
+Deploy equipment
+4758-4768
+4777-4780
+4787-4790
+
+Learn planet is on fire
+4804
+
+Jade: Enter.
+4827
+
+Meet WV
+4848-4851
+
+Talk to Rose, Karkat, Vriska
+4815-4826
+4828-4841
+
+Be commanded by WV
+4852-4863
+
+Talk with Vriska
+WHY DON'T YOU DO THE WINDY THING?
+Do the windy thing
+4869-4884
+
+Level up.
+Enter village.
+Proceed to Quest Bed.
+Be tricked by Vriska, to tell Vriska to put you to sleep
+Be killed
+4975-4986
+	Remem8er.
+	9859
+
+RISE UP.
+4987
+
+Meet with WV on battlefield
+Find Dad's wallet
+Examine contents
+Talk to Jade
+Talk with Karkat
+Talk to past Karkat
+5097
+5293-5322
+
+Crash car
+Talk with Vriska about killing Tavros
+5362-5368
+5372-5375
+
+8e cre8tive.
+5393-5399
+
+Locate Tumor
+Meet CD
+Reunite with Liv Tyler.
+Read note from Jake
+Receive Warhammer of Zillyhoo
+Give friendly requests
+Notice grimdarkness
+Be killed
+5559-5596
+
+Revive
+Receive message from Vriska
+Be asked on d8
+5749-5759
+
+Revive Rose
+5770
+5764-5772
+
+Be trolled by Karkat
+4527-4528
+
+Prepare to start scratch
+5692-5694
+
+Cascade
+6009
+
+Enter Yellow Yard
+Level up.
+Talk with Jade
+6190-6192
+6194-6205
+
+Learn that Dave, Rose are gods
+Send message to meteor
+6232-6245
+
+	6518
+<==
+
+Year 1
+Play Ghostbusters MMORPG
+Get knocked unconscious
+Get run into by Roxy
+Meet Meenah
+Guard Roxy
+Wake up
+6628-6659
+
+Sing warhammer of Zillyhoo
+Kiss Gamzee (wtf?)
+6844
+
+Year 2
+Watch movie, realise it sucks
+Snap
+Fall unconscious
+7165-7207
+
+Enter dream bubble
+Fight Jack Noir
+Learn new ability
+Distraction
+8onk
+Meet PM
+Wander dream battlefield/LOMAT
+Find ring
+Meet Tavros, Vriska
+7226-7299
+
+Ministrife!!!
+Be speared by Meenah
+7327
+
+Wake up
+Discover ring
+7331-7337
+
+Arrive in new session
+7840-7845
+
+Be asleep
+Join Vriska and her crew
+7847-7914
+7923-7954
+
+Find treasure
+Cut away from reveal
+7967-7975
+
+Cut back to reveal
+7982-7988
+
+Stick hand in thing
+Send arm everywhere, everywhen
+7992-8010
+
+Jump around space, time
+8051-8091
+
+Staredown with Caliborn
+Get punched into next week by Cans
+Chance upon the Slab of the Jaded Fool's Ennui
+8094-8120
+
+Have everyone teleport to you
+8131-8134
+	Name: (John)
+	9110-9119
+
+John Egbert has gone missing.
+8183
+
+Be attempted to be tracked down
+8197
+
+Teleport to LOHAC
+Talk with Dave
+Breeze away from Jade
+8213-8217
+
+Breeze in behind Jade
+Witness Karkat's murder/revival
+Teleport away
+8228-8238
+
+Breeze away glitches from LOLAR
+Talk to Rose, Terezi
+Teleport away from Jade
+8256-8269
+8271
+
+Teleport to LOHAC
+
+==>
+	Interrupt Dave, Jade
+	8302-8304
+
+Be told by future self to visit Roxy
+Breeze glitches out of Jake's cell
+8317-8319
+	Be grabbed by future self
+	8284-8286
+<==
+8320-8334
+	9041-9048
+<==
+8335-8339
+
+Enter Roxy's cell
+Talk with Roxy
+Plan to give ring to Calliope
+8347-8360
+
+Find absence of ring
+Get randomly teleported
+8366-8374
+
+Enter Homosuck
+8382-8430
+
+Escape Homosuck
+GAME OVER
+8784-8801
+
+what the fuck happened here?
+8816-8820
+
+Fly around
+Find Dirk
+Follow Roxy, Rose to LOPAN
+Watch Rose bleed out
+Apologise for failure
+Talk with Roxy
+Notice arrival of Terezi
+Be headbutted by Terezi
+8844-8906
+
+Notice Jade's shoes
+Be told of Jade's death
+3V3RYBODY 1S D34D, JOHN
+Be asked if you've ever seen your denizen
+Tell Roxy of nameless blind prankstress
+Agree to go see denizen
+Get Roxy to see her denizen
+Get Terezi to try mindy thing
+Think of phrase "there's no place like home."
+8922-8948
+	???????
+	Name: (John)
+	9059-9062
+	
+	Go to denizen
+	9071-9072
+
+Go to denizen
+8949-8958
+
+Enter denizen's lair
+8972-8973
+8979-8983
+
+Perform oil retcon
+8985-8997
+
+Play the wind
+8998
+
+Interrogate rogue teen babe
+8999-9025
+
+Re-enter narrative
+Visit early self
+9026-9033
+
+Go to intermission 1
+9034-9044
+
+Tell past self to find Roxy
+	8285-8286
+<==
+9045-9048
+	8318-8334
+<==
+
+there's no place like home...
+9049-9056
+9059-9062
+
+Be given instructions by Terezi
+9071-9087
+
+R3UN1ON
+Confuse all
+Get ring
+Forget name of irrelevant troll
+9106-9108
+9110-9125
+
+FR4M3D
+Save key witness
+9131-9134
+9136-9143
+
+MOM3NT
+Write message on wall
+you don't need him.
+9146-9149
+9151-9163
+
+MURD3R
+Deploy witness at scene of Tavros's murder
+9184-9187
+9189-9201
+
+JUST1C3
+Find Nepeta's corpse
+Plant note blaming Gamzee
+9202-9203
+9205-9218
+
+HONK
+Be noticed by Gamzee
+Honk horn
+9219-9221
+9223-9237
+
+FL1P
+Knock Vriska out
+9259-9262
+9264-9283
+
+Return to LOWAS
+Hold Roxy's hand
+Return LOWAS to narrative
+9289-9304
+
+Arrive in narrative
+Talk with Terezi, Vriska, Rose, Jake, Tavrosprite, Dave
+9363-9385
+
+	Character select screen
+	9386
+<====
+
+Talk with Dave, Karkat
+9387-9392
+
+Talk with Jake
+9413-9414
+
+Be informed by Terezi of Dave's thoughts on your mother
+9412
+
+Compliment Vriska's strategic analysis
+Be assigned to fight )(IC
+Be given Earth, to pass on to Jade
+Ask Vriska her role
+9415-9460
+
+Witness disobedience of Jane
+Meet Jane
+Witness creation of Jasprosesprite^2
+9482-9492
+
+:O
+9547-9551
+
+Y34H, SH3'S JUST GONN4 BR1NG N3P3T4 B4CK 1SN'T SH3
+9569-9571
+
+	Character select
+	9581
+<====
+Be introduced to Calliope
+Flatter Calliope
+Inform Calliope of ripped brother's cape
+9582-9585
+
+	Character select
+	9596
+<====
+Talk with Jane, Rose
+Be called a N333RD by Terezi
+<3<
+9597-9599
+
+Notice reappearence of Jasprosesprite^2
+Witness Jane being taken away by Jasprosesprite^2
+9614-9616
+
+Notice arrival of Kanaya, Roxy
+hello, hummingbird.
+where's karkat?
+BYE, IDIOT!!!!!!!
+9829-9838
+
+Be on Derse
+Prepare to fight Condesce
+Be informed by Rose that Condesce is Betty Crocker
+Have mature reaction to this stunning revelation
+Ask Roxy what she's doing with that sword
+Witness arrival of Condesce
+9876-9886
+9986
+
+Collide
+Fight Condesce
+9987
+
+Watch Nannasprite heal Jane
+9989
+
+Help Jane up
+9990
+
+Fly off
+9991
+
+Be on frog platform
+9993-9994
+
+Greet Jade
+10012-10013
+
+Meet Dad
+10016-10022
+
+ACT 7
+10027
+
+Appear in front of Caliborn
+Be sucked into juju
+9318-9325

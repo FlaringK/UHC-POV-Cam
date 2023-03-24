@@ -1,0 +1,48 @@
+Name: Doze
+Colour: #4040FD
+Image: ball02.png
+Group: The Felt
+
+Become minion of Caliborn
+7839
+
+Assist Caliborn in his quest
+7846
+7965
+8011
+7906
+
+Midnight Crew: Act 1031
+2733
+
+Be tied up by CD
+Slow time for self
+Be untied by Itchy
+3077-3085
+
+Make fleet footed escape
+3092
+3095-3097
+
+Have been retied up
+3107-3108
+
+Be tied up, left by CD
+Be killed by CD
+3143-3146
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

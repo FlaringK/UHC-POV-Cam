@@ -1,0 +1,7 @@
+Name: Calsprite
+Colour: #F2A400
+Image: calsprite.png
+Group: Kids' Sprites
+
+Help Dave fight ogres
+3541-3542

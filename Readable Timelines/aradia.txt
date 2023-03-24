@@ -1,0 +1,132 @@
+Name: Aradia
+Colour: #A10000
+Image: aradia.png
+Group: Trolls
+
+Archaeology
+5479-5490
+
+FLARP
+4068
+4073-4076
+
+Make her pay.
+4138-4142
+
+Be killed
+4146-4151
+
+Desecrate temple
+3962-3965
+3983-3984
+
+Be introduced
+4032-4040
+3985
+
+Visit Sollux
+3995
+
+Talk to Vriska
+4042-4044
+
+Talk to Sollux
+4046-4049
+
+Go home, prototype, enter
+4083-4093
+
+Bring Equius into game
+4174-4176
+
+Talk to Equius
+Enter soulbot
+4178-4193
+4214
+
+Make her pay.
+4478
+
+Be commanded by DD
+Skip to the end
+4480-4504
+
+Jack Noir arrives
+4827
+5078
+
+Arrive on meteor
+4505-4524
+5080
+4692
+
+Declare non-participation of trolling
+4529
+
+Troll rose
+4708-4710
+
+Randomly explode
+5081-5087
+
+Wake.
+5197
+
+Trap Jack Noir
+Flee to Green Sun
+5463-5476
+======>
+5477-5513
+	Name: Doomed Aradia
+	5477-5513
+
+Visit coinflip Dave
+5379-5392
+
+Wait at Green Sun
+5898-5901
+
+Cascade
+6009
+
+	Meteor montage
+	9349
+
+Meet friends
+6231
+6249-6276
+
+Mayor arrives
+Give meteor push
+6282-6288
+
+Be still alive
+7163
+
+Be in Vriska's crew
+7848-7914
+7923-7954
+7967-7975
+
+Reveal treasure
+7982-7987
+7991-7999
+8008-8010
+
+Be in dream bubble
+8647
+9126-9127
+
+Be in Meenah's army
+9841
+
+Collide
+Fight Lord English
+9987
+
+ACT 7
+Witness reality crumbling
+10027
+
+	Remem8er.
+	9859

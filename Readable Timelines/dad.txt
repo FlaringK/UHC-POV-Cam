@@ -1,0 +1,99 @@
+Name: Dad
+Colour: #4B4B4B
+Image: dad.png
+Group: Kids' Guardians
+
+Walk with mother on fine day
+Notice meteor land
+3766-3769
+
+Meet Rose's mom
+Lose mother, gain son
+3782-3784
+
+Raise John
+4526
+
+Return from shopping
+1929
+
+Finish cake
+Strife!
+Gain pranksters gambit
+Give John cake
+Placate smoke detector
+1988-2000
+
+Leave for more baking supplies
+2043
+
+Return home
+2100
+
+Be confused by locked door, toilet in garden
+2102
+
+Be confused by placement of bath
+2106
+
+Resume baking
+2108
+
+Be confused by shaking of house
+2146
+2150
+
+Be kidnapped by imps
+2321
+
+Break free from cuffs
+2657
+
+Continue fighting imps
+2787-2789
+
+Break out of Dersite cell
+Throw safe out of window
+2850-2851
+
+Beat up HB
+2861
+
+Punch Jack
+Set fire to Jack's hat
+Be set free
+3037-3044
+
+Fight monsters on LOWAS
+3568
+
+Receive hat
+Meet Grandpa
+Teleport to meteor lab
+3629-3636
+
+Reunite with Rose's mom
+Return scarf
+3795-3802
+
+Stand on helm, armed with cake
+3840
+4294
+
+Arrive on battlefield
+3871
+
+Find John
+John vanishes
+4540-4544
+4547
+
+Be comforted by Rose's mom
+4550-4552
+
+Have meal with Rose's mom
+5400-5403
+
+Have been killed by Jack Noir
+5446
+5595

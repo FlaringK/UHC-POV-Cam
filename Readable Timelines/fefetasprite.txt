@@ -1,0 +1,16 @@
+Name: Fefetasprite
+Colour: #B536DA
+Image: fefetasprite.png
+Group: Alpha Kids' Sprites
+
+Be at Jane's birthday
+7419-7420
+
+Notice Jane getting angry
+Fall asleep
+7427-7440
+
+Be found by tricksters
+7646-7661
+
+Dear, sweet precious Fefetasplode

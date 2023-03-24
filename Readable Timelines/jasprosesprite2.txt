@@ -1,0 +1,55 @@
+Name: Jasprosesprite^2
+Colour: #B536DA
+Image: jasprosesprite2.png
+Group: Alpha Kids' Sprites
+
+Meow meow motherfuckers.
+9490-9492
+
+Greet Roxy, Calliope
+Marvel at Calliope's skull, John's hot mom
+9547-9551
+
+Find and nuzzle Kanaya
+9552-9556
+
+Find Dave and Dirk
+...
+9557-9561
+
+Find Jake, Tavrosprite
+9562-9568
+
+Return to frog pad
+Consider filling remaining sprite
+Be informed of ghostbusters trivia
+Trill into the night
+9569-9570
+
+	Character select
+	9613
+<====
+Reappear
+Take Jane to LOCAH
+Introduce Jane to Nannasprite
+9614-9624
+
+Go back to Jake, Tavrosprite
+Create Nepetasprite
+9710-9722
+
+Witness creation of GCatavrosprite
+9731-9739
+
+Host tea party with Nepetasprite, Jake, Tavrosprite
+Witness creation of Davepetasprite^2
+9771-9780
+
+Rage at Dave part of Davepetasprite^2
+Come to terms with Davepetasprite^2's existance
+Continue date with Davepetasprite^2
+9795-9801
+
+Collide
+Assist Jane
+9987

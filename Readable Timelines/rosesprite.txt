@@ -1,0 +1,15 @@
+Name: Rosesprite
+Colour: #B536DA
+Image: rosesprite.png
+Group: Alpha Kids' Sprites
+
+Arrive on frog platform
+9404-9407
+
+Be assigned to scatter window portals
+9415-9460
+
+Witness disobedience of Jane
+Be hugged by Jaspersprite
+9482-9489
+~ Jasprosesprite^2

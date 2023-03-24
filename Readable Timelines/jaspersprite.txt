@@ -1,0 +1,56 @@
+Name: Jaspersprite
+Colour: #F141EF
+Image: jaspersprite.png
+Group: Kids' Sprites
+
+Be created
+Save Rose
+3049
+
+Wander around LOLAR
+3491-3492
+
+Talk with Rose
+3523-3526
+
+Be summoned by Rose
+Be freed
+4713-4716
+
+Say goodbye to Nepeta
+5794
+
+Continue existing
+6518
+
+Wish John happy birthday
+Be chased by Jade
+6637-6639
+
+Watch Con Air with John, Jade
+7181-7182
+
+Wander off
+7840-7841
+
+Meet other sprites
+IT IS E%CEEDING A CERTAIN AMOUNT IN QUANTITY
+8501-8505
+
+Attend Rose's funeral
+Reunite with Roxy
+9180-9183
+
+Arrive with Rosesprite
+9404-9407
+
+Set of Tavros's allergies
+9414
+
+Be assigned to eat tuna fish and cuddle with either rose or roxy or both
+9415-9460
+
+Witness disobedience of Jane
+Hug Rosesprite
+9482-9489
+~ Jasprosesprite^2

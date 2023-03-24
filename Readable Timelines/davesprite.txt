@@ -1,0 +1,73 @@
+Name: Davesprite
+Colour: #E00707
+Image: davescratch.png
+Group: Kids' Sprites
+
+Enter doomed timeline
+3541-3544
+
+Travel back in time
+Prototype self
+3548-3550
+Colour: #F2A400
+Image: davesprite.png
+3551
+
+Scold Terezi
+Talk to Dave
+3557-3559
+
+Talk to John
+3568
+3592
+3640
+
+Talk to Rose about meow code
+3758
+
+Talk to Dave about meow code
+3761
+
+Protect Dave while he sleeps
+4735-4740
+
+Find Bro dueling Jack
+Duel Jack
+4784-4786
+4791-4796
+
+Jade: Enter.
+4827-4829
+
+Meet Jadesprite
+5786-5789
+
+Talk to Jadesprite
+5826-5827
+
+Have Jadesprite teleport sword to Dave
+5844-5848
+5798
+
+Cascade
+6009
+
+Be on battleship
+6243-6245
+	6518
+<==
+6631
+6844
+
+Arrive in new session
+7840-7845
+
+Meet other sprites
+IT IS E%CEEDING A CERTAIN AMOUNT IN QUANTITY
+8501-8505
+
+Arrive at tea party in post-retcon session
+Greet Nepetasprite
+9774-9777
+
+~ Davepetasprite^2

@@ -1,0 +1,166 @@
+Name: Spades Slick
+Colour: #000000
+Image: spades.png
+Group: Midnight Crew
+
+Learn Karkat's blood colour
+Be in cahoots with Karkat
+4198
+4197
+4199-4209
+
+Watch Feferi ressurect Sollux
+4380-4383
+
+Follow Karkat
+4447
+4478
+
+Be exiled
+Become Scurrilous Straggler
+3174
+
+Midnight Crew: Act 1031
+2733
+
+Enter mansion
+Clocks destroyed: 4/1000
+View John: Enter on Crosbytop
+Clocks destroyed: 5/1000
+Examine mugshots
+Clocks destroyed: 13/1000, apparently
+Be contacted by CD
+3054-3076
+
+Clocks destroyed: 14/1000
+Kill Itchy
+Notice appearance of Die
+3086-3091
+
+Make friends with Die.
+Be retconned out of existence
+3113-3115
+
+Rematerialize.
+Kill Die
+Take voodoo doll.
+Clocks destroyed: 29/1000
+3135-3140
+
+Be contacted by HB, DD
+3154-3155
+
+Be past Spades Slick
+Ask future self about eye
+3185-3187
+
+Remove Crowbar's pin.
+Snowman's introduction
+Throw lance at Sawbuck
+Kill Stitch
+Knock out Crowbar
+Kill Sawbuck
+Reinsert Crowbar's pin
+Clocks destroyed: 107/1000
+3163-3186
+
+Be future Spades Slick.
+Clocks destroyed: 108/1000
+Kill Crowbar, Sawbuck, Sawbuck
+Be called by DD
+3189-3198
+
+Have eye patched up
+Make fool of self in front of Snowman
+3200-3206
+
+Kill Stitch
+Notice explosion
+Start whacking things with the crowbar.
+3210-3220
+
+Attempt to open safe
+Be interrupted by Clover
+Be jigged at
+3222-3227
+
+Notice arrival of Cans
+Have DD punched into next week, HB out of the calendar
+3229-3234
+
+Open safe
+Clocks destroyed: 1000/1000
+Enter vault
+Be interrupted by Snowman
+Lose Spades key, arm
+Flip your sprite.
+Scan the barcode.
+Enter capsule
+Start commanding Karkat
+3236-3255
+
+Watch Karkat, past self
+4382-4385
+
+Move this along.
+4400-4402
+
+Enter Doc Scratches apartment
+Attack Doc Scratch
+5516-5525
+
+Continue attacking Doc Scratch
+Set Doc Scratches apartment on fire
+Kill Matchsticks
+Be killed by Quarters
+Have never been killed thanks to Snowman
+Kiss Snowman
+Destroy clock
+Cause Vriska's death to be registered as just
+Clocks destroyed: 1001/1000
+Be beat up by Doc Scratch
+Be given command, gun by Doc Scratch
+5701-5771
+
+Cascade
+6009
+
+Be cared for by AH, Ms. Paint
+6567-6580
+
+Get out of bed
+Be forced back in bed by AH
+Stab AH
+Be thrown off balcony
+6694-6699
+
+Climb back up balcony
+6844
+
+Inspect AH's body
+Take Lord English's Golden Cuestaff
+Notice Ms. Paint
+Retrieve personals.
+Pull pins.
+Command minions.
+Go through 5th wall.
+Leave Damara's room
+Get everyone in the oven
+Take 13 of Stars
+Set Doc Scratches apartment on fire
+Enter B2
+8012-8050
+
+Arrive on LOMAX
+Drop off the Felt
+Notice Jack English
+9860-9875
+
+Follow Jack English to LOTAK
+9938-9944
+9985
+
+Collide
+Fight Jack English, Dave, Terezi, Dirk
+Have head cut off by Dave
+9987

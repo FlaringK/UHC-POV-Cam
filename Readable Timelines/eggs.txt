@@ -1,0 +1,39 @@
+Name: Eggs
+Colour: #A357FF
+Image: ball12.png
+Group: The Felt
+
+Become minion of Caliborn
+8011
+
+Arrive from future
+3125
+
+Waste exactly four hours on this tomfoolery.
+3151
+3154
+3162
+
+Be shot at
+3207-3209
+
+Be unduplicated
+Be eaten by HB
+3212-3215
+3221
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

@@ -1,0 +1,52 @@
+Name: Crowbar
+Colour: #950015
+Image: ball07.png
+Group: The Felt
+
+Become minion of Caliborn
+7922
+
+Assist Caliborn in his quest
+7965
+8011
+7906
+
+Midnight Crew: Act 1031
+2733
+
+	Have SS arrive in this timeline
+	3165
+
+	Be interrupted by Snowman
+	3167-3170
+
+Have SS arrive in this timeline
+Fight with SS
+3170-3173
+
+Be shoved in war chest
+3175-3176
+
+Be taken to another timeline
+Get out of war chest
+Start fighting with another Sawbuck
+3180-3183
+
+Be killed by SS
+3195-3196
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

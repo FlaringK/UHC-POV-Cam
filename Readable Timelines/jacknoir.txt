@@ -1,0 +1,132 @@
+Name: Jack Noir
+Colour: #000000
+Image: spades.png
+Group: Kids' Agents
+
+Dad breaking out of prison
+2790-2791
+2850-2862
+3037-3044
+
+PM getting box
+3449-3456
+
+Jack: Ascend
+3568
+
+WV: Rise up
+3701
+
+Descend
+3840
+
+Exchange with PM, gift to John
+3850-3854
+3858-3862
+3869
+
+Take Bro's sword from Beat Mesa
+4741-4747
+
+Return Bro's sword to him
+Duel with Bro
+4769-4776
+4781-4786
+4791-4800
+
+Jade: Enter
+4827-4833
+
+Kill John
+4983-4987
+
+Kill Doomed Dave
+5089-5091
+5404-5405
+
+Kill Dad, Mom
+5446-5459
+5462
+
+Round 1
+5596
+
+Round 2
+5678-5688
+
+Knock down WV
+5858-5863
+5867-5871
+
+Adagio Redshift
+5761-5770
+
+Follow Jade
+5875-5878
+5905-5906
+6001-6009
+
+Enter troll's session
+4503
+5078
+5473-5477
+
+Jade: Enter
+4827
+
+Destroy Prospit
+5079
+
+Wake (Kill troll dreamselves)
+5197
+
+Be frozen by Aradia
+5463-5466
+
+Kill Bilious Slick
+5920-5925
+6009
+
+==>
+	Be found by Vriska
+	Follow trail
+	5700-5705
+	
+	Return with trophies
+	5712-5714
+	
+	Fight
+	5720-5731
+
+Be chased by PM
+6206-6220
+6681-6687
+6844
+7161
+7210-7268
+
+Enter B2 universe
+8121
+
+	Arrive in incipisphere
+	Land in remains of Prospit
+	Prepare to fight PM
+	9967-9981
+	
+	Collide
+	Fight PM
+	Be interrupted by Jade
+	Have arm cut off by PM
+	Lose ring
+	9987
+	
+	Be tended to by Ms. Paint
+	9995-10000
+
+Rescue Jade
+8612-8614
+8618-8631
+8638-8639
+
+GAME OVER
+8801

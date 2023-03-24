@@ -1,0 +1,152 @@
+Name: Parcel Mistress
+Colour: #FFFFFF
+Image: prospitian.png
+Group: Kids' Exiles
+
+2933
+3360-3362
+
+Get minitablet
+3376-3383
+
+Follow AR
+3431-3437
+
+Be given hit list
+3448-3455
+
+Seek audience with WQ
+3512-3520
+
+Depart to battlefield
+3679-3687
+
+WV?: Rise up.
+3701
+
+Trade crowns for package
+3849-3853
+
+Name: Peregrine Mendicant
+3848
+
+See WV go shooting overhead in dersite battleship
+5893-5894
+2623
+
+WV: Ascend.
+2657
+2744
+2770
+
+Talk to Jade
+2792-2799
+4909-4911
+2800-2802
+
+Survive explosion
+2821-2825
+
+Land near AR
+2919-2921
+2935
+
+Be spotted by WV, AR
+2937-2946
+3008
+
+Read letter from Jade
+Send package
+3016-3028
+
+Threaten AR
+3259-3265
+
+Become friends with WV, AR
+3296
+
+Talk to John
+3309-3329
+
+Rejoin WV, AR
+3351-3354
+3373-3375
+
+Recall message for John
+3388-3390
+
+EGG!
+3446-3447
+3510-3511
+
+Name: Prospitian Monarch
+Be crowned
+3521-3522
+3878-3881
+
+DOG!
+4841-4842
+
+Appoint royal advisor.
+4914-4919
+
+Be advised
+Appoint Wastelandic Vindicator, Armaments Regent
+5160-5169
+5907-5910
+
+Take ring
+Chase Jack
+6009
+6206-6225
+
+Save WV
+6278-6289
+
+Resume chase
+6681-6687
+6844
+7161
+7210-7226
+7258-7268
+
+Enter B2 universe
+8121
+
+	Arrive in incipisphere
+	Land in remains of Prospit
+	Prepare to fight Jack Noir
+	9967-9981
+	
+	Collide
+	Fight Jack Noir
+	Be interrupted by Jade
+	Punch Jade
+	Cut off Jack's arm
+	Claim Jack's ring
+	9987
+	
+	Reunite with WV
+	10007
+	
+	Have ring removed by WV
+	10008-10010
+	
+	Point WV towards the forge
+	10011
+	
+	Ascend forge with WV
+	10023-10026
+	
+	ACT 7
+	Throw rings in the forge
+	Rebuild civilization
+	10027
+
+Rescue Jade
+8612-8614
+8618-8631
+8638-8639
+
+GAME OVER
+8801

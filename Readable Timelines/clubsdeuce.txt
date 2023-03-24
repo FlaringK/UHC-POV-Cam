@@ -1,0 +1,73 @@
+Name: Clubs Deuce
+Colour: #8F8F8F
+Image: clubs.png
+Group: Midnight Crew
+
+Spy on BQ
+4207
+
+Meet Sollux
+4407-4410
+4413
+
+Command Sollux
+I REMEMBER THIS!
+4406-4412
+
+Midnight Crew: Act 1031
+2733
+
+Inform SS of capture of Doze
+Interrogate Doze
+Encounter Itchy
+Prevent Doze from escaping
+3075-3085
+
+Throw cards at Doze
+3092-3097
+
+Be radioed by DD
+3104
+
+Tie Doze up with Stretch Armstrong doll
+Lock Doze in battledrobe
+3107-3109
+
+Be radioed by HB
+3122
+
+Tell HB you'll be with him once you've helped DD
+3127
+
+Follow Trace
+Forget about helping HB
+Leave bomb for Trace, Doze
+Be considered master criminal by Fin
+3142
+	3103
+<==
+3143-3150
+
+Threaten Stitch
+Everybody out of the god damn way. You got a hat full of bomb, a fist full of penis, and a head full of empty.
+Be informed of stability of C4
+Be saved by DD
+3158-3161
+
+	Be in gunfight with The Felt
+	3165
+	3167-3170
+
+Threaten Stitch
+3198-3199
+3201
+
+Shoot Biscuits, Eggs
+Be freed from temporal shenanigans
+Put dynamite in oven
+Wheel oven off
+3207-3209
+3212-3221
+
+Be dead
+3237

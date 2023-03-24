@@ -1,0 +1,15 @@
+Name: Kankri
+Colour: #FF0000
+Image: karkat.png
+Group: Alpha Trolls
+
+Fail Sgrub
+Witness initiation of Scratch
+Be blown up
+6892-6898
+
+Be deep in conversation with Karkat
+7163
+
+Ministrife
+7327

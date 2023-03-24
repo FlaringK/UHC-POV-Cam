@@ -1,0 +1,42 @@
+Name: Die
+Colour: #008140
+Image: ball06.png
+Group: The Felt
+
+Become minion of Caliborn
+7922
+
+Assist Caliborn in his quest
+7965
+8011
+
+Play cards with Itchy
+3110-3112
+
+Arrive in this timeline
+3091
+
+Make friends with SS
+Retroactively kill SS
+How many times does he have to tell you. He made this town.
+3113-3115
+
+Remove SS's pin
+Be killed by SS
+3136-3138
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

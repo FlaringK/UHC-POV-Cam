@@ -1,0 +1,209 @@
+Name: Warweary Villein
+Colour: #000000
+Image: dersite.png
+Group: Kids' Exiles
+
+WV?: Rise up.
+3700-3701
+
+Post battle
+3844-3845
+
+Find ring
+4559-4560
+4848-4851
+
+Observe ascension
+4987
+5097
+
+5293
+Name: Wizardly Vassal
+5294
+5298-5303
+
+Fly car
+5306-5314
+
+Crash car
+5362-5366
+5372-5373
+
+John: 8e cre8tive
+5395-5399
+5567-5573
+5577-5589
+
+Pilot Dersite battleship
+5790-5793
+5832
+5864-5871
+
+Crash battleship
+5888-5893
+
+Name: Wayward Vagabond
+3843
+2148
+
+Find can
+2171
+
+BOY.
+YOU THERE. BOY.
+2152-2170
+2175-2194
+2234-2236
+2285-2287
+2291-2293
+2297
+2300-2311
+2316-2318
+2320-2331
+
+An agitated finger slips mid-keystroke.
+2334-2339
+2409
+2399-2408
+2414-2419
+
+WV: Retri..., Ascend.
+2566-2657
+
+WV: Descend.
+2905-2921
+2935-2946
+3008
+3016-3025
+3259-3265
+
+Introduce self to AR, PM
+3296
+3309-3315
+3350-3354
+3373-3375
+
+Found Exile Town
+EGG!
+3400-3403
+
+Meet Windswept Questant
+3443-3445
+3508-3509
+3521-3522
+3878-3881
+
+DOG!
+4834-4847
+4853-4868
+
+WHY DON'T YOU DO THE WINDY THING?
+4877-4884
+4976-4978
+
+JOHN. RISE UP.
+4980-4987
+5033-5038
+5156-5159
+
+Name: Wastelandic Vindicator
+5164
+5167-5169
+
+WV: Dream.
+5171-5196
+
+Cascade
+6009
+
+Get brought to A2 by PM
+6206-6211
+6218-6225
+
+Get sent to meteor by PM
+6278-6284
+
+Become Mayor of the Fruity Rumpus Asshole Factory
+Name: The Mayor
+6285-6289
+
+Be healed, re-found can town
+6588-6591
+
+	Meteor montage
+	9349
+	
+	shes 8ack
+	9305-9307
+	
+	Wait for arrival of John, Roxy
+	9350-9377
+	
+		Character select screen
+		9386
+	<====
+	
+	Watch John, Dave, Karkat talk
+	9387-9392
+	
+	Witness assignment of roles
+	Be protected from role by Karkat
+	9415-9460
+	
+	Meet Calliope in Jade's house
+	9783-9786
+	
+	Meet Jade in Jade's house
+	Exit house
+	9914-9924
+	
+	Collide
+	9987
+	
+	Reunite with PM
+	10007
+	
+	Remove PM's ring
+	10008-10010
+	
+	Be pointed towards the forge by PM
+	10011
+	
+	Ascend forge with PM
+	10023-10026
+	
+	ACT 7
+	Throw rings in the forge
+	Rebuild civilization
+	Become mayor
+	10027
+
+Sleepwalking Roxy
+6884-6888
+
+Lose Serenity
+7133
+
+Expand can town
+7955-7964
+
+Arrive in alpha session
+8121-8134
+	R3UN1ON
+	9110-9119
+
+Be on LOHAC
+8200-8201
+
+	Watch John interrupt Jade, Dave
+	8302-8304
+
+Narrowly avoid getting pushed into lava
+8283-8285
+	8317-8319
+<==
+8286-8296
+
+Goodbye, Dave
+8522-8524
+8553-8554

@@ -1,0 +1,32 @@
+Name: Quarters
+Colour: #008140
+Image: ball14.png
+Group: The Felt
+
+Become minion of Caliborn
+Witness intense staredown
+8092-8104
+
+Be summoned by coin
+Kill SS
+5736-5739
+
+Have killing undone
+Be killed by Snowman
+5748-5750
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

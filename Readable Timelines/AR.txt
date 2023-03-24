@@ -1,0 +1,73 @@
+Name: Authority Regulator
+Colour: #000000
+Image: dersite.png
+Group: Kids' Exiles
+
+Ticket car
+3355-3359
+3361
+3378-3383
+
+Follow Lil' Cal on hoverboard
+3658-3659
+3677-3678
+
+Explore Frog Temple
+3809-3828
+
+Witness creation of Bec
+3840
+
+Flee temple
+Find John
+Sacrifice board for John's safety
+3864-3868
+
+Name: Aimless Renegade
+3863
+
+Prepare for company
+2917-2921
+
+Open fire with AK47
+2938-2943
+
+Seek more powerful weaponry
+3000-3011
+
+Open fire with missile launcher
+3018-3025
+
+Surrender
+3259-3265
+
+Make friends
+3296
+3308-3309
+
+Make fire
+3350-3353
+3373-3375
+
+EGG!
+3400-3403
+3443-3445
+3508-3509
+3521-3522
+3878-3881
+
+DOG!
+4841-4842
+
+Name: Armaments Regent
+Rig pods with explosives
+5165
+5170
+
+Talk to Dave
+5603-5609
+5908-5910
+
+Detonate 3/4 pods
+Be killed
+6009
