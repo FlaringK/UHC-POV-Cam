@@ -398,14 +398,14 @@ Save Jake, Jane from Union Jack
 Teleport Union Jack to the outer ring
 Be mind controlled by )(IC
 Zap tiaratop onto Jane
-7764-7790-2
+7764-7791
 Colour: #000000
-7792-7804-2
+7792-7805
 
 Beat up Dirk
 Teleport Dirk to the outer ring
 Take Roxy to Derse
-7808-7824-2
+7808-7825
 
 Intimidate Roxy
 Tell Roxy about her void powers
