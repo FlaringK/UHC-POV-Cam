@@ -1,0 +1,325 @@
+Name: Karkat
+Colour: #626262
+Image: karkat.png
+Group: Trolls
+
+Be talked to by Tavros after he jumps off a cliff
+4077
+
+Program in ~ATH
+3925-3928
+
+Be introduced
+Talk to Gamzee
+3892-3910
+
+Take leadership from Terezi
+3958
+
+Ignore Sollux
+3986-3988
+
+Enter
+3959-3961
+
+Reject Vriska from team
+4078
+
+Ask Nepeta to join team
+4061
+
+Be rejected
+
+Meet Jack Noir
+4198-4206
+
+Ask Vriska to join team
+4196-4197
+
+Learn of Jack's plan
+4207-4213
+
+Set up transtimeline bulletin board
+Write first memo
+4443
+
+Write second memo
+4447
+
+Bring Sollux into game
+4370-4374
+
+Witness Feferi resurrect Sollux
+4378-4383
+
+Talk to Terezi
+4474-4476
+
+Fight Black King
+4493-4504
+5078
+
+Arrive on meteor
+4827
+
+Write memo
+4467
+	Remem8er.
+	9859
+
+Wake up
+5080
+4692
+
+Troll this worthless human.
+First conversation
+4526-4527
+4529
+4528
+
+Get Kanaya to troll Rose
+4594
+
+Troll John
+Second conversation
+4825-4841
+
+Troll Jade
+2759
+
+Be contacted by John
+Third conversation
+5322
+
+Fourth conversation
+3803
+
+Troll in sane and linear manner
+3807-3808
+3829-3830
+
+Resume backwards trolling
+3567
+
+Troll John
+Eighth conversation
+3503
+
+Reach first conversation after John changed handle
+# Tell John to tell Jade to contact them
+3294
+
+Have memo with John and Dave
+4688-4690
+
+Be contacted by Jade
+Have memo with Jade and self
+4751-4752
+# Ask future self why Jade needs to contact you when the robot explodes
+# Apologize somewhere between now and being future self
+
+Deliver message to past Jade
+# Tell Jade to contact you after robot explodes
+# Talked to future self to ask how to get in contact with not so future self
+# Not yet talked to future Jade
+3425-3426
+
+Talk to Jade
+# Password system exists
+# Why don't I hatemarry myself
+5872-5873
+Have memo with Jade and Kanaya
+5875-5885
+
+Talk to Jade about Jadesprite
+# Tell Jade to take 4th wall, from future Jade
+# Apologise
+5150-5153
+
+Be future Karkat in memo with Jade and self
+4752
+
+Upset Terezi
+5092-5095
+
+Witness fight
+5221-5261
+
+Attempt to revive Kanaya
+5284-5285
+
+Say goodbye to John
+5320
+
+Drag Sollux into lab
+5323-5331
+5369-5371
+5376-5378
+
+Apologise for giving Bilious Slick cancer
+5903-5918
+5920-5926
+
+	FL1P
+	JOHN????
+	9278-9288
+	
+	Meteor montage
+	9349
+	
+	shes 8ack
+	9305-9307
+	
+	Wait for arrival of John, Roxy
+	9350-9377
+	9383-9385
+	
+		Character select screen
+		9386
+	<====
+	
+	Talk with John
+	9387-9392
+	
+	Flirt with Vriska
+	Schedule romance jamming session with Kanaya
+	9408-9409
+	
+	Be overheard by John
+	9414
+	
+	Be put on drawing duty
+	Be assigned to visit Echidna
+	9415-9460
+	
+	Leave Echidna's lair
+	Discuss Blood, and need to fight
+	Be told Kanaya agreed to protect you
+	Be knocked unconscious by Kanaya
+	9535-9544
+	
+	Arrive in dream bubble
+	Meet Meenah
+	Notice Meenah's army
+	Give speech to self
+	9887-9896
+	
+	Follow Meenah
+	Find Vriska, with treasure
+	9945-9948
+	
+	Witness arrival of Lord English
+	9949-9959
+	9983
+	
+	Collide
+	Attempt to fight Lord English
+	Immediately wake up
+	Fight Clover
+	Defeat Clover
+	9987
+	
+	Greet Dave
+	10012
+	10014
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+
+See Terezi kill Vriska
+5741-5748
+
+Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
+Shoosh, pap
+5985-5995
+
+Find John's conversation with Vriska
+5764-5772
+
+See you soon
+6001-6004
+
+Cascade
+6009
+
+Meet friends
+6225-6231
+6249-6276
+
+Mayor arrives
+6282-6288
+
+Talk to self
+6585-6594
+Colour: #FF0000
+6586-6594
+Colour: #626262
+
+I GOT A LAB FULL OF HUMANS, A MOUTH FULL OF YELLING, AND A TORTURED PSYCHOLOGICAL PROFILE FULL OF TOTALLY HYSTERICAL EMOTIONS AND UNAIRED GRIEVANCES AT PRACTICALLY EVERYBODY.
+6609-6627
+
+See John in dream bubble
+6658
+
+Enter dream bubble
+6884-6887
+6890-6913
+7105-7118
+
+Meet dancestor
+7163
+
+Be recruited into Meenah's army
+Talk to Terezi
+7208
+
+Be asleep in horn pile
+7298
+
+Find Terezi
+7827-7838
+
+See Terezi's eyes
+7915-7921
+
+Arrive in new session
+Arrive on LOMAX
+8121-8134
+	R3UN1ON
+	9110-9119
+
+Somehow be on LOFAF
+
+Talk to Dave
+8180
+
+Be killed by Jane
+8224-8231
+
+Be resurrected
+8234-8242
+
+Hide from Jane
+8298-8300
+
+Talk to Meenah
+8466-8468
+
+Inform Dave of problem
+8520-8524
+
+Try to catch up to action
+8638-8639
+
+See Terezi in danger
+8720-8722
+
+Witness arrival of Condesce
+8739-8743
+8752
+
+GAME OVER
+8801

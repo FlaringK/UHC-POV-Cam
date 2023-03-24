@@ -1,0 +1,15 @@
+Name: Damara
+Colour: #A10000
+Image: aradia.png
+Group: Alpha Trolls
+
+Fail Sgrub
+Initiate Scratch
+Be blown up
+6892-6898
+
+Remove giant quartz boulder
+7298
+
+Ministrife
+7327

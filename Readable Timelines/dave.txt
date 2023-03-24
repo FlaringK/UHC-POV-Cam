@@ -1,0 +1,497 @@
+Name: Dave
+Colour: #E00707
+Image: dave.png
+Group: Kids
+
+Be created
+3790-3791
+3803
+3806-3807
+
+Be sent to Earth
+B1
+3840
+B2
+# Timeline split to alpha Dave
+
+Land
+3775
+
+Be found by Bro
+3778-3779
+
+Growing up montage
+4662-4670
+
+Be trolled by Terezi
+4672
+
+Be trolled by Gamzee
+5927-5931
+
+Receive birthday present from John
+Be trolled by Tavros
+2994-2999
+
+Talk to Jade
+2729
+
+Be introduced
+2209-2224
+
+Talk to John about playing Sburb
+1935
+1939
+
+Check Midnight Crew
+2225-2227
+
+Talk with Rose about playing Sburb
+2232-2233
+
+Play sick beats
+Have game stolen by Rambunctious crow
+2237-2257
+
+Talk to dream Jade about John's presents
+2281-2282
+	2735
+<==
+2283-2284
+
+Tell John to bone up on data structures
+2010
+2104
+2187
+2194
+
+Find Lil' Cal
+2343-2354
+
+Tell John you're looking for the game
+2286
+
+Go on Bro's computer
+Talk to John, Rose
+2355-2369
+
+Puppets
+2462-2511
+2437
+2512-2513
+
+Duel Bro
+2564-2565
+2657
+2736
+2771
+2970
+Image: davescratch.png
+2971-2972
+
+Mourn loss of Lil' Cal
+2982-2987
+
+Install Sburb
+3048-3049
+
+Talk to Jade
+3293
+
+Be connected to by server player
+3297-3302
+
+Talk to dream Jade
+3336-3344
+
+Find prototyped kernel
+3347-3349
+
+EGG!
+3404-3422
+
+Perform alchemy
+Upgrade alchemical devices
+3457-3477
+
+Talk to Rose, Kanaya
+3488-3489
+
+Talk to Tavros
+3494-3495
+
+Miss conversation with Rose
+3528
+
+Climb tower
+3531-3532
+
+Fuck this meteor in particular
+Enter game
+3840
+
+Prepare to second tier prototype
+3545-3546
+==>
+	~ Davesprite
+
+See self come back from future
+3547-3551
+
+Chill with Davesprite
+3558-3559
+
+Try to convince John not to skip ahead
+3566
+
+Convince John to rummage through Rose's stuff
+3591-3595
+
+Realise you're already awake
+3599-3604
+
+Jam with Rose
+See Rose throw dream Cal out of window
+3620-3622
+
+Show Rose her visitor
+3641-3642
+
+Look for Lil' Cal out of window
+3655
+
+Wake up and jam.
+3720-3758
+
+Go to burn book
+3761-3762
+==>
+	Name: Doomed Dave
+	Be killed
+	4963-4964
+	3763-3764
+	
+	Remem8er.
+	9859
+	
+	Be double killed
+	7161
+
+Throw yourself out the window.
+3763-3764
+
+Be trolled by Terezi
+3834-3835
+3839-3840
+
+Talk to Terezi
+Be convinced by future self to listen to her
+4673-4683
+
+Talk with John, Karkat in the Fruity Rumpus Asshole Factory
+4689-4690
+
+Talk with Jade, Karkat, Karkat in the Fruity Rumpus Asshole Factory
+4752
+
+Talk with Gamzee
+Send Gamzee ICP video
+4717-4718
+
+Talk with Equius about hierarchies
+Get LPOS
+4724-4729
+
+Talk with Terezi
+Davesprite: Defend.
+4732-4740
+
+Take off glasses while asleep
+4748
+
+Visit paradox sister
+4809-4812
+
+Snoop
+4885-4887
+
+nak nak nak
+4807-4808
+
+Be woken by Jade teleporting past
+4901
+Caption: Sleeping
+
+Talk with Rose about horrorterrors
+Learn of the Green Sun, the Tumor
+4934-4937
+4939-4944
+
+Witness John's ascension
+4987
+
+==>
+	Name: Doomed Dave
+	Go to sleep on Quest Bed
+	4989-4991
+	4994-4995
+	
+	Wake up
+	Be killed
+	5089-5091
+	5103
+	
+	Be in dream bubble
+	5379-5392
+	
+	Be double killed
+	7161
+
+Make a goddamn killing in the LOHACSE.
+4637-4641
+
+See Jade teleport past in LOHACSE
+4901
+Caption: In LOHACSE
+
+Wire money to Terezi
+4642
+
+Tell past self Terezi's ok
+4675-4676
+
+Mourn Bro
+5597-5613
+
+Prepare to kill coinflipdave
+4989-4998
+
+Console Jade about your death
+5104
+
+See Jade teleport past on LOFAF
+4901
+Caption: On LOFAF
+
+Talk to Jade about her moving through space and you, time
+Deploy laserstation
+4924-4932
+Make... wait, what?
+5041-5042
+
+Deploy cloning apparatus
+5210-5214
+
+Assist frog breeding
+Be killed by Jack, revived into dream self by Jade
+5759-5770
+
+Meet up with Rose
+5772
+
+Be psychoanalysed by Rose
+5775-5780
+
+Receive Tumor
+Have suicide mission stolen
+5796-5804
+
+Be woken by DD
+5837-5843
+
+Cascade
+6009
+
+	Meteor montage
+	9349
+	
+	shes 8ack
+	9305-9307
+	
+	Wait for arrival of John, Roxy
+	9350-9377
+	9383-9385
+	
+		Character select screen
+		9386
+	<====
+	
+	Talk with John
+	9387-9392
+	
+	Talk with Rose, Roxy
+	Meet Rosesprite
+	9396
+	9402-9407
+	
+	Talk with ARquiusprite
+	Suggest letting Gamzee out of fridge
+	Continue with Freudian slips
+	9410-9412
+	
+	Be assigned to fight Lord Jack
+	Annoy Vriska
+	Be introduced to Dirk
+	9415-9460
+	
+	Be found by Jasprosesprite^2
+	...
+	9557-9561
+	
+		Character select
+		9572
+	<====
+	Have awkward conversation with Dirk
+	9573-9580
+	
+		Character select
+		9633
+	<====
+	Confirm which version of Jack Noir you're fighting
+	...
+	Talk with Dirk about alternate selves
+	...
+	Actually talk with Dirk
+	9634-9665
+	
+	Continue talking with Dirk
+	You're welcome for me existing.
+	9817-9822
+	
+	Prepare to fight Jacks on LOTAK
+	did someone just bark
+	ok this exchange is asinine it was probably just jade
+	Tell Jade off for being awake
+	Be complimented on kissing ability
+	Witness Jade teleport away
+	9925-9933
+	
+	Be told by Dirk to ask him anything
+	Witness arrival of Jacks
+	why are we so fucking awesome
+	That's the best fucking question,
+	9934-9944
+	9985
+	
+	Collide
+	Fight Jacks
+	Cut off heads of Jack, Jack, Dirk
+	9987
+	
+	Witness Dirk's revival
+	Be on frog platform
+	9993-9994
+	
+	Greet Karkat
+	10012
+	10014
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+	
+	Appear in front of Caliborn
+	Be sucked into juju
+	9318-9325
+
+Arrive on meteor
+Level up
+Meet trolls
+6231
+6247-6276
+
+The Mayor arrives
+Be given push by Aradia, Sollux
+6282-6288
+
+Hang out in dream bubble
+6386
+
+Talk to Rose, Kanaya
+Learn about alpha session
+No reckoning (CD kills BK)
+Portals change colour
+Karkat arrives, attempts to form quadrant vacillation
+6595-6627
+
+See John in dream bubble
+6658
+
+Fight with Meenah
+Exposition!
+6884-6913
+
+Dirk(?) arrives
+7105-7118
+
+Witness destruction of fabric of reality
+7161
+
+Set up ebubbles
+7163
+
+Fly meteor through dream bubble
+7298
+
+Rap while drunk Rose prepares for date with Kanaya
+7300-7308
+
+Prepare for arrival in new session
+7827-7838
+
+See Terezi's eyes
+7915-7921
+
+Arrive in new session
+Meet up with grimbark Jade
+Be teleported to LOMAX
+8121-8134
+	R3UN1ON
+	9110-9119
+
+Somehow be on LOHAC
+Talk to Katkat, Kanaya, Rose (glitchy)
+8180-8182
+
+Reminisce in old house
+Meet up with John, Jade
+8200-8223
+
+Be taunted by Jade
+
+	Be interrupted by John
+	8302-8304
+
+Witness WV be pushed into lava pit
+Catch WV
+8283-8285
+	8317-8319
+<==
+8286-8296
+
+Be called to action by Karkat
+8522-8524
+
+Say goodbye to Mayor
+Call Rose to action
+8553-8556
+
+Arrive on LOFAF
+Notice Jake, Jade
+8584-8589
+
+Ask Terezi what's going on
+8593-8595
+
+Chase dogs
+8612-8614
+8618-8634
+8638-8639
+
+GAME OVER
+8801
+
+Remem8er.
+9859

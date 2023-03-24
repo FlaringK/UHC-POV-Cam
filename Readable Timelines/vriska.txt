@@ -1,0 +1,328 @@
+Name: Vriska
+Colour: #005682
+Image: vriska.png
+Group: Trolls
+
+Shooting star
+5374
+
+Flarp to feed lusus
+4359-4361
+
+Flarp with Tavros
+4072-4076
+
+Be haunted
+Make her pay.
+4142-4151
+
+Lose eye, arm
+4158-4167
+
+Make her pay.
+4478
+
+Get Equius to make Aridiabot
+4122-4123
+
+Conspire with Aradia
+4044-4045
+
+Talk to Karkat
+4078
+
+Be introduced
+4094-4108
+
+Talk to Terezi
+4137
+
+Witness crushing of lusus
+4129-4134
+
+Put lusus out of misery
+4168-4176
+
+Talk to Karkat
+4196-4197
+
+Bully Tavros
+4248-4251
+4254-4265
+
+Trick Tavros into going to LOMAT
+4269-4285
+
+Annoy Karkat on memo
+Be contacted by Snowman
+4447-4453
+
+Adventure on LOMAT
+4416-4419
+
+Make her pay.
+4478
+
+Ascend
+4999-5030
+
+Fight Black King
+4493-4504
+5078
+
+Arrive on meteor
+4827
+
+Create all the plans
+4692
+
+Manipul8 this worthless human.
+4533-4537
+
+Try harder.
+4545-4546
+
+Contact John
+4549
+4553
+4561-4575
+4623-4625
+4632-4636
+4684-4687
+
+# 4692 has future Vriska at this point
+
+Notice John's planet is on fire
+Tell John about having created Bec Noir
+4869-4876
+
+Watch John do the windy thing
+4881-4884
+
+Watch conversation between Tavros and Jade
+4957-4968
+
+Visit WV in his dreams
+Kill Tavros
+5172-5197
+
+Trick John into ascending
+4979-4987
+
+Talk to John
+5365-5368
+5372-5375
+5393-5394
+
+Showdown
+5409-5413
+5415-5416
+5420-5445
+
+Flip.
+5660
+5670-5677
+
+======>
+	View alt-Vriska
+	5697-5707
+	5710-5714
+	5720-5734
+
+5736
+
+	FL1P
+	John????????
+	Be knocked out
+	9264-9288
+	
+	Meteor montage
+	9349
+	
+	Put Jade to sleep
+	9305-9307
+	
+	Wait for arrival of John, Roxy
+	Greet arrival of John, Roxy
+	9350-9377
+	9379-9380
+	
+		Character select screen
+		9386
+	<====
+	
+	Talk with Terezi
+	9400-9401
+	
+	Talk with Tavrosprite, Jape
+	9398-9399
+	
+	Talk with Kanaya, Karkat
+	9408
+	
+	Give advise to Rose
+	9404-9405
+	
+	Tell Dave to relax
+	Refuse to let Gamzee out of fridge
+	Leave Strider Express to its own devices
+	9410-9412
+	
+	Bring tactical meeting back to order
+	Sum up adversaries
+	Assign roles:
+	- Rosesprite: Scatter window portals
+	- Roxy, Rose, John: )(IC
+	- Jade: Dog Jack
+	- Dave, Terezi, Dirk (probably): Lord Jack
+	- Joke: Ro8o Jack
+	- Kanaya, Karkat: Echidna
+	Hand Earth to John
+	- Self: Lord English
+	Get fed up with Dave's moaning
+	Expedite matters
+	Shoot Dirk
+	Introduce Strider to Strider
+	Jump into void
+	9415-9453
+	
+	*Cough.*
+	I'm going to need that treasure.
+	9590-9592
+	
+		Character select (sorta)
+		9684
+	<====
+	Call (Vriska) a loser
+	Verbally attack (Vriska)
+	Take Meenah
+	9685-9703
+	
+	Call Jake
+	Request debriefing from Meenah
+	Fail to come up with plan
+	TAVROS????????
+	9723-9754
+	
+	Admit Tavros did something useful
+	Be mocked by Tavros
+	9755-9759
+	
+	Tavros.
+	9760
+	
+	Tavros.
+	9761
+	
+	Tavros.
+	9762
+	
+	TAVROS!!!!!!!!
+	9763
+	
+	Witness Meenah's inspirational speech
+	9764-9770
+	
+	Congratulate Tavros
+	9841
+	
+	Have treasure
+	Be found by Meenah, army
+	9947-9948
+	
+	Witness arrival of Lord English
+	9949-9959
+	9983
+	
+	Collide
+	Fight Hussie
+	9987
+	
+	Walk away from defeated Hussie, with treasure
+	10001
+	
+	ACT 7
+	Use treasure on Lord English
+	10027
+
+Be killed by Terezi
+5737
+
+Say goodbye to John
+5594
+
+Have death judged
+5750-5763
+
+Troll alt-John
+5781-5785
+5805-5825
+5849-5853
+
+DOTA
+6715
+
+Punch Hussie in face
+DD: Ascend more casually.
+6844
+
+iRRRRRRRRECONCILA8LE
+6729-6733
+~ Tavrisprite
+
+Decide to fuck shit up
+6738-6740
+
+Meet John
+7284-7299
+
+Ministrife
+7327
+
+Form crew
+7848-7914
+7923-7954
+
+Reveal treasure
+7967-7987
+7992-7999
+8008-8010
+
+Talk to dancestor
+8453
+
+Have hair braided by Meenah
+8647-8649
+
+Enter Dark Carnival with Meenah
+9063-9070
+
+Watch destruction of dream bubbles with Meenah
+9126-9130
+
+Haha!
+9238-9253
+
+Name: (Vriska)
+
+Meet live self
+9349
+
+	Character select
+	9586
+<====
+Admit to being turned on around horses
+Ask what to do today
+Be interrupted by Vriska
+9587-9592
+
+	Character select (sorta)
+	9684
+<====
+Be called a loser
+Be verbally attacked by Vriska
+Be broken up with by Meenah
+9685-9703
+
+Remem8er.
+9859

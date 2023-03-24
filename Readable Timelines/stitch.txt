@@ -1,0 +1,56 @@
+Name: Stitch
+Colour: #FFEA00
+Image: ball09.png
+Group: The Felt
+
+Become minion of Caliborn
+7965
+
+Assist Caliborn in his quest
+8011
+
+Start repairing LE's coat
+3153
+
+Have Fin, CD arrive
+Threaten CD
+Be threatened by DD
+3156-3161
+
+	Have SS arrive in this timeline
+	3165
+	
+	Be interrupted by Snowman
+	3167-3170
+
+Name: Stitch
+# No-op
+
+	Have SS arrive in this timeline
+	Be killed by SS
+	3170-3171
+
+Be forced to fix SS's effigy
+3198-3199
+3201
+
+Witness allies be shot
+Attempt to set fire to effigies
+Be killed by SS
+3207-3211
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

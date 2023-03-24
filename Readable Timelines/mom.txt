@@ -1,0 +1,65 @@
+Name: Mom
+Colour: #FF6FF2
+Image: mom.png
+Group: Kids' Guardians
+
+Be created
+3787
+3790-3791
+3803
+3829-3831
+
+Be sent to Earth on meteor
+3840
+==>
+	~ Roxy
+
+Visit joke shop
+3782-3783
+3785
+
+Be silhouetted against window
+2131
+
+Strife with Rose
+2288-2289
+
+Open secret passage for Rose
+2657
+
+Have left with boat
+A mother will do whatever is best for her children.
+3398-3399
+
+Defeat large monster
+3568
+
+Enter temple
+Be found by Maplehoof
+3623-3628
+
+Reunite with Dad
+Regain scarf
+3795-3802
+
+Stand on helm, armed with rifle
+3840
+4294
+
+Arrive on battlefield
+3871
+
+Find John
+John vanishes
+4540-4544
+4547
+
+Comfort Dad
+4550-4552
+
+Have meal with Dad
+5400-5403
+
+Have been killed by Jack Noir
+5446
+5595

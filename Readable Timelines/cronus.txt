@@ -1,0 +1,16 @@
+Name: Cronus
+Colour: #6A006A
+Image: eridan.png
+Group: Alpha Trolls
+
+Fail Sgrub
+Witness initiation of Scratch
+Be blown up
+6892-6898
+
+Be asked to join Meenah's army
+Talk to Mituna
+7208
+
+Ministrife
+7327

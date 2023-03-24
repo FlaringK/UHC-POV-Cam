@@ -1,0 +1,289 @@
+Name: Jake
+Colour: #1F9400
+Image: jake.png
+Group: Alpha Kids
+
+Be introduced
+Talk with Calliope, Lil' Hal, Jane, Lil' Hal
+6019-6020
+6063-6088
+	6036
+<==
+6089-6093
+
+Talk with Jane
+Be told about death of dreamself
+Examine pumpkin patch
+Talk with Roxy
+Fight indigenous fauna
+6108-6136
+6146-6153
+
+Run.
+Be protected by brobot
+6171-6177
+
+Fight brobot
+Level up.
+Black out.
+Meet Aranea
+Wake
+Talk to Roxy, Jane
+Ask Jane if she likes you
+Brobot selfdestructs in background
+6472-6493
+
+Attempt to contact Jane
+Lose consciousness
+6723
+
+Be unconscious in frog temple
+6741-6742
+
+Have memory of past in dream bubble
+Talk with Dirk
+Receive brobot
+Be told of Dirk's bro, Roxy's mum
+Tell Dirk of grandmother
+Reveal Dirk is brain ghost Dirk
+6744-6777
+
+Talk with Aranea
+6825-6831
+6844
+
+Join dream party
+Attack Meenah
+Be woken by Aranea
+6883-6909
+
+Wake up.
+Read note left by Calliope
+Monstrosify fruit
+Infintesimalize globe
+Have globe fall down hole
+6914-6925
+
+Write letter to John
+3855-3856
+5575
+
+Send Terry to John
+6926
+
+Go get globe
+Take fourth wall from globe
+Talk with Lil' Hal
+Install server
+Connect to Dirk
+Transportalize to Derse
+Be found by dream Dirk
+Notice Jane
+6953-6969
+
+Be dragged back to transportilizer by bunny
+Fly high into the air
+7042
+7051-7064
+
+Crash land in house
+7068-7072
+
+Have Dirk's head teleport in
+Wake up
+Talk with Lil' Hal
+Kiss Dirk's head
+7140-7150
+
+Notice rest of party
+7152
+7155-7157
+
+Play keep away with Dirk's head
+7365-7366
+
+Enter.
+7160
+
+Adventure
+7338
+
+Examine fourth wall
+Ignore message from Dirk
+Talk to Erisolsprite
+7412-7416
+
+Talk to Jane
+Have forgotten Jane's birthday
+7420-7431
+
+Miss message from Roxy
+Talk with Caliborn
+7558-7582
+
+Talk to Jane
+7590-7591
+
+Be found by trickster Jane
+Enter trickster mode
+Fly to Derse
+Convert Roxy
+Fly to LOPAN
+Get Fefetasprite
+Fly to LOTAK
+Convert Dirk
+Witness dear, sweet precious Fefetasplosion
+Alchemize
+Go back to Act 6 Act 5 Act 1
+7616-7678
+
+Act 6 Act 5 Act 1 x2 combo
+7688-7690-2
+7694-7700-2
+7706-7714-2
+
+Ascend
+7740-7748-2
+7754
+
+Be attacked by Jack Noir
+7758-7762-2
+
+Jade arrives
+7770-7774-2
+7778-7782-2
+
+Jade gets mind controlled
+7786-7792-2
+
+Jane gets mind controlled
+Be beaten up by Jane
+7798-7808-2
+
+Be taken to Derse
+7814-7824-2
+
+	Wait for arrival of John, Roxy
+	Nervously talk with John
+	9350-9377
+	9382
+	
+		Character select screen
+		9386
+	<====
+	
+	Pretend to talk with Tavrosprite
+	Wave at Roxy
+	Be joined by Vriska
+	9397-9399
+	
+	Talk with John
+	9413-9414
+	
+	Be assigned to fight Ro8o Jack
+	9415-9460
+	
+	Be found by Jasprosesprite^2
+	9562-9568
+	
+		Character select
+		9704
+	<====
+	
+	Nickname Tavvy
+	Be asked by Jasprosesprite^2 where your kernel is
+	Witness creation of Nepetasprite
+	9710-9722
+	
+	Be called by Vriska
+	Summon GCat
+	Be told to ask Tavrosprite to pick up GCat
+	Witness creation of Gcatavrosprite
+	9723-9739
+	
+	Attend tea party with Nepetasprite, Jasprosesprite^2, Tavrosprite
+	Witness creation of Davepetasprite^2
+	9771-9780
+	
+	Be in background
+	9795-9798
+	
+	Witness arrival of Spades Slick, the Felt
+	9863-9869
+	9984
+	
+	Collide
+	Fight the Felt
+	9987
+	
+	Talk with Dirk
+	10012
+	10015
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+	
+	Appear in front of Caliborn
+	Witness bisection of Gamzee
+	Be defeated
+	Cause hopesplosion
+	9318-9345
+
+Glitch out
+Have glitches fixed by John
+Be intimidated by Jane in Derse cell
+8335-8346
+
+Be healed by Aranea
+8472-8486
+
+Create angels
+8490-8493
+
+TALLY HO!
+8500-8501
+
+Continue powering up
+8506-8516
+
+Have Derse teleported out from underneath you
+8518-8519
+
+Continue powering up
+Have Jade attempt to overpower you
+Overpower Jade
+8525-8541
+8546-8551
+8584-8586
+
+Make brain ghost Dirk real
+8590-8592
+
+Start running out of power
+8650-8655
+8657
+
+Be killed by Jane
+8662
+8664-8670
+
+Be resurrected
+8703-8708
+
+Watch Gamzee beat up Terezi
+8712-8719
+
+Question Gamzee's methods
+Be hit by stray shot from Rose
+8729-8733
+8748
+8752
+
+GAME OVER
+8801
+
+Remem8er.
+9859

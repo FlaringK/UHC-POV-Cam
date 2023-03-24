@@ -1,0 +1,345 @@
+Name: Roxy
+Colour: #FF6FF2
+Image: roxy.png
+Group: Alpha Kids
+
+Talk to Jane
+6055-6057
+
+Be introduced
+6361-6364
+
+Talk to Jake
+6124-6126
+
+Grab gun
+Mess around
+Black out
+Sleepwalk.
+Wake up
+Talk with Dirk, Lil' Hal
+6370-6390
+
+Talk with Jane
+Appearify Unabridged Colonel Sassacre's
+6332-6336
+
+Talk with Lil' Hal
+Redo Jane conversation
+Be distracted by GCat
+Crush Frigglish
+Break fenestrated plane
+Talk with Calliope
+Fall past dream self
+6391-6416
+
+Arrive in lab
+Attempt to appearify Rose
+Take Rose's scarf
+Send Frigglish home
+6502-6516
+
+Be snuck up upon by Dersites
+6519-6525
+
+Run for fenestrated plane
+6527-6530
+
+Get trapped in void
+Meet Meenah
+6532-6543
+
+Abscond
+Run!!!!! Again!!!!!
+You got a lab full of cats, a skirt full of scamper, and a head full of vodka.
+Hide!!!!!
+6552-6561
+
+Talk to Jane
+6722
+
+Hand out pumpkins
+6751-6753
+
+Run from drones
+6844
+
+Get back to house
+Avoid red miles
+Talk with Jane, Lil' Hal, Calliope
+6979-6983
+
+Return home
+Put out fires
+Connect with Jake
+Talk with Calliope
+Learn Calliope's name
+Learn Calliope's species
+6986-6993
+
+Attempt to save Jake
+Be killed by the Red Miles
+7076-7080
+7083-7084
+7086
+	Remem8er.
+	9859
+
+Be revived by Dirk
+Find Jane's body
+Attempt to revive Jane
+7138
+
+Unite.
+7152
+
+Meet up on Jake's island
+7156-7157
+
+Talk to Calliborn
+7359-7366
+
+Enter
+7160
+
+Progress through game
+7338
+
+Celebrate Jane's birthday
+Be kidnapped by GCat
+7417-7445
+
+In dream bubble
+Doint write whilt dronk.
+Talk with Calliope
+Find twinkly Herbert
+Leave house
+Meet Calliope
+Notice arrival of Rose
+Be forcibly awakened
+Be left gift by CD
+7472-7533
+
+Talk to Dirk (Actually Lil' Hal Junior)
+7535-7537
+
+Talk to Jake
+7558-7566
+
+Talk to Jane
+Be interrupted by )(IC
+7599-7601
+
+Be found by tricksters
+Fly to LOPAN
+Get Fefetasprite
+Fly to LOTAK
+Convert Dirk
+Witness dear, sweet precious Fefetasplosion
+Alchemize
+Go back to Act 6 Act 5 Act 1
+7629-7678
+
+Act 6 Act 5 Act 1 x2 combo
+Be on sacrificial slab
+7688-7690-2
+
+Talk with Jake, Jane
+7694-7720-2
+
+Ascend
+7740-7748-2
+7756-7760-2
+
+Fall into trap x2 combo
+7784
+7806-7810-2
+
+Be dragged by Jade to Derse
+7814-7824-2
+
+Be given mission by Jade
+Be intimidated by Jade
+Create perfectly generic object
+8188-8198
+
+Be found by John
+Talk with John
+Create perfectly generic object/matriorb hybrid
+8347-8365
+
+Notice Jake's hope powers
+Escape prison
+8494-8501
+
+Watch fight
+8509-8511
+
+Have LOFAF teleported in underneath you
+8519
+
+Watch fight
+8525-8551
+
+Be noticed by Aranea
+8560-8562
+
+Be put to sleep by Aranea
+8566-8569
+8584
+
+Be found by Rose
+Be taken to safety
+8650-8655
+8659-8661
+
+GAME OVER
+8801
+
+Carry Rose to LOPAN
+Watch Rose bleed out
+Talk with John
+Meet Terezi
+8863-8906
+
+Ask John if he's ever seen his denizen
+Agree to go see denizen
+Phase down to core of planet
+8922-8935
+
+Be on LOWAS
+sup
+Take Dave's bro's sword
+9000-9025
+
+Perform Rose's funeral
+Reunite with Frigglisprite
+9174-9183
+
+Hold John's hand
+Be returned to narrative
+9289-9304
+
+Arrive in narrative
+Notice Rose
+Hug Rose
+9363-9377
+9381
+
+	Character select screen
+	9386
+<====
+
+Get to know Rose
+Be joined by Dave
+9393-9396
+
+Interrogate Dave
+Meet Rosesprite
+9402-9403
+	Wave at Jake
+	9397
+<====
+9404-9407
+
+Emphasize Jane's sexuality to Dave
+9412
+
+Be assigned to fight )(IC
+9415-9460
+
+Witness disobedience of Jane
+Reunite with Jane
+Witness creation of Jasprosesprite^2
+9482-9492
+
+Surprise Calliope with ring
+Return Calliope to life
+Do voidy thing
+9523-9534
+
+Be greeted by Jasprosesprite^2
+:O
+9547-9551
+
+Y34H, SH3'S JUST GONN4 BR1NG N3P3T4 B4CK 1SN'T SH3
+9569-9571
+
+	Character select
+	9581
+<====
+Introduce Calliope
+Flatter Calliope
+9582-9585
+
+	Character select
+	9593
+<====
+Ask Calliope to help make egg
+9594-9595
+
+	Character select
+	9600
+<====
+EGG!
+9601-9612
+
+	Character select
+	9625
+<====
+Take Calliope to LOFAF
+Ask Calliope to look after Jade, the Mayor
+9626-9632
+
+	Character select
+	9666
+<====
+Find Kanaya
+hey!!!!!!!!!
+Give Kanaya matriorb
+Take Kanaya to fight
+9667-9683
+
+Arrive back on frog pad
+Witness John's black flirting with Terezi
+9829-9838
+
+Be on Derse
+Prepare to fight Condesce
+Be asked by John what you're doing with that sword
+Witness arrival of Condesce
+9876-9886
+9986
+
+Collide
+Fight Condesce
+Kill Condesce
+9987
+
+Put mask back on
+9989
+
+Talk with Rose, Kanaya
+9990
+
+Fly off
+9991
+
+Be on frog platform
+9993-9994
+
+Hug Calliope, Jane
+10012-10013
+
+Witness John meeting Dad
+10016-10022
+
+ACT 7
+10027
+
+Appear in front of Caliborn
+Witness bisection of Gamzee
+Be defeated
+Witness defeat of Caliborn
+Banish Lil' Cal into the void
+9318-9345

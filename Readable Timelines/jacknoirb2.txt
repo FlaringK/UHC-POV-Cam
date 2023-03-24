@@ -1,0 +1,108 @@
+Name: Jack Noir
+Colour: #000000
+Image: spades.png
+Group: Alpha Kids' Agents
+
+Greet Jane
+6294-6298
+
+Jack Noir just bees himself
+6299
+
+Contact Droll
+Be informed of Jake's death
+6300-6307
+
+Witness some sorta Lifey thing
+Blow joint
+6308-6309
+
+Find Jane
+Attempt to finish job
+6495-6497
+
+Be interrupted by Dignitary
+Be informed of Dirk's rebellion
+6498-6499
+
+Be interrupted by Prospitian Monarch
+6500-6501
+
+Examine Prospitian prison
+Inspect pumpkin
+Find message from Droll
+6778-6787
+
+Open pumpkin
+Find knives
+6788-6797
+
+Attract attention
+Punch another guard
+Attempt to grab keys
+Stab guard
+6798-6805
+
+Call over another guard
+"Persuade" guard
+6806-6808
+
+Examine cell
+6809
+
+Welcome guest
+6810
+
+Jack.
+Jack, the man is dead. Stop that.
+Jack.
+Jack.
+Jack.
+6812
+
+Dispose of body
+Send head to Prospitian Monarch
+6813-6821
+
+Greet visitors
+6822-6823
+
+Continue being imprisoned
+7410
+7460
+
+Receive pumpkin, Lil Cal
+You're mother fuckin welcome
+Be hypnotised by Caliborn
+Stab own eyes
+Replace eyes with Lil Cal's eyes
+Replace right leg with Prospitian spike
+Take crowbar
+7702-7715
+
+Name: Jack English
+
+Destroy Prospit
+7716-7723
+
+Destroy Prospit's moon
+7734-7743
+
+Attack Jane, Jake
+7760-7763
+
+Be teleported into outer ring by Jade
+7770-7777
+
+Arrive back in incipisphere
+9872-9875
+
+Be followed by Spades Slick
+Arrive on LOTAK
+9939-9944
+9985
+
+Collide
+Fight Spades Slick, Dave, Terezi, Dirk
+Have head cut off by Dave
+9987

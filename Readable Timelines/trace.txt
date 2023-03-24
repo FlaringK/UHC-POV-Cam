@@ -1,0 +1,43 @@
+Name: Trace
+Colour: #DF0000
+Image: ball03.png
+Group: The Felt
+
+Become minion of Caliborn
+7846
+
+Assist Caliborn in his quest
+7965
+8011
+7906
+
+Midnight Crew: Act 1031
+2733
+
+Punch DD from future
+3102-3103
+
+Start being followed by CD
+3142
+
+Start following CD
+3126
+
+Be killed by CD
+3144-3146
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

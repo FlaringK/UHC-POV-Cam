@@ -1,0 +1,32 @@
+Name: Matchsticks
+Colour: #DF0000
+Image: ball11.png
+Group: The Felt
+
+Become minion of Caliborn
+7965
+
+Assist Caliborn in his quest
+8011
+
+Arrive in Doc Scratches appartment
+Start putting out fires
+Be attacked by SS
+Be killed by SS
+5725-5733
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

@@ -1,0 +1,26 @@
+Name: Jadesprite
+Colour: #1F9400
+Image: jadesprite.png
+Group: Kids' Sprites
+
+Be prototyped
+5112-5117
+
+Drop
+5120-5125
+
+Talk to Jade
+5140-5150
+
+Be on battlefield
+Meet Davesprite
+5786-5789
+
+Talk to Davesprite
+5826-5827
+
+Teleport sword to Dave
+5844-5848
+5798
+
+Fuse with Jade

@@ -1,0 +1,160 @@
+Name: Caliborn
+Colour: #323232
+Image: caliborn.png
+Group: Cherubs
+
+Land on Earth
+Be found by Gamzee
+Hatch
+Separate into distinct personalities
+Bite Gamzee
+7874-7876
+7882-7884
+7887-7890
+
+Play chess with Calliope
+Reveal non-switch of king/queen
+6929-6933
+	7891
+<==
+
+Jeer Calliope about death of Jane
+Complain about loss of viewport
+Create picture
+7037-7053
+7070-7102
+
+Jeer Dirk
+Try to convince Dirk to throw Lil' Cal out of window
+6545-6551
+
+Jeer Dirk
+Get Dirk to make pornography for you
+Jeer past Dirk
+Get Dirk to make pornography for you
+Jeer future Dirk
+Tell Dirk shitty twist
+Reveal that you've killed Calliope
+6863-6882
+
+Inform Dirk of inability to escape the Miles
+Tell Dirk to throw Lil' Cal into ocean
+6971-6975
+
+Enter
+7161
+	7892-7893
+<==
+
+Wander around LO-A-
+Have Roxy attempt to contact you
+Meet Gamzee
+Shoot Gamzee
+Continue shooting Gamzee
+...
+Find relay tower
+Talk with AH
+Shoot Gamzee
+Change colour of text
+Be given crowbar by Gamzee
+Beat Gamzee with crowbar
+Beat tower with crowbar
+Be given keys by Gamzee
+Unlock monitors showing Jake, Dirk, Roxy, Jane, Jack
+7340-7389
+Colour: #126628
+7390
+Colour: #2ED73A
+7391-7410
+
+Jeer Jane
+7450-7456
+
+Jeer Jake
+Give Jake uROBuROS code
+Possess Lil' Cal
+7568-7582
+
+Witness tricksters
+7614
+
+Interrupt AH
+Mess with narrative prompt
+Break glass
+Engage A6A5A1x2 COMBO!!!
+7678-7687
+
+Possess Jack through Lil' Cal
+7708-7720-2
+
+Meet Yaldabaoth
+Make choice
+Start session
+7896-7904
+
+Unlock Itchy, Doze
+7839
+
+Unlock Trace, Clover
+7846
+
+Unlock Die, Crowbar
+7922
+
+Unlock Stitch, Sawbuck, Matchsticks
+7965
+
+Unlock Eggs, Biscuits
+8011
+
+Unlock Quarters, Cans
+Have intense staredown with John
+Have Cans punch John out of the frame
+8092-8104
+
+Destroy discs 1, 2
+Inform reader of absence of existence of disc 3
+Take over as author
+Start Homosuck
+Inform reader that you've reached God tier
+Find drawing book, horses, A6A6 cartridge
+Place cartridge in non-ideal conditions
+8138-8177
+
+Continue Homosuck
+Be interrupted by John
+8375-8430
+
+Continue Homosuck
+Be interrupted by John
+GAME OVER
+8753-8801
+
+Return to basics
+8821-8843
+
+Visit Yaldabaoth
+9960-9966
+9982
+
+Collide
+Kill Yaldabaoth
+Claim prize
+9987
+
+Open prize
+10006
+
+ACT 7
+Close prize
+Destroy clock
+Gain clockwork majyyks
+10027
+
+Finish telling masterpiece
+Be ambushed by 8 kids
+Use superior weapon
+Defeat kids
+Be surprised by hope field
+Have soul shoved into Lil' Cal
+9309-9347

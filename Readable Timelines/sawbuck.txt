@@ -1,0 +1,44 @@
+Name: Sawbuck
+Colour: #4040FD
+Image: ball10.png
+Group: The Felt
+
+Become minion of Caliborn
+7965
+
+Assist Caliborn in his quest
+8011
+
+	Have SS arrive in this timeline
+	3165
+	
+	Be interrupted by Snowman
+	Start jumping around in time
+	Be killed by SS
+	3167-3173
+	3175-3186
+	3189
+	3191-3196
+
+Have SS, Crowbar, self? arrive
+Fight with Crowbar
+3182-3183
+
+Be killed by SS
+3195-3196
+
+Be resurrected by SS
+Be commanded by SS
+Leave Hussie's realm
+Enter remains of A2
+Enter Biscuit's oven
+8025-8032
+8034-8041
+
+Be dropped off on LOMAX by SS
+9864-9869
+9984
+
+Collide
+Fight Jake
+9987

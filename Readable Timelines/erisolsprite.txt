@@ -1,0 +1,19 @@
+Name: Erisolsprite
+Colour: #4AC925
+Image: erisolsprite.png
+Group: Alpha Kids' Sprites
+
+Hate self for being
+7412
+7416
+7573
+
+Witness tricksters
+Be dragged along for the party
+7616-7678
+
+Find John on Lomax
+8131
+
+Witness Jake powering up
+8501-8505

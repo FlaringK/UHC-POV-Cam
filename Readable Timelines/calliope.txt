@@ -1,0 +1,200 @@
+Name: Calliope
+Colour: #929292
+Image: calliope.png
+Group: Cherubs
+
+Land on Earth
+Be found by Gamzee
+Hatch
+Separate into distinct personalities
+Hug Gamzee
+7874-7876
+7882-7886
+7890
+
+Cheer Jane
+6043-6044
+
+Cheer Jake
+6080-6081
+
+Cheer Roxy
+6412-6414
+
+Cheer Dirk
+6464-6466
+
+Cheer Jane after she enters
+6721
+
+Play chess with Caliborn
+6929-6933
+	7891
+<==
+
+Be pestered by Jane
+6862
+
+Cheer Jake
+6914-6915
+
+Give Jane juju code
+7593-7594
+
+Cheer Roxy
+Tell Roxy your name
+Inform Roxy of your species
+Take off troll cosplay
+Tidy up a little.
+Examine brother's artwork
+Examine ancient tome, created by a famous Seer of Light
+Retrieve wand.
+Examine juju
+Holster magnum.
+Go outside
+6982-6983
+6988-7036
+
+Go to sleep
+7119-7124
+
+Join Roxy in dreambubble, disguised as Twinkly Herbert
+Take Roxy to your realm
+Be disguised as trollsona
+Inform Roxy of your search for yourself
+Be interrupted by Rose
+Wake Rose, Roxy
+7481-7482
+7489-7525
+
+Be visited by Jade
+8570-8581
+
+Question Jade
+Help Jade make trollsona
+8615-8617
+
+Talk with Jade about where you lived
+Be told story by Jade
+8907-8921
+
+Start drawing story
+Be annoyed at intermission
+Lose focus on hand
+Listen to end of story
+8959-8998
+
+Be found by Jane
+Recognise Jane
+Attempt in-person expression of friendship
+Get excited about making Jane a trollsona
+9092-9105
+
+Ask Jane to tell story
+9164-9173
+9255-9258
+
+Listen to Jade
+9305-9307
+
+Fall through spiral
+Arrive on yellow brick road
+Enter memory of Echidna's lair
+Witness Jane's disappearance
+9461-9481
+
+Meet Calliope
+Talk with Calliope in private
+Have disguise removed by Calliope
+Listen to Calliope's story of how she died
+Be told to live
+9493-9522
+
+Be surprised by Roxy
+Return to life
+9523-9534
+
+Be greeted by Jasprosesprite^2
+:O
+9547-9551
+
+Y34H, SH3'S JUST GONN4 BR1NG N3P3T4 B4CK 1SN'T SH3
+9569-9571
+
+	Character select
+	9581
+<====
+Be introduced
+Be flattered and insulted
+Be informed of ripped brother's cape
+Consider what you'll do next
+9582-9585
+
+	Character select
+	9593
+<====
+Try to be useful
+9594-9595
+
+EGG!
+9601-9612
+
+	Character select
+	9625
+<====
+Be taken to LOFAF by Roxy
+Be asked to look after Jade, the Mayor
+9626-9632
+
+Look around Jade's house
+Meet the Mayor
+Find sleeping Jade
+9781-9786
+
+Notice Jade wake
+Point out note to Jade
+Exit house
+9915-9924
+
+Collide
+9987
+
+Greet Jade
+9996-9997
+
+Be hugged by Roxy
+10012-10013
+
+Witness John meeting Dad
+10016-10022
+
+ACT 7
+10027
+
+	Colour: #FF0000
+	Welcome Jade back
+	Talk with Calliope in private
+	Remove Calliope's disguise
+	Tell Calliope of own death
+	Tell Calliope to live
+	9496-9521
+	
+	Be asked by Jade where you're going
+	Tell Jade it is not time to wake yet
+	Educate Jade on aspects
+	9787-9789
+	9793-9794
+	
+	Arrive at Green Sun
+	Tell Jade to stay asleep
+	Say goodbye to Jade
+	9897-9902
+	
+	Collide
+	Head towards Green Sun
+	9987
+	
+	ACT 7
+	Take the path of the martyr
+	Destroy Green Sun
+	10027

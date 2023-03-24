@@ -1,0 +1,125 @@
+Name: Sollux
+Colour: #A1A100
+Image: sollux.png
+Group: Trolls
+
+Be manipulated into killing Aradia
+5490
+4145-4151
+
+Talk to Karkat
+3927
+
+Be introduced
+Set up teams
+3971-3982
+3985-3986
+
+Delete viruses
+3990-3995
+
+Talk to Aradia
+Be put to sleep
+4046-4054
+
+See transtimeline bulletin board
+4443
+
+Be brought into game
+4370-4371
+4378-4381
+
+Wake on moon of Derse
+4403-4415
+
+Make her pay.
+4478
+
+Fight Black King
+4493-4504
+5078
+
+Arrive on meteor
+4827
+4508-4524
+
+Trace wire transfer
+Find humans
+4659-4671
+5080
+4692
+
+Declare non-participation of trolling
+4529
+
+Set up Kanaya's viewport
+3615-3619
+3644-3646
+
+Receive goodbye from Aradia
+5081-5087
+
+Chill with Feferi
+Dual Eridan
+5221-5226
+5251
+
+Be dragged into lab
+5323-5329
+
+Enter dream bubble
+5490-5498
+
+Wake up
+5369-5371
+
+Talk to Terezi
+5376-5378
+
+	FL1P
+	wh0's talking.
+	9280-9288
+	
+	Meteor montage
+	9349
+
+Goto roof
+5744-5746
+5748
+
+Shoosh, pap
+5985-5995
+6004
+
+	Join Aradia by Green Sun
+	5898-5901
+<======
+
+Cascade
+6009
+
+Meet friends
+6231
+6249-6276
+
+Mayor arrives
+Give meteor push
+6282-6288
+
+======>
+	~ Erisolsprite
+
+Be in Vriska's crew
+7848-7914
+
+Be upstaged by Tavros
+7923-7946
+
+Be in Meenah's army
+9841
+
+Collide
+9987
+
+	Remem8er.
+	9859

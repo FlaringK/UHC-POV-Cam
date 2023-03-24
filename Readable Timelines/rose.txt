@@ -1,0 +1,528 @@
+Name: Rose
+Colour: #B536DA
+Image: rose.png
+Group: Kids
+
+Be created
+3790-3791
+3803
+3829-3831
+
+Be sent to Earth
+3840
+3779
+
+Be on Earth
+3782
+3785
+
+Be told Jasper's secret
+2829-2830
+2835-2836
+
+Be watched by Kanaya
+4609-4610
+
+Receive present from John
+Be trolled by Kanaya
+2990-2994
+
+Talk with Jade
+2341-2342
+
+Convince Dave to play Sburb
+2233
+
+Talk to John
+1963
+
+Talk to Jade
+2737-2738
+
+Connect to John
+Mess around with interface
+Lose connection
+Be introduced
+Reconnect
+2035-2122
+2124-2146
+
+Start on walkthrough
+2149
+
+Talk to John after he enters
+2156-2170
+
+Write walkthrough
+Second tier prototype sprite
+Pick up car
+Lose connection
+2172-2190
+
+Head outside
+2195-2208
+2258-2280
+
+Strife
+2288-2290
+
+Go outside
+2294-2296
+
+Proceed to mausoleum
+2298-2299
+
+Power up generator
+Reconnect
+Talk with Dave
+Attract John's attention
+2312-2333
+
+Work on walkthrough
+2340
+
+Deploy last of equipment
+Kill imp
+Get John to collect grist
+Start building
+2370-2386
+
+View Nannasprite
+2391-2408
+
+Continue working on walkthrough
+Keep building
+Talk with Dave
+2410-2422
+
+Throw bath through wall
+2432-2441
+
+Talk to John about saving card
+2450-2454
+
+Throw fort out of window
+Collect carved totems
+Create captchalogue cards, hammer, pogo ride, rocket pack(?)
+Drop rocket pack(?) on imp
+2514-2526
+
+Watch John perform alchemy
+Catch flying John
+2533-2543
+
+Attempt to send John Sburb server
+Lose power
+2545-2550
+
+Try to get generator working
+Jump out of way of falling tree
+Find secret passage in mausoleum
+2657
+
+Enter secret passage
+2739-2740
+
+Find Skaianet
+2746-2750
+
+Lose Jaspers
+2760-2769
+
+Find Skaianet session terminal
+Reconnect
+Congratulate John on boss battle
+2772-2780
+
+Find child's bedroom, Vodka Mutini
+2803-2807
+
+Find appearifier
+Find Jaspers
+2826-2841
+
+Arrive in Mom's room
+Witness destruction of Skaianet
+2884-2888
+
+Reconnect
+Talk to John
+2902-2904
+
+Build up
+Psychoanalyse John
+2922-2925
+
+Finish building
+2981
+
+Wait for Dave
+2988-2989
+
+Enter.
+3048-3049
+
+Arive in LOLAR
+3307
+
+Be commanded by WQ
+3330-3333
+
+Enter secret passage
+Find absence of boat, cocktail glass
+3391-3399
+
+Talk with John
+Be trolled by Terezi
+3423-3424
+
+Talk with Dave
+3299
+3301-3302
+
+Be commanded by WQ
+3438-3442
+
+Strife
+Talk with Dave about killing ogre
+3418-3419
+3482-3488
+
+Be trolled by Tavros, Kanaya
+3490-3492
+4616
+
+Talk to Jaspers, dream Jade
+Try to contact Dave
+3523-3530
+
+==>
+	Talk with Dave
+	3543
+
+Future Dream Rose: Cease to exist.
+Fall asleep
+3553-3554
+<==
+3555-3556
+
+Be snooped on by John
+3590-3594
+
+Wake up
+See MEOW code
+3568
+
+Wake Dave
+3596-3604
+
+Shut up and jam.
+Throw Lil' Cal out of window
+3620-3622
+
+Wake up
+3641-3643
+
+Be pranked by John
+3646-3649
+
+Just miss John
+3653-3654
+
+Alchemize
+Create Thorns of Oglogoth (among other things)
+Aggrieve
+3702-3716
+
+Burn book
+3756-3758
+
+Be trolled by Kanaya
+3838
+
+Blow up your first gate
+3840
+4618-4619
+
+Final entry in walkthrough
+3842
+
+Be trolled by Kanaya
+4621-4622
+
+Talk with John about building his house, wreaking havoc
+Take apart turtle temple
+Talk with Kanaya
+Ask about the Green Sun
+4582-4592
+	4626
+<==
+4627-4631
+
+Be trolled by Eridan
+Blow up Eridan's computer
+Be trolled by Aradia
+4703-4709
+
+Talk with Nepeta
+Free Jaspers
+4711-4716
+
+Use LOWAS as reading light
+4801-4804
+
+Spy on sleeping Dave, John
+4813-4814
+
+Talk to John
+4820-4824
+
+Talk t- nak nak nak
+Talk to Dave
+Inform Dave of suicide mission
+Talk with Kanaya
+4936-4937
+4939-4947
+
+Witness John's ascension
+4987
+
+Be viewed by Jade
+5099
+
+Pester informant.
+Answer Jade
+5526-5539
+
+Enter blackout
+5201-5202
+
+Go dark.
+Resist urge to seek revenge.
+5542-5547
+
+Descend.
+5595-5596
+
+Round Two.
+Be killed
+5678-5688
+5696
+5750
+	Remem8er.
+	9859
+
+Be revived
+5770
+
+Wake up on Derse
+5768-5769
+5772
+
+Psychoanalyse Dave
+5775-5780
+
+Help Dave remember
+5796-5804
+
+Stall
+5837-5840
+
+Cascade
+6009
+
+	Meteor montage
+	9349
+	
+	shes 8ack
+	9305-9307
+	
+	Wait for arrival of John, Roxy
+	Be hugged by Roxy
+	9350-9377
+	9381
+	
+		Character select screen
+		9386
+	<====
+	
+	Get to know Roxy
+	Be joined by Dave
+	Meet Rosesprite
+	9393-9396
+	9402-9407
+	
+	Question if Dave's talking inappropriately about Jane
+	9412
+	
+	Be assigned to fight )(IC
+	9415-9460
+	
+	Witness disobedience of Jane
+	Retire meme
+	Continue Freudian boners
+	Witness creation of Jasprosesprite^2
+	9482-9492
+	
+	:O
+	9547-9551
+	
+	Y34H, SH3'S JUST GONN4 BR1NG N3P3T4 B4CK 1SN'T SH3
+	9569-9571
+	
+		Character select
+		9581
+	<====
+	Stay hidden under pillow
+	Be introduced to Calliope
+	Try to work out how Calliope fits into this
+	9582-9585
+	
+		Character select
+		9596
+	<====
+	Talk with John
+	9597-9599
+	
+	Notice reappearence of Jasprosesprite^2
+	Witness Jane being taken away by Jasprosesprite^2
+	9614-9616
+	
+	Notice arrival of Kanaya, Roxy
+	Threaten John with acrobatic pirouette if he denies leadership
+	9829-9838
+	
+	Be on Derse
+	Prepare to fight Condesce
+	Witness arrival of Condesce
+	9876-9886
+	9986
+	
+	Collide
+	Fight Condesce
+	9987
+	
+	Talk with Kanaya, Roxy
+	9989-9990
+	
+	Fly off
+	9991
+	
+	Be on frog platform
+	9993-9994
+	
+	Be dragged by Kanaya
+	10012
+	
+	Inform Kanaya you're going to talk with someone else
+	10014
+	
+	Greet Dirk
+	10015
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+	
+	Appear in front of Caliborn
+	Be sucked into juju
+	9318-9325
+
+Meet friends
+6231
+
+Level up.
+6246
+
+Talk with trolls
+Receive message from John
+6248-6276
+
+Mayor arrives
+6282-6288
+
+See Roxy
+6386
+
+Year 1
+6585
+
+Research with Kanaya
+Steal Karkat's book
+6595-6613
+6621-6627
+
+Exposition!
+6884-6913
+
+Dirk(?) arrives
+7105-7118
+
+Talk with Meenah
+7163
+
+distraction
+7253-7257
+
+Physically pass through dream bubble
+7298
+
+Year 2
+Prepare for date with Kanaya
+Be drunk
+7300-7324
+
+Arrive in Calliope's dream bubble(?) thing
+7519-7525
+
+Perform civic duty in can town
+7955-7964
+
+Arrive in new session
+Be teleported to LOMAX
+8121-8134
+	R3UN1ON
+	9110-9119
+
+Somehow be on LOLAR
+Start glitching out
+Talk to Terezi
+Talk with John
+Watch John be chased away
+8182
+8243-8269
+8271-8275
+
+Ask Terezi what she's doing
+8306-8315
+
+Be informed of problems
+8555-8556
+
+Arrive on LOFAF
+8634-8637
+
+Ask Brain Ghost Dirk what's going on
+Save Roxy
+8650-8655
+8659-8661
+
+Auspisticize between Terezi and Gamzee
+8709-8720
+8728-8735
+8738-8744
+
+Witness arrival of Condesce
+8747-8748
+8752
+
+GAME OVER
+8801
+
+Be carried by Roxy to LOPAN
+Bleed out
+8863-8881
+
+~ Rosesprite

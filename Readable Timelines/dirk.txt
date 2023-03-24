@@ -1,0 +1,267 @@
+Name: Dirk
+Colour: #F2A400
+Image: dirk.png
+Group: Alpha Kids
+
+Talk with Caliborn
+Produce pornography for Caliborn
+6865-6872
+
+Ask why Jane activated the bunny
+6156-6159
+
+Be introduced
+Rap off with Squarewave
+Be snuck up upon by HB
+Kill HB
+Talk to Roxy, Lil' Hal
+6366-6368
+6417-6448
+6386
+6449-6451
+	6388-6389
+<==
+6452-6453
+
+Talk to Jane
+6354-6360
+
+Talk to Lil' Hal, Jane, Calliope
+6454-6467
+
+Rise up.
+6472
+
+Notice arrival of fenestrated plane
+Talk with Caliborn
+Notice arrival of drones
+6531
+6544-6551
+
+Be brain ghost Dirk in Jake's memory
+6744-6777
+
+Hang out on Derse
+6844
+
+Talk with Caliborn while fighting drones
+Tell Caliborn to find past Dirk
+6863-6864
+6866-6870
+6873-6882
+
+Be brain ghost Dirk in dream bubble
+Be noticed by Terezi
+Carry on existing after Jake wakes up
+6887-6913
+
+Talk with Caliborn
+Be on roof of house
+Also be on Derse
+Be told to throw Lil' Cal in the ocean
+Talk with Lil' Hal
+6971-6977
+
+Notice Jake on Derse
+6963-6966
+
+Notice Jane on Derse
+6946-6950
+
+Tell Jane to leave Derse
+Witness Jane be killed by Red Miles
+7038-7045
+
+Tell Jake to get off Derse
+Get bunny to remove Jake from Derse
+7051-7056
+
+Consider kissing Jane
+Have dream self get knocked unconscious
+Feedback knocks out waking self
+	7087
+<==
+7088-7090
+7092-7100
+7102
+
+Dream into brain ghost Dirk
+7104-7117
+
+Reach edge of dream bubble
+7125-7131
+
+Be woken by Aranea
+Synchronize.
+7134-7135
+7137-7138
+	Remem8er.
+	9859
+
+Have decapitated head arrive on Jake's island
+Be resurrected by Jake
+7140-7150
+
+Unite.
+7152
+7156-7157
+
+Try to get head
+7365-7366
+
+Enter
+7160
+
+Adventure
+7338
+
+Message Jake
+7413-7414
+
+	Consider prototyping Lil' Hal
+	Meet Vriska, Equiusprite
+	Create ARquiusprite
+	9349
+	
+	Enter window portal, shot by Vriska
+	Arrive on frog platform
+	Be introduced to Dave
+	9446-9460
+	
+	Be found by Jasprosesprite^2
+	...
+	9557-9561
+	
+		Character select
+		9572
+	<====
+	Have awkward conversation with Dave
+	9573-9580
+	
+		Character select
+		9633
+	<====
+	Confirm which version of Jack Noir you're fighting
+	...
+	Talk with Dave about alternate selves
+	...
+	Actually talk with Dave
+	9634-9665
+	
+	Continue talking with Dave
+	You're welcome for me existing.
+	9817-9822
+	
+	Prepare to fight Jacks on LOTAK
+	did someone just bark
+	ok this exchange is asinine it was probably just jade
+	Witness Jade teleport away
+	9925-9933
+	
+	Tell Dave to ask you anything
+	Witness arrival of Jacks
+	why are we so fucking awesome
+	That's the best fucking question,
+	9934-9944
+	9985
+	
+	Collide
+	Fight Jacks
+	Have head cut off by Dave
+	9987
+	
+	Be revived by Jane
+	Be on frog platform
+	9993-9994
+	
+	Talk with Jake
+	10012
+	
+	Greet Rose
+	10015
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+
+	Appear in front of Caliborn
+	Witness bisection of Gamzee
+	Be defeated
+	Recover during distraction
+	Rip Caliborn's soul from his body
+	Shove Caliborn's soul in Lil' Cal
+	Catch ARquisprite, 1/2 Gamzee in crossfire
+	9318-9345
+
+Consider prototyping Lil' Hal
+Meet Equiusprite
+Create ARquiusprite
+7538-7557
+
+Be found by tricksters
+Witness dear, sweet precious Fefetasplosion
+Alchemize
+Go back to Act 6 Act 5 Act 1
+7648-7678
+
+Act 6 Act 5 Act 1 x2 combo
+Be on sacrificial slab
+Talk to Jane
+7688-7692-2
+7696-7698-2
+
+Ascend
+7722-7750-2
+
+Meet )(IC
+7758-7760-2
+7784
+
+Attack )(IC
+Be teleported to furthest ring
+7806-7812-2
+
+Contact ARquiusprite
+Learn of Dave, Davesprite
+Start glitching out
+8276-8281
+
+Talk to Dave
+Continue glitching out
+8295-8296
+
+Name: Brain Ghost Dirk
+
+Be brain ghost Dirk with Jake in Derse cell
+8342-8346
+
+Start appearing behind Aranea
+8568-8569
+8584
+
+Become real
+8590-8592
+
+Attack Aranea
+8600-8605
+8634
+
+Rip Aranea's soul out of her body
+8640-8646
+
+Tell Rose to protect Roxy
+8650-8655
+
+Start becoming fake
+8657
+8662
+8669
+
+Name: Dirk
+
+Be found by John
+Ask to be left alone
+Be consumed by glitches
+8852-8860

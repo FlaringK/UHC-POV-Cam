@@ -1,0 +1,58 @@
+Name: Bro
+Colour: #F2A400
+Image: bro.png
+Group: Kids' Guardians
+
+Be created
+3787
+3790-3791
+3803
+3805
+
+Be sent to Earth on meteor
+3840
+==>
+	~ Dirk
+
+Find and adopt Dave
+3778-3779
+
+Raise Dave
+4663-4669
+
+Drop of Lil' Cal in background
+2491-2492
+
+Taunt Dave
+2512
+2565
+
+Prepare to strife with Dave
+2657
+
+Strife
+2736
+2771
+2970
+
+Fight large imp in silly hat
+3568
+
+Split meteor
+Fight with Jack Noir
+Damage Beat Mesa
+3840
+
+Duel with Jack Noir
+4772-4776
+
+Be assisted by Davesprite
+4781-4786
+4791-4796
+
+Be killed by Jack Noir
+4827-4828
+4832
+
+Be found by Dave
+5597

@@ -1,0 +1,470 @@
+Name: Jade
+Colour: #4AC925
+Image: jade.png
+Group: Kids
+
+Be created on meteor
+3790-3791
+3803
+3807
+3830-3831
+
+Be sent to Earth
+3840
+
+Land on factory
+3768-3769
+
+Be adopted
+3773-3775
+
+Be taken on hunt with grandfather
+Wander off with Bec
+Find present
+3029-3036
+
+Contact John
+4526
+
+A good example of why babies should not be allowed to dual wield flintlock pistols
+4950-4954
+
+Wish John happy birthday
+Be contacted by Karkat with message from future self
+3425
+
+Receive package from Jake
+3427
+
+Be introduced
+Talk to Dave
+2660-2735
+	2282
+<==
+
+Talk with Rose
+Inform Rose she's about to lose her internet connection
+2737-2738
+2741-2743
+
+Proceed through house
+Be trolled by Karkat
+2751-2759
+
+Fall asleep
+Strife with grandfather
+2811-2820
+
+Retrieve package
+2842-2845
+
+Play fetch with Becquerel
+Fall asleep
+Be taken to bed by Becquerel
+2880-2883
+
+Dream.
+2890-2898
+
+Dream up extra arms
+Play advanced bass solo
+2926-2934
+
+Fly to John's tower
+2947-2951
+
+Talk to John
+Wake up
+Harpoon to frog temple
+2973
+	2069
+	2193
+<==
+2974
+	2552
+<==
+2975-2980
+
+Place down package, time-bait
+3012-3015
+
+Summon lily pads
+3045-3047
+
+Enter temple
+Wait for lotus to bloom
+3049
+
+Take the discs.
+Switch to Jenga modus
+Fall asleep, wake up
+Switch to Pictionary modus
+Be teleported home
+Install both discs
+Talk to John
+3266-3291
+
+Talk with Dave
+3293
+
+Become Dave's server player
+Start deploying equipment
+3297-3306
+
+Open cruxtruder with toilet
+Be asleep
+3336-3339
+
+Prototype crow
+Be tricked into waking yourself up
+3344-3349
+
+EGG!
+3404-3416
+
+Experiment with alchemy
+3457-3477
+
+Talk with Rose about dreamselves
+3527
+3529-3530
+3568
+
+Attack CD
+Recover WQ's ring
+3688-3699
+
+Start building
+3717-3719
+
+Be trolled by Tavros
+3836
+
+Witness destruction of Prospit's moon
+Have dream self die, robot explode
+3840
+	Remem8er.
+	9859
+	
+	~ Jadesprite
+
+Be thrown out of window
+Land on bed
+Fall asleep
+4556-4558
+
+Dream
+Meet Feferi
+Talk with Feferi
+Contact Karkat now that your robot has exploded
+Talk to Karkat, Karkat
+4748-4757
+
+Have pumpkins rain down on you
+4765
+
+Talk to John
+4768
+
+Consider what to prototype
+4777-4780
+4787-4790
+
+Create totem
+4805-4807
+
+Enter.
+4827
+
+Arrive in LOFAF
+4888
+
+Be not killed by Jack Noir
+5456-5457
+
+Meet Feferi in dream bubble
+4889-4898
+
+Witness John's ascension
+4987
+
+Strife with uranium imp
+You think you will try to keep conversations with Becsprite to a minimum from now on.
+4899-4911
+
+Return home
+Talk with time-travelling Dave
+Help Dave duplicate server disc
+4920-4933
+
+Talk with Tavros
+A good example of why babies should not be allowed to dual wield flintlock pistols
+4948-4958
+
+Ignore Karkat
+5039
+
+Prepare for Christmas
+Be given LPOS by Eridan
+5041-5077
+
+Use compu-sooth spectagoggles
+View John, Rose, Davesprite, doomed Dave, Dave
+Attempt to contact Tavros
+Create Jadesprite
+5096-5107
+4969
+5108-5111
+==>
+	~ Jadesprite
+
+5112-5117
+
+Drop.
+5120-5125
+
+Beat self up
+Talk with Karkat
+5140-5155
+
+Talk with John
+Ask John how he got a flying car
+5315-5319
+
+Be told of breeding duties by Kanaya
+Encourage Kanaya to raise matriorb
+5204-5220
+
+Tell Rose of Mom, Dad
+5536-5538
+
+Attempt to contact John about Rose
+5588-5590
+
+Meet Aradia, Aradia, Sollux in dream bubble
+Meet Kanaya
+Inform Kanaya that she is a rainbow drinker
+Wake up
+5492-5509
+
+Refuse to talk to past Kanaya
+5203
+
+Breed frogs with Dave
+Fight Jack Noir with Dave
+Adagio Redshift
+Kill Dave
+5759-5770
+
+Visit Echidna
+Make impossible promise
+Talk with Karkat
+5872-5873
+
+Talk with Karkat, Kanaya
+Remember where final frog was
+5875-5885
+
+Talk with Karkat
+Be killed by CD
+6001-6007
+
+<==
+Cascade
+6009
+
+Level up.
+6190-6191
+6193-6205
+
+View meteor
+Send letter to meteor
+6232-6245
+
+==>
+	Arrive in Calliope's realm
+	8571-8581
+	8615-8617
+	
+	Talk with Calliope about where you lived
+	Remember Calliope
+	Tell story about how John died
+	8907-8921
+	
+	Start telling story
+	Start intermission
+	Have intermission interrupted
+	Finish story
+	8959-8998
+	
+	Be found by Jane
+	Get excited about making Jane a trollsona
+	9092-9105
+	
+	Listen to story of own disappearance
+	9164-9173
+	9255-9258
+	
+	Recall unexpected leader
+	9305-9307
+	
+	Fall through spiral
+	Arrive on yellow brick road
+	Enter memory of Echidna's lair
+	Witness Jane's disappearance
+	9461-9481
+	
+	Be greeted by other Calliope
+	Wait for Calliope, Calliope
+	9493-9504
+	9519-9521
+	
+	Ask Calliope where you're going
+	Question if you should wake up
+	Be educated on aspects
+	9787-9794
+	
+	Arrive at Green Sun
+	Be told by Calliope to stay asleep
+	Say goodbye to Calliope
+	9897-9902
+	
+	Meet Davepetasprite^2
+	Be kissed by Davepetasprite^2
+	was that supposed to wake me up?
+	B33 < no
+	B33 < that was just goodbye
+	Be stabbed/woken by Davepetasprite^2
+	9903-9912
+	
+	Wake up
+	Notice Mayor, Calliope
+	Notice note from Dave
+	Exit house
+	Teleport away
+	9913-9924
+	
+	Arrive on LOTAK
+	Be told off by Dave for being awake
+	i am very much awake! 
+	and i intend to stay that way :)
+	Compliment Dave's kissing ability
+	Teleport away
+	9928-9933
+	
+	Collide
+	Interrupt fight between Jack Noir, PM
+	Be punched by PM
+	9987
+	
+	Get up
+	Look at Jack Noir
+	9995
+	
+	Greet Calliope, Ms. Paint
+	9996-9997
+	
+	Greet John
+	10012-10013
+	
+	Witness John meeting Dad
+	10016-10022
+	
+	ACT 7
+	10027
+	
+	Appear in front of Caliborn
+	Be sucked into juju
+	9318-9325
+
+Name: Jade
+# Repeating name as need no-op to separate above split with below split
+	6518
+<==
+
+Year 1
+Play Ghostbusters MMORPG
+6628-6639
+
+Read Midnight Crew with Davesprite
+6844
+
+Year 2
+Watch Con Air with John
+7165-7207
+
+Arrive in new session
+Save Jake, Jane from Union Jack
+Teleport Union Jack to the outer ring
+Be mind controlled by )(IC
+Zap tiaratop onto Jane
+7764-7790-2
+Colour: #000000
+7792-7804-2
+
+Beat up Dirk
+Teleport Dirk to the outer ring
+Take Roxy to Derse
+7808-7824-2
+
+Intimidate Roxy
+Tell Roxy about her void powers
+8188-8198
+
+Teleport to troll's meteor
+Teleport group to LOMAX
+8125-8131
+
+Ride meteor through portal to Earth
+Allow meteor to land on Earth
+Shrink Earth
+Glitch out
+8178
+
+Intimidate Karkat, Kanaya
+Show them shrunken Earth
+Inform Karkat, Kanaya of mission
+Be distracted by John
+8224-8241
+
+Just miss John at Dave's house
+Upgrade royal deringer with egg
+Create Caledfwlch
+8217-8223
+
+Attempt to fight Dave
+
+	Be interrupted by John
+	8302-8304
+
+Push WV into lava
+8283-8285
+	8317-8319
+<==
+8286-8294
+
+Be informed of Prospitian battleship on Derse
+8469-8471
+
+Arrive on Derse
+Notice Jake powering up
+8487-8493
+
+TALLY HO!
+8500-8501
+
+Notice Aranea
+Attempt to teleport Jake away
+8506-8516
+
+Replace Derse with LOFAF
+8518-8519
+
+Unleash fury of the Green Sun
+Be KO'd by Jake
+Be killed by Aranea
+Have death be registered as just by intervention from Aranea
+8525-8552
+
+Remem8er.
+9859

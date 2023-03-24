@@ -1,0 +1,45 @@
+Name: Tavrosprite
+Colour: #0715CD
+Image: tavrosprite.png
+Group: Alpha Kids' Sprites
+
+Be created by Vriska
+9349
+
+Wait for arrival of John, Roxy
+9350-9377
+9382
+
+	Character select screen
+	9386
+<====
+
+Talk with Jake
+Be insulted by Vriska
+9397-9399
+
+Have allergies set off by Jaspersprite
+9414
+
+Offer to assist Jape
+Be assigned to something else by Vriska
+9415-9460
+
+Be found by Jasprosesprite^2
+9562-9568
+
+Be called Tavvy by Jake
+Start sneezing
+Be given placebo by Jasprosesprite^2
+Witness creation of Nepetasprite
+9710-9722
+
+Be told to pick up GCat
+Pick up GCat
+Prototype with GCat
+9731-9734
+
+Name: GCatavrosprite
+Achoo
+Be put to sleep by Vriska
+9735-9737

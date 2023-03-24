@@ -1,0 +1,68 @@
+Name: Equiusprite
+Colour: #E00707
+Image: arquiusprite.png
+Group: Alpha Kids' Sprites
+
+	Name: ARquiusprite
+	
+	Attempt to remove tiaratop from Jane
+	9350-9377
+	
+		Character select screen
+		9386
+	<====
+	
+	Talk with Dave
+	9410-9412
+	
+	Be assigned to do what you think appropriate
+	9415-9460
+	
+	Finish removing tiaratop from Jane
+	Fly off dramatically
+	9482-9484
+	
+	Finish building houses
+	Deploy final grist rig
+	Be found by Davepetasprite^2
+	9805-9816
+	
+	Talk with Davepetasprite^2
+	Swap creation stories
+	Attempt roleplay
+	Touch my muscles
+	yes!
+	Touch my muscles
+	yes!!
+	Touch my muscles
+	YES!!!
+	Attempt bro hug bump
+	where doing it man
+	where MAKING THIS HAPEN
+	9823-9827
+	
+	The greatest MOMENT in Homestuck history
+	9828
+	
+	Collide
+	9987
+
+7547-7554
+Name: ARquiusprite
+7555-7557
+
+Witness arival of tricksters
+Witness Fefetasplosion
+7648-7678
+
+Inform Dirk what the rest of the team's doing and of arrival of Davesprite, Dave
+Glitch out
+8276-8281
+
+It is exceeding a certain amount in quantity
+8501-8505
+
+	Surprise Caliborn
+	Get caught in crossfire
+	Have soul shoved in Lil' Cal
+	9340-9344

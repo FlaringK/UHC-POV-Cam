@@ -1,0 +1,55 @@
+Name: Grandpa
+Colour: #1F9400
+Image: grandpa.png
+Group: Kids' Guardians
+
+Be created
+3787
+3790-3791
+3803
+3806-3807
+
+Be sent to Earth
+3840
+==>
+	~ Jake
+
+Arrive on Earth
+Kill Colonel Sassacre
+Gain sister
+Develop taste for adventure
+3816-3822
+
+Arrive with Jade to island
+3774-3775
+
+Take Jade on hunt
+3029-3032
+
+Save John
+Abscond
+3363-3371
+
+Meet Dad
+Lead Dad to battleship
+3632-3636
+
+Reintroduce passengers
+Continue piloting battleship
+3795-3802
+3840
+
+Find dream Jade's body
+Drop Mom, Dad off on battlefield
+Stuff dream Jade
+3869-3872
+
+Be killed by Tavros
+4950-4954
+
+Be in front of fireplace
+Strife?
+2811-2820
+
+Be teleported into space
+4827

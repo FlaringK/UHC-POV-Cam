@@ -1,0 +1,37 @@
+Name: The Condesce
+Colour: #77003C
+Image: condesce.png
+Group: Trolls' Ancestors
+
+Travel to distant planets, and enslave them
+5963-5964
+
+Be recruited by the Handmaid
+5970-5971
+
+Name: Her Imperious Condescension
+
+	Arrive on post-scratch Earth
+	6748-6749
+
+	Demonstrate psychic abilities
+	6758
+	
+	Kill Roxy's mom, Dirk's bro
+	6773-6774
+<======
+
+Colonize Earth
+6565
+
+Be queen of Derse
+6472
+
+7471
+
+Prepare to fight John, Rose, Kanaya, Roxy
+9882-9886
+
+Fight John, Rose, Kanaya, Roxy
+Be killed by Roxy
+9987

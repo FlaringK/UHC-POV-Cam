@@ -1,0 +1,38 @@
+Name: White Queen
+Colour: #FFFFFF
+Image: prospitian.png
+Group: Kids' Exiles
+
+Abdicate
+3512-3520
+
+Descend
+3840
+
+Leave kingdom
+3873
+Name: Windswept Questant
+3874-3877
+
+Talk to Rose
+3330-3333
+3391-3399
+3423-3424
+3438-3439
+
+EGG!
+3402-3403
+3443-3445
+3508-3509
+
+Crown PM
+3521-3522
+3878-3881
+
+DOG!
+4834-4841
+4914-4919
+5160-5169
+
+Be killed
+6009

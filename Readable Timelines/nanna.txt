@@ -1,0 +1,34 @@
+Name: Nanna
+Colour: #00D5F2
+Image: nanna.png
+Group: Kids' Guardians
+
+Be created
+3787
+3790-3791
+3803-3804
+
+Be sent to Earth
+3840
+==>
+	~ Jane
+
+Lose father, gain brother
+Grow up
+3814-3822
+
+Go for walk with your son
+Witness arrival of Jade's meteor
+3766-3769
+
+Be killed by arrival of John's meteor
+3782-3783
+
+Be in urn on mantelpiece
+1952-1953
+1957-1959
+
+Topple again
+2181
+
+~ Nannasprite

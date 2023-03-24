@@ -1,0 +1,92 @@
+Name: Feferi
+Colour: #77003C
+Image: feferi.png
+Group: Trolls
+
+Teaser
+4080-4082
+
+Do something adorable
+Feed lusus
+4322-4323
+4362-4364
+4324-4336
+
+Be introduced
+Do something ridiculous.
+Talk with Eridan
+4340-4348
+
+Drink Tab
+Disarm.
+4352-4355
+
+Talk to Kanaya
+4227-4228
+
+Arrive in LODAG
+Break up with Eridan
+4366-4367
+
+Proceed to first gate
+4369
+
+Arrive in Sollux's house
+Revive Sollux
+4378-4381
+
+Meet up with Sollux
+4415
+
+Adventure with Sollux in LOBAF
+4478
+
+Question future Karkat what he's doing in your sake
+5260
+
+Fight Black King
+4493-4504
+5078
+
+Arrive on meteor
+4827
+
+Bother Sollux
+Witness Sollux discover humans
+4659-4671
+
+Ask Karkat what he saw while asleep
+Go to sleep after Derse was destroyed
+5080
+4692
+
+Consider befriending humans
+4529
+
+Be asleep in background
+4710
+5081
+
+Have dream self killed
+5197
+
+Visit Jade in dream bubble
+Contact Jade after she wakes
+4748-4750
+
+Be on horn pile with Sollux
+Witness dual
+Be killed by Eridan
+5221-5233
+
+Meet Jade in dream bubble
+4890-4894
+
+~ Fefetasprite
+
+Be in Vriska's crew
+7848-7914
+7923-7946
+
+	Remem8er.
+	9859
