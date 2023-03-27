@@ -188,8 +188,8 @@ module.exports = {
                   `
                 } else if (x2ComboLeftPage) {
                   LinkStyle += `
-                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
-                        position: relative;
+                      div .nextArrow div:nth-last-child(${linkIndex}) {
+                        /* position: relative; */
                     }
                       div .leftPage .nextArrow div:nth-last-child(${linkIndex}) div${api.store.get("disableHover") ? "" : ":hover"}:before {
                       content: "${povData.peoplenames[linkData[0]]}";
