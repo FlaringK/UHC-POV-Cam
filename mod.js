@@ -216,7 +216,7 @@ module.exports = {
                   `
                 } else if (x2ComboRightPage) {
                   LinkStyle += `
-                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
+                      div .rightPage .nextArrow div:nth-last-child(${linkIndex}) {
                       position: relative;
                     }
                       div .rightPage .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
