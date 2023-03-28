@@ -24,7 +24,13 @@ module.exports = {
       model: "disableHover",
       label: "Always display character names",
       desc: "Always display each timeline's character name instead of viewing them by hovering with your mouse."
-    },{
+    },
+    {
+      model: "hideOriginalLink",
+      label: "Hide original next page link",
+      desc: "If one or more characters link to the next page, hide the original link to the next page."
+    },
+    {
       model: "Kids",
       label: "Disable Beta Kids timelines",
     },
@@ -105,6 +111,8 @@ module.exports = {
 
         let collideStyle = ""
         let act7Style = ""
+        let hideOriginalLink = api.store.get("hideOriginalLink", false)
+        const tereziRetconPages = [8948, 8132, 3938, 4476, 5270, 5610, 5622, 5736].map(page => toPageString(page))
 
         // For each page in homestuck
         for (let i = 1901; i < 10028; i++) {
@@ -122,7 +130,19 @@ module.exports = {
             let collide = pageString == 9987
             let act7 = pageString == 10027
 
+            let characterNextLinks = []
+            let originalNextLinks = archive.mspa.story[pageString].next
+            let originalNextLink
+            let hideOriginalLinkWithCSS = false
+
+            let tereziRetconPage = tereziRetconPages.includes(pageString)
+
             let linkIndex = 1   // Initialize to 1, then subtract 1 at start of for loop below
+
+            if (tereziRetconPage)
+              originalNextLink = originalNextLinks.length == 2 ? archive.mspa.story[pageString].next[1] : false
+            else
+              originalNextLink = originalNextLinks.length == 1 ? archive.mspa.story[pageString].next[0] : false
 
             // Add character links to page
             for (let j = 0; j < pageLinkDataList.length; j++) {
@@ -130,21 +150,28 @@ module.exports = {
 
               // If character group is not hidden, add character's next links to next pages array
               if (!api.store.get(povData.groups[linkData[3]])) {
-              // Add in missing pageNext
-              if (!linkData[4][0]) linkData[4][0] = [parseInt(pageString)]
-              for (let k = 0; k < linkData[4].length; k++) {
+                // Add in missing pageNext
+                if (!linkData[4][0]) linkData[4][0] = [parseInt(pageString)]
+                for (let k = 0; k < linkData[4].length; k++) {
                   linkIndex += 1
-                archive.mspa.story[pageString].next.push(toPageString(linkData[4][k][0]))
+                  characterNextLinks.push(toPageString(linkData[4][k][0]))
+                  archive.mspa.story[pageString].next.push(toPageString(linkData[4][k][0]))
                 }
+              }
+            }
+
+            if (hideOriginalLink && characterNextLinks.includes(originalNextLink)) {
+              if (x2Combo) {
+                hideOriginalLinkWithCSS = true
+              } else {
+                let originalLinkIndex = archive.mspa.story[pageString].next.indexOf(toPageString(originalNextLink))
+                archive.mspa.story[pageString].next.splice(originalLinkIndex, 1)
               }
             }
 
             // Style added character links
             for (let j = 0; j < pageLinkDataList.length; j++) {
               let linkData = pageLinkDataList[j]
-
-              // Add in missing pageNext
-              if (!linkData[4][0]) linkData[4][0] = [parseInt(pageString)]
 
               for (let k = 0; k < linkData[4].length; k++) {
 
@@ -188,10 +215,14 @@ module.exports = {
                   `
                 } else if (x2ComboLeftPage) {
                   LinkStyle += `
-                      div .nextArrow div:nth-last-child(${linkIndex}) {
+                    div .leftPage .nextArrow div:nth-child(1) {
+                        ${hideOriginalLinkWithCSS ? "display: none;" : ""}
+                    }
+
+                    div .nextArrow div:nth-last-child(${linkIndex}) {
                         /* position: relative; */
                     }
-                      div .leftPage .nextArrow div:nth-last-child(${linkIndex}) div${api.store.get("disableHover") ? "" : ":hover"}:before {
+                    div .leftPage .nextArrow div:nth-last-child(${linkIndex}) div${api.store.get("disableHover") ? "" : ":hover"}:before {
                       content: "${povData.peoplenames[linkData[0]]}";
                       position: absolute;
                       top: 10px;
@@ -203,12 +234,12 @@ module.exports = {
                       white-space: nowrap;
                       color: black;
                     }
-                      div .leftPage .nextArrow div:nth-last-child(${linkIndex}) a {
+                    div .leftPage .nextArrow div:nth-last-child(${linkIndex}) a {
                       color: ${povData.colours[linkData[1]]} !important;
                       ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
                       ${linkData[4][k][0] == pageString ? "display: none;" : ""}
                     }
-                      div .leftPage .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                    div .leftPage .nextArrow div:nth-last-child(${linkIndex}) p::Before {
                       content: url("assets://images/${povData.images[linkData[2]]}");
                       display: inline-block;
                       transform: translateY(5px);
@@ -216,7 +247,11 @@ module.exports = {
                   `
                 } else if (x2ComboRightPage) {
                   LinkStyle += `
-                      div .rightPage .nextArrow div:nth-last-child(${linkIndex}) {
+                    div .rightPage .nextArrow div:nth-child(1) {
+                        ${hideOriginalLinkWithCSS ? "display: none;" : ""}
+                    }
+
+                    div .rightPage .nextArrow div:nth-last-child(${linkIndex}) {
                       position: relative;
                     }
                       div .rightPage .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
