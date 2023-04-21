@@ -168,7 +168,7 @@ module.exports = {
 
         archive.tweaks.modHomeRowItems.push({
           href: "/povmap",
-          thumbsrc: "assets://images/davepetasprite2.png",
+          thumbsrc: "assets://images/Time.png",
           title: 'Homestuck POV Timeline Map',
           description: `<p>SPOILERS AHEAD!<br /> A list of the beginnings of each Character's point of view</p>`
         });
