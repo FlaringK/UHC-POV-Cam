@@ -9,11 +9,14 @@
   text-align: left !important;
 }
 
+.povmap .pageContent > div img {
+  transform: translateY(0.3em); 
+}
 .povmap .alpha {
   transform: translateY(0.6em); 
 }
-.povmap .alpha img {
-  transform: translateY(-0.6em) translateY(5px); 
+.povmap .pageContent > .alpha img {
+  transform: translateY(-.5em) translateY(5px); 
 }
 
 .povmap .flex {
@@ -21,6 +24,20 @@
 }
 .povmap .flex > div {
   width: 50%;
+}
+
+.povmap .pageContent > div:not(.log) {
+  text-align: left;
+  width: 600px;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  font-size: x-large;
+  font-weight: 400;
+}
+
+.povmap hr {
+  border-top: 1px dashed grey;
+  margin: 20px;
+  width: 600px;
 }
 
 /* colors */
