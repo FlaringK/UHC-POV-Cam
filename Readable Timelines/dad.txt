@@ -97,3 +97,55 @@ Have meal with Rose's mom
 Have been killed by Jack Noir
 5446
 5595
+
+	# B2!Dad
+	Name: Dad (B2)
+
+	Be in yard, washing car
+	6031-6032
+	6166
+
+	Be confused by fridge thrown through wall, general destruction of house
+	6179-6180
+
+	Be alarmed at Jane getting mail, explosion
+	6181-6184
+	6320-6326
+
+	You're grounded
+	6327-6330
+
+	Be knocked unconscious by explosion
+	Wake up confused
+	6357-6358
+
+	Enter medium
+	Leave house
+	Be captured
+
+	Be in prison
+	7467-7470
+
+	Look on in stern fatherly disapproval at trickster business
+	7641-7642
+
+	Game Over
+	(not pictured)
+
+		# !Post-retcon!B2!Dad
+
+		Look on in proud fatherly admiration as Jane readies to fight the condesce
+		9885
+
+		Collide - break out of prison to help fight
+		9987
+
+		Look on as Jane and John fly away
+		Meet Nannasprite
+		9991-9992
+
+		Be on victory platform, meet pre-scratch John
+		10017-10022
+
+		Act 7
+		10027
