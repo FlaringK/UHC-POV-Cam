@@ -128,6 +128,10 @@ module.exports = {
             let pageLinkDataList = povData.timelines[String(i)]
             let LinkStyle = ""
 
+            let x2ComboLeftPage = ((pageString >= 7688) && (pageString <= 7825)) && (pageString % 2) == 0
+            let x2ComboRightPage = ((pageString >= 7688) && (pageString <= 7825)) && (pageString % 2) == 1
+            let x2Combo = x2ComboRightPage || x2ComboLeftPage
+
             // Each Character data
             for (let j = 0; j < pageLinkDataList.length; j++) {
               let linkData = pageLinkDataList[j]
@@ -139,42 +143,104 @@ module.exports = {
                 archive.mspa.story[pageString].next.push(toPageString(linkData[4][k][0]))
                 let linkIndex = archive.mspa.story[pageString].next.length
 
-                LinkStyle += `
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
-                  ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
-                  position: relative;
+                if (!x2Combo) {
+                  LinkStyle += `
+                    div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
+                      ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
+                      position: relative;
+                    }
+                    div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                          top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                    div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                    }
+                    div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                    div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                      color: ${povData.colours[linkData[1]]};
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                  `
+                } else if (x2ComboLeftPage) {
+                  LinkStyle += `
+                    div .leftPage .nextArrow div:nth-child(${linkIndex}) {
+                      ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
+                    }
+                    div .leftPage .nextArrow div:nth-child(${linkIndex}) div${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                    div .leftPage .nextArrow div:nth-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                    }
+                    div .leftPage .nextArrow div:nth-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                  `
+                } else if (x2ComboRightPage) {
+                  LinkStyle += `
+                    div .rightPage .nextArrow div:nth-child(${linkIndex}) {
+                      ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
+                      position: relative;
+                    }
+                    div .rightPage .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                    div .rightPage .nextArrow div:nth-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                    }
+                    div .rightPage .nextArrow div:nth-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                    div .rightPage .nextArrow div:nth-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                      color: ${povData.colours[linkData[1]]};
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                  `
                 }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
-                  content: "${povData.peoplenames[linkData[0]]}";
-                  position: absolute;
-                  top: 10px;
-                  right: calc(100% + 5px);
-                  background: white;
-                  border: solid black 1px;
-                  font-size: 12px;
-                  padding: 2px;
-                  white-space: nowrap;
-                  color: black;
-                }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
-                  color: ${povData.colours[linkData[1]]} !important; 
-                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-                  ${linkData[4][k][0] == pageString ? "display: none;" : ""}
-                } 
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
-                  content: url("assets://images/${povData.images[linkData[2]]}");
-                  display: inline-block;
-                  transform: translateY(5px); 
-                }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::After {
-                  ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
-                  color: ${povData.colours[linkData[1]]}; 
-                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-                }
-                `
-
               }
-
             }
 
             archive.mspa.story[pageString].content += `\n<style>${LinkStyle}</style>`
