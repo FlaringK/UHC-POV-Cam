@@ -39,7 +39,7 @@ Jade: Enter
 4827
 
 Image: slayer.png
-Colour: #10E400
+Colour: #1F9400
 Leave with trophies
 4828-4833
 
