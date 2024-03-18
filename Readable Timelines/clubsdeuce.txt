@@ -1,4 +1,4 @@
-Name: Clubs Deuce
+Name: Courtyard Droll
 Colour: #8F8F8F
 Image: clubs.png
 Group: Midnight Crew
@@ -9,6 +9,8 @@ Spy on BQ
 Meet Sollux
 4407-4410
 4413
+
+Name: Clubs Deuce
 
 Command Sollux
 I REMEMBER THIS!
