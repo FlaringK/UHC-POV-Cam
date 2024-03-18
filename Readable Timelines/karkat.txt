@@ -6,12 +6,12 @@ Group: Trolls
 Be talked to by Tavros after he jumps off a cliff
 4077
 
-Program in ~ATH
-3925-3928
-
 Be introduced
 Talk to Gamzee
 3892-3910
+
+Program in ~ATH
+3925-3928
 
 Take leadership from Terezi
 3958
@@ -98,6 +98,12 @@ Troll in sane and linear manner
 3807-3808
 3829-3830
 
+Be contacted by Jade
+Have memo with Jade and self
+4751-4752
+# Ask future self why Jade needs to contact you when the robot explodes
+# Apologize somewhere between now and being future self
+
 Resume backwards trolling
 3567
 
@@ -111,12 +117,6 @@ Reach first conversation after John changed handle
 
 Have memo with John and Dave
 4688-4690
-
-Be contacted by Jade
-Have memo with Jade and self
-4751-4752
-# Ask future self why Jade needs to contact you when the robot explodes
-# Apologize somewhere between now and being future self
 
 Deliver message to past Jade
 # Tell Jade to contact you after robot explodes
