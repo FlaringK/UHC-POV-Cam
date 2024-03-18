@@ -69,8 +69,13 @@ Adagio Redshift
 
 Follow Jade
 5875-5878
+5885
 5905-5906
 6001-6009
+
+Kill Bilious Slick
+5920-5925
+6009
 
 Enter troll's session
 4503
@@ -89,10 +94,6 @@ Wake (Kill troll dreamselves)
 Be frozen by Aradia
 5463-5466
 
-Kill Bilious Slick
-5920-5925
-6009
-
 ==>
 	Be found by Vriska
 	Follow trail
@@ -103,6 +104,9 @@ Kill Bilious Slick
 	
 	Fight
 	5720-5731
+
+Cascade
+6009
 
 Be chased by PM
 6206-6220
