@@ -98,14 +98,14 @@ Troll in sane and linear manner
 3807-3808
 3829-3830
 
+Resume backwards trolling
+3567
+
 Be contacted by Jade
 Have memo with Jade and self
 4751-4752
 # Ask future self why Jade needs to contact you when the robot explodes
 # Apologize somewhere between now and being future self
-
-Resume backwards trolling
-3567
 
 Troll John
 Eighth conversation
@@ -130,6 +130,9 @@ Talk to Jade
 5872-5873
 Have memo with Jade and Kanaya
 5875-5885
+
+Attempt to contact Jade about 4th wall
+5039
 
 Talk to Jade about Jadesprite
 # Tell Jade to take 4th wall, from future Jade
