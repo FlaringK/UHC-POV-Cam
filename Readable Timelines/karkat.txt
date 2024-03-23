@@ -84,12 +84,12 @@ Troll John
 Second conversation
 4825-4841
 
-Troll Jade
-2759
-
 Be contacted by John
 Third conversation
 5322
+
+Troll Jade
+2759
 
 Fourth conversation
 3803
