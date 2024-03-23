@@ -73,10 +73,6 @@ Follow Jade
 5905-5906
 6001-6009
 
-Kill Bilious Slick
-5920-5925
-6009
-
 Enter troll's session
 4503
 5078
@@ -104,6 +100,10 @@ Be frozen by Aradia
 	
 	Fight
 	5720-5731
+
+Kill Bilious Slick
+5920-5925
+6009
 
 Cascade
 6009
