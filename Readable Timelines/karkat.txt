@@ -88,9 +88,6 @@ Be contacted by John
 Third conversation
 5322
 
-Troll Jade
-2759
-
 Fourth conversation
 3803
 
@@ -101,15 +98,19 @@ Troll in sane and linear manner
 Resume backwards trolling
 3567
 
+Troll John
+Eighth conversation
+3503
+
+Troll Jade
+2759
+
 Be contacted by Jade
 Have memo with Jade and self
 4751-4752
 # Ask future self why Jade needs to contact you when the robot explodes
 # Apologize somewhere between now and being future self
-
-Troll John
-Eighth conversation
-3503
+# Begin having a bunch of tedious off screen conversations with Jade from this point onwards
 
 Reach first conversation after John changed handle
 # Tell John to tell Jade to contact them
@@ -239,11 +240,13 @@ Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
 Shoosh, pap
 5985-5995
 
-Find John's conversation with Vriska
-5764-5772
-
 See you soon
 6001-6004
+# "CG: LATER JADE, I'M GOING TO GO MAKE SURE JOHN KNOWS WHAT THE HELL HE'S SUPPOSED TO BE DOING."
+
+Find John's conversation with Vriska
+5764-5772
+# This is a way less dramatic final conversation.
 
 Cascade
 6009
