@@ -14,6 +14,7 @@ PM getting box
 Jack: Ascend
 3568
 
+Name: Sovereign Slayer
 WV: Rise up
 3701
 
@@ -35,7 +36,12 @@ Duel with Bro
 4791-4800
 
 Jade: Enter
-4827-4833
+4827
+
+Image: slayer.png
+Colour: #1F9400
+Leave with trophies
+4828-4833
 
 Kill John
 4983-4987
@@ -63,6 +69,7 @@ Adagio Redshift
 
 Follow Jade
 5875-5878
+5885
 5905-5906
 6001-6009
 
@@ -83,10 +90,6 @@ Wake (Kill troll dreamselves)
 Be frozen by Aradia
 5463-5466
 
-Kill Bilious Slick
-5920-5925
-6009
-
 ==>
 	Be found by Vriska
 	Follow trail
@@ -97,6 +100,13 @@ Kill Bilious Slick
 	
 	Fight
 	5720-5731
+
+Kill Bilious Slick
+5920-5925
+6009
+
+Cascade
+6009
 
 Be chased by PM
 6206-6220

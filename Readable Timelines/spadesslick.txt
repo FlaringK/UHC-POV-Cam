@@ -1,4 +1,4 @@
-Name: Spades Slick
+Name: Jack Noir
 Colour: #000000
 Image: spades.png
 Group: Midnight Crew
@@ -16,9 +16,13 @@ Follow Karkat
 4447
 4478
 
+Name: Scurrilous Straggler
+
 Be exiled
 Become Scurrilous Straggler
 3174
+
+Name: Spades Slick
 
 Midnight Crew: Act 1031
 2733
