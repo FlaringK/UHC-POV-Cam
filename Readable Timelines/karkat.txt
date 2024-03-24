@@ -110,7 +110,8 @@ Have memo with Jade and self
 4751-4752
 # Ask future self why Jade needs to contact you when the robot explodes
 # Apologize somewhere between now and being future self
-# Begin having a bunch of tedious off screen conversations with Jade from this point onwards
+# Begin having a bunch of tedious off screen conversations with future Jade from this point onwards
+# Karkat begins attempting to contact not-so-future Jade about the 4th wall
 
 Reach first conversation after John changed handle
 # Tell John to tell Jade to contact them
@@ -119,18 +120,13 @@ Reach first conversation after John changed handle
 Have memo with John and Dave
 4688-4690
 
+#Future Jade tries to establish a strict no memo policy
+
 Deliver message to past Jade
 # Tell Jade to contact you after robot explodes
 # Talked to future self to ask how to get in contact with not so future self
 # Not yet talked to future Jade
 3425-3426
-
-Talk to Jade
-# Password system exists
-# Why don't I hatemarry myself
-5872-5873
-Have memo with Jade and Kanaya
-5875-5885
 
 Attempt to contact Jade about 4th wall
 5039
@@ -145,6 +141,13 @@ Be future Karkat in memo with Jade and self
 
 Upset Terezi
 5092-5095
+
+Talk to Jade
+# Password system exists
+# Why don't I hatemarry myself
+5872-5873
+Have memo with Jade and Kanaya
+5875-5885
 
 Witness fight
 5221-5261
