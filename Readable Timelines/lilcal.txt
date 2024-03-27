@@ -65,6 +65,10 @@ Fistbump Dave
 2353-2355
 2362-2366
 
+Be used to taunt Dave
+2492-2494
+2498-2499
+
 bro.
 roof. now.
 bring cal.
@@ -100,6 +104,8 @@ Be on floor while Dave, Davesprite talk
 
 Repaired with stitches
 Fight Jack with Bro, Davesprite
+4781-4786
+4791-4796
 4827
 
 Be taken as trophy
