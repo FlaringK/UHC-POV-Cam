@@ -114,13 +114,16 @@ Talk to John
 5372-5375
 5393-5394
 
-Be in dream bubble
-5503-5509
+Read Mindfang's Journal
+5406-5407
 
 Showdown
 5409-5413
 5415-5416
 5420-5445
+
+Be in dream bubble
+5503-5509
 
 Say goodbye to John
 5594
@@ -131,16 +134,16 @@ Seer: Ascend
 
 Flip.
 5660
-5670-5677
+5669-5675
 
 ======>
 	View alt-Vriska
+	5675-5677
 	5697-5707
 	5710-5714
 	5720-5734
 
 5736
-
 	FL1P
 	John????????
 	Be knocked out
