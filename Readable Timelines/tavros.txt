@@ -82,49 +82,51 @@ iRRRRRRRRECONCILA8LE
 6729-6733
 ~ Tavrisprite
 
-Reconcile with Vriska
-6738-6740
-
-Be found by John
-Fight for ring
-7277-7299
-
-Ministrife
-7327
-
-Be in Vriska's crew
-7848-7914
-
-Gain self-confidence
-7923-7944
-
-TAVROS????????
-Arrive with army
-Mock Vriska
-9751-9759
-
-The Tavros finally did something useful Charleston
-9760
-
-The Tavros gets to have a successful character arc shuffle
-9761
-
-The Tavros tells Vriska to go suck it cabbage patch
-9762
-
-The Tavros is feeling pretty pleased with himself all of a sudden air guitar
-9763
-
-Pass control of army to Meenah
-9764-9770
-
-Be congratulated by Vriska
-9841
-
-Collide
-Fight Lord English
-9987
-
-ACT 7
-Witness reality crumbling, Vriska using weapon on Lord English
-10027
+	# tavrisprite.txt leads into vriska.txt as well as tavros.txt
+	# Abuse timeline split to avoid duplicate tavrisprite entry to 6738 after tavrisplode
+	Reconcile with Vriska
+	6738-6740
+	
+	Be found by John
+	Fight for ring
+	7277-7299
+	
+	Ministrife
+	7327
+	
+	Be in Vriska's crew
+	7848-7914
+	
+	Gain self-confidence
+	7923-7944
+	
+	TAVROS????????
+	Arrive with army
+	Mock Vriska
+	9751-9759
+	
+	The Tavros finally did something useful Charleston
+	9760
+	
+	The Tavros gets to have a successful character arc shuffle
+	9761
+	
+	The Tavros tells Vriska to go suck it cabbage patch
+	9762
+	
+	The Tavros is feeling pretty pleased with himself all of a sudden air guitar
+	9763
+	
+	Pass control of army to Meenah
+	9764-9770
+	
+	Be congratulated by Vriska
+	9841
+	
+	Collide
+	Fight Lord English
+	9987
+	
+	ACT 7
+	Witness reality crumbling, Vriska using weapon on Lord English
+	10027
