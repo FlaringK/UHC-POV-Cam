@@ -148,7 +148,9 @@ Convince John to rummage through Rose's stuff
 3591-3595
 
 Realise you're already awake
-3599-3604
+3599-3601
+3605
+3602-3604
 
 Jam with Rose
 See Rose throw dream Cal out of window
@@ -276,7 +278,8 @@ Caption: On LOFAF
 Talk to Jade about her moving through space and you, time
 Deploy laserstation
 4924-4932
-Make... wait, what?
+
+Make... wait, what?
 5041-5042
 
 Deploy cloning apparatus
