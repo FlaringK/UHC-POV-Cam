@@ -11,10 +11,10 @@ Dad breaking out of prison
 PM getting box
 3449-3456
 
+Name: Sovereign Slayer
 Jack: Ascend
 3568
 
-Name: Sovereign Slayer
 WV: Rise up
 3701
 
@@ -22,8 +22,8 @@ Descend
 3840
 
 Exchange with PM, gift to John
-3850-3854
-3858-3862
+3850-3851
+3859-3862
 3869
 
 Take Bro's sword from Beat Mesa
@@ -35,11 +35,11 @@ Duel with Bro
 4781-4786
 4791-4800
 
+Image: slayer.png
+Colour: #1F9400
 Jade: Enter
 4827
 
-Image: slayer.png
-Colour: #1F9400
 Leave with trophies
 4828-4833
 
