@@ -21,7 +21,13 @@ Be found by Bro
 3778-3779
 
 Growing up montage
-4662-4670
+4662-4664
+
+Image: hearts.png
+
+4665-4670
+
+Image: dave.png
 
 Be trolled by Terezi
 4672
@@ -163,7 +169,25 @@ Look for Lil' Cal out of window
 3655
 
 Wake up and jam.
-3720-3758
+3720-3722
+
+Image: davescratch3.png
+
+3723-3733
+
+Image: davescratch2.png
+
+3734-3738
+
+Image: davescratch3.png
+
+3739-3746
+
+Image: davescratch2.png
+
+3747-3758
+
+Image: davescratch3.png
 
 Go to burn book
 3761-3762
@@ -188,7 +212,11 @@ Be trolled by Terezi
 
 Talk to Terezi
 Be convinced by future self to listen to her
-4673-4683
+4673-4674
+
+Image: davescratch2.png
+
+4675-4683
 
 Talk with John, Karkat in the Fruity Rumpus Asshole Factory
 4689-4690
@@ -233,7 +261,10 @@ Witness John's ascension
 4987
 
 ==>
+	
 	Name: Doomed Dave
+	Image: davescratch3.png
+	#Four aces united
 	Go to sleep on Quest Bed
 	4989-4991
 	4994-4995
@@ -248,6 +279,8 @@ Witness John's ascension
 	
 	Be double killed
 	7161
+
+Image: davescratch.png
 
 Make a goddamn killing in the LOHACSE.
 4637-4641
