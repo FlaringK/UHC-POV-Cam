@@ -8,7 +8,6 @@ Harry Hinderson dynamic icons branch
 
 TODO:
 
-- Recreate dave's felt suit icon (its an 8-ball instead of a record)
 - Update nanna icon
 - Scour the alpha kids' timelines for icons 
 - Jade pre-entry
