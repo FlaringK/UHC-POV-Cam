@@ -4,15 +4,6 @@ A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homest
 
 Download this mod as a ZIP file, extract it, and place it into your mods folder within the UHC asset pack. [Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
-Harry Hinderson dynamic icons branch
-
-TODO:
-
-- Jade pre-entry
-	- Gif with all her symbols?
-	- Randomly change every page?
-- Fanmade/custom icons?
-
 ## Changelog
 
 ### v0.7
