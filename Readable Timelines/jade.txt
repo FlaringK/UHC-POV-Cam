@@ -31,7 +31,7 @@ Image: jadediamond.png
 A good example of why babies should not be allowed to dual wield flintlock pistols
 4950-4954
 
-Image: jade.png
+Image: jadewardrobifier.png
 
 Wish John happy birthday
 Be contacted by Karkat with message from future self
@@ -41,8 +41,12 @@ Receive package from Jake
 3427
 
 Be introduced
+2660-2699
+
+Image: jadewardrobifier3.png
+
 Talk to Dave
-2660-2735
+2700-2735
 	2282
 <==
 
@@ -147,6 +151,9 @@ Be trolled by Tavros
 Witness destruction of Prospit's moon
 Have dream self die, robot explode
 3840
+
+Image: jade.png
+
 	Remem8er.
 	9859
 	
