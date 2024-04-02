@@ -1,6 +1,6 @@
 Name: White Queen
 Colour: #FFFFFF
-Image: prospitian.png
+Image: WQ.png
 Group: Kids' Exiles
 
 Abdicate
