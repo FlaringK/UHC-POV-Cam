@@ -8,7 +8,6 @@ Harry Hinderson dynamic icons branch
 
 TODO:
 
-- Scour the alpha kids' timelines for icons 
 - Jade pre-entry
 	- Gif with all her symbols?
 	- Randomly change every page?
