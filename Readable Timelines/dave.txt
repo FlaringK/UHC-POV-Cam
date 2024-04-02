@@ -257,14 +257,14 @@ Learn of the Green Sun, the Tumor
 4934-4937
 4939-4944
 
+Image: davescratch4.png
+
 Witness John's ascension
 4987
 
 ==>
 	
 	Name: Doomed Dave
-	Image: davescratch3.png
-	#Four aces united
 	Go to sleep on Quest Bed
 	4989-4991
 	4994-4995
