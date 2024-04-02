@@ -171,23 +171,23 @@ Look for Lil' Cal out of window
 Wake up and jam.
 3720-3722
 
-Image: davescratch3.png
+Image: daveplush.png
 
 3723-3733
 
-Image: davescratch2.png
+Image: daveaces.png
 
 3734-3738
 
-Image: davescratch3.png
+Image: daveplush.png
 
 3739-3746
 
-Image: davescratch2.png
+Image: daveaces.png
 
 3747-3758
 
-Image: davescratch3.png
+Image: daveplush.png
 
 Go to burn book
 3761-3762
@@ -214,7 +214,7 @@ Talk to Terezi
 Be convinced by future self to listen to her
 4673-4674
 
-Image: davescratch2.png
+Image: daveaces.png
 
 4675-4683
 
@@ -257,7 +257,7 @@ Learn of the Green Sun, the Tumor
 4934-4937
 4939-4944
 
-Image: davescratch4.png
+Image: davefelt.png
 
 Witness John's ascension
 4987

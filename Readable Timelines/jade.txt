@@ -26,7 +26,7 @@ Find present
 Contact John
 4526
 
-Image: jade2.png
+Image: jadediamond.png
 
 A good example of why babies should not be allowed to dual wield flintlock pistols
 4950-4954
@@ -209,8 +209,16 @@ Ignore Karkat
 5039
 
 Prepare for Christmas
+5041-5050
+
+Image: jadeironlass.png
+
 Be given LPOS by Eridan
-5041-5077
+5051-5052
+
+Image: jade.png
+
+5053-5077
 
 Use compu-sooth spectagoggles
 View John, Rose, Davesprite, doomed Dave, Dave
@@ -235,6 +243,8 @@ Talk with John
 Ask John how he got a flying car
 5315-5319
 
+Image: jadeironlass.png
+
 Be told of breeding duties by Kanaya
 Encourage Kanaya to raise matriorb
 5204-5220
@@ -244,6 +254,8 @@ Tell Rose of Mom, Dad
 
 Attempt to contact John about Rose
 5588-5590
+
+Image: jade.png
 
 Meet Aradia, Aradia, Sollux in dream bubble
 Meet Kanaya
