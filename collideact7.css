@@ -148,7 +148,7 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(7) a {
   color: #000000 !important;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(7) p::Before {
-  content: url("assets://images/dersite.png");
+  content: url("assets://images/WV.png");
   display: inline-block;
   transform: translateY(5px);
 }
@@ -175,7 +175,7 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(8) a {
   text-shadow: 1px 1px 0px black;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(8) p::Before {
-  content: url("assets://images/prospitian.png");
+  content: url("assets://images/PM.png");
   display: inline-block;
   transform: translateY(5px);
 }
