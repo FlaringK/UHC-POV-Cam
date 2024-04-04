@@ -1,6 +1,6 @@
 Name: Jade
 Colour: #4AC925
-Image: jade.png
+Image: jadewardrobifier.png
 Group: Kids
 
 Be created on meteor
@@ -148,11 +148,11 @@ Start building
 Be trolled by Tavros
 3836
 
+Image: jade.png
+
 Witness destruction of Prospit's moon
 Have dream self die, robot explode
 3840
-
-Image: jade.png
 
 	Remem8er.
 	9859
