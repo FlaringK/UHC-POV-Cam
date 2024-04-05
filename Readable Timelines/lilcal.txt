@@ -53,7 +53,7 @@ Be sent to Earth
 	7682-7687
 	
 	Be used as conduit between Caliborn and Jack via alternate self
-	7708-7710-2
+	7708-7711
 	
 	Have Caliborn's, ARquisprite's, 1/2 Gamzee's souls placed in self
 	Be banished to void
@@ -160,7 +160,7 @@ YOU'RE MOTHER FUCKIN WELCOME
 Be used as conduit between Caliborn and Jack via alternate self
 Have eyes removed
 Be destroyed?
-7704-7720-2
+7704-7721
 
 	How'd he get here?
 	5133
