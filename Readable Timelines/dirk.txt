@@ -38,9 +38,6 @@ Notice arrival of drones
 6531
 6544-6551
 
-Be brain ghost Dirk in Jake's memory
-6744-6777
-
 Hang out on Derse
 6844
 
@@ -49,11 +46,6 @@ Tell Caliborn to find past Dirk
 6863-6864
 6866-6870
 6873-6882
-
-Be brain ghost Dirk in dream bubble
-Be noticed by Terezi
-Carry on existing after Jake wakes up
-6887-6913
 
 Talk with Caliborn
 Be on roof of house
@@ -84,9 +76,22 @@ Feedback knocks out waking self
 7088-7090
 7092-7100
 7102
+7104
+
+==>
+	Name: Brain Ghost Dirk
+	Be brain ghost Dirk in Jake's memory
+	6744-6777
+	Be in meetup dream bubble
+	Be noticed by Terezi
+	Carry on existing after Jake wakes up
+	6887-6913
+	7105
+	Name: Dirk
+<==
 
 Dream into brain ghost Dirk
-7104-7117
+7106-7117
 
 Reach edge of dream bubble
 7125-7131
@@ -232,34 +237,34 @@ Talk to Dave
 Continue glitching out
 8295-8296
 
-Name: Brain Ghost Dirk
+==>
+	Name: Brain Ghost Dirk
 
-Be brain ghost Dirk with Jake in Derse cell
-8342-8346
+	Be brain ghost Dirk with Jake in Derse cell
+	8342-8346
 
-Start appearing behind Aranea
-8568-8569
-8584
+	Start appearing behind Aranea
+	8568-8569
+	8584
 
-Become real
-8590-8592
+	Become real
+	8590-8592
 
-Attack Aranea
-8600-8605
-8634
+	Attack Aranea
+	8600-8605
+	8634
 
-Rip Aranea's soul out of her body
-8640-8646
+	Rip Aranea's soul out of her body
+	8640-8646
 
-Tell Rose to protect Roxy
-8650-8655
+	Tell Rose to protect Roxy
+	8650-8655
 
-Start becoming fake
-8657
-8662
-8669
-
-Name: Dirk
+	Start becoming fake
+	8657
+	8662
+	8669
+<==
 
 Be found by John
 Ask to be left alone
