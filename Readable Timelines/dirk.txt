@@ -237,11 +237,10 @@ Talk to Dave
 Continue glitching out
 8295-8296
 
-==>
 	Name: Brain Ghost Dirk
 
 	Be brain ghost Dirk with Jake in Derse cell
-	8342-8346
+	8343-8346
 
 	Start appearing behind Aranea
 	8568-8569
@@ -264,7 +263,6 @@ Continue glitching out
 	8657
 	8662
 	8669
-<==
 
 Be found by John
 Ask to be left alone
