@@ -46,8 +46,15 @@ Talk with Roxy
 Install Sburb client
 Have computer explode
 Talk with Dirk
+Run to study
 6307-6310
-6312-6360
+6312-6354
+	6454
+<==
+6355-6360
+	6455-6456
+<==
+6457-6462
 
 Talk with Lil' Hal, Roxy
 6469-6471
