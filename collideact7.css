@@ -202,7 +202,7 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(9) a {
   color: #1F9400 !important;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(9) p::Before {
-  content: url("assets://images/spades.png");
+  content: url("assets://images/slayer.png");
   display: inline-block;
   transform: translateY(5px);
 }
@@ -1045,17 +1045,17 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(40):hover::before {
   white-space: nowrap;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(40) a {
-  color: #000000 !important;
+  color: #2ED73A !important;
   display: none;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(40) p::Before {
-  content: url("assets://images/spades.png");
+  content: url("assets://images/jackengli.png");
   display: inline-block;
   transform: translateY(5px);
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(40) p::After {
   content: "End of Jack English's Timeline.";
-  color: #000000;
+  color: #2ED73A;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(41) {
   position: relative;

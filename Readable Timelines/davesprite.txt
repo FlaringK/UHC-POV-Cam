@@ -8,10 +8,10 @@ Enter doomed timeline
 
 Travel back in time
 Prototype self
-3548-3550
+3548-3549
 Colour: #F2A400
 Image: davesprite.png
-3551
+3550-3551
 
 Scold Terezi
 Talk to Dave
