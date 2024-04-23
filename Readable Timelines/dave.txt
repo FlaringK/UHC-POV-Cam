@@ -273,9 +273,29 @@ Witness John's ascension
 	Be killed
 	5089-5091
 	5103
+
+	Image: dave.png
 	
 	Be in dream bubble
-	5379-5392
+	5379-5383
+
+	Image: davescratch.png
+
+	5384
+
+	Image: daveaces.png
+
+	5385
+
+	Image: davefelt.png
+	
+	5386-5387
+	
+	Image: dave.png
+	
+	5388-5392
+	
+	Image: davefelt.png
 	
 	Be double killed
 	7161
@@ -325,8 +345,14 @@ Be killed by Jack, revived into dream self by Jade
 Meet up with Rose
 5772
 
+Image: dave.png
+
 Be psychoanalysed by Rose
-5775-5780
+5775-5779
+
+Image: davescratch.png
+
+5780
 
 Receive Tumor
 Have suicide mission stolen
