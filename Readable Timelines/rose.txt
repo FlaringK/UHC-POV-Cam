@@ -76,7 +76,13 @@ Power up generator
 Reconnect
 Talk with Dave
 Attract John's attention
-2312-2333
+2312-2319
+	
+	(Dave's POV)
+	2369
+<==
+
+2320-2333
 
 Work on walkthrough
 2340
@@ -94,6 +100,10 @@ Continue working on walkthrough
 Keep building
 Talk with Dave
 2410-2422
+
+	(Dave's POV)
+	2511
+<==
 
 Throw bath through wall
 2432-2441
@@ -280,6 +290,9 @@ Spy on sleeping Dave, John
 
 Talk to John
 4820-4824
+
+Be snooped on
+4885-4887
 
 Talk t- nak nak nak
 Talk to Dave
