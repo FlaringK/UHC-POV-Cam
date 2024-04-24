@@ -29,8 +29,11 @@ Image: john.png
 Send Jade birthday present
 2899-2900
 
+	(Jade's POV)
+	3425
+<==
+
 Change pesterchum handle
-3425
 3428-3429
 
 Be introduced
@@ -114,7 +117,13 @@ Sleep
 
 Wake up
 Prepare for boss battle
-2551-2563
+2551-2552
+
+	(Jade's POV)
+	2974
+<==
+
+2553-2563
 
 Boss battle!
 2743
