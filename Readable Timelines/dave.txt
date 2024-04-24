@@ -45,6 +45,10 @@ Talk to Jade
 Be introduced
 2209-2224
 
+	(John's POV)
+	1926
+<==
+
 Talk to John about playing Sburb
 1935
 1939
@@ -81,8 +85,17 @@ Go on Bro's computer
 Talk to John, Rose
 2355-2369
 
+	(Rose's POV)
+	2319
+<==
+
 Puppets
 2462-2511
+
+	(Rose's POV)
+	2422
+<==
+
 2437
 2512-2513
 
