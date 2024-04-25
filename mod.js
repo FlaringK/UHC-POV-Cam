@@ -180,7 +180,7 @@ module.exports = {
               if (x2Combo) {
                 hideOriginalLinkWithCSS = true
               } else {
-                let originalLinkIndex = archive.mspa.story[pageString].next.indexOf(toPageString(originalNextLink))
+                let originalLinkIndex = archive.mspa.story[pageString].next.indexOf(originalNextLink)
                 archive.mspa.story[pageString].next.splice(originalLinkIndex, 1)
               }
             }
