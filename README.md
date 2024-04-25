@@ -4,6 +4,8 @@ A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homest
 
 Download this mod as a ZIP file, extract it, and place it into your mods folder within the UHC asset pack. [Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
+TODO: Fix line breaks
+
 ## Changelog
 
 ### v0.7
