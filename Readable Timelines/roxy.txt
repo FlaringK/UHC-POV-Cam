@@ -131,6 +131,10 @@ Be interrupted by )(IC
 7599-7601
 
 Be found by tricksters
+7629-7639
+
+Image: tricksterroxy.png
+
 Fly to LOPAN
 Get Fefetasprite
 Fly to LOTAK
@@ -138,7 +142,9 @@ Convert Dirk
 Witness dear, sweet precious Fefetasplosion
 Alchemize
 Go back to Act 6 Act 5 Act 1
-7629-7678
+7640-7677
+
+Image: roxy.png
 
 Act 6 Act 5 Act 1 x2 combo
 Be on sacrificial slab

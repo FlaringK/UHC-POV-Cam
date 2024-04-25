@@ -6,15 +6,18 @@ Group: Trolls
 Be talked to by Tavros after he jumps off a cliff
 4077
 
-Program in ~ATH
-3925-3928
-
 Be introduced
 Talk to Gamzee
 3892-3910
 
+Program in ~ATH
+3925-3928
+
 Take leadership from Terezi
 3958
+
+Deal with crabby customer
+3968-3970
 
 Ignore Sollux
 3986-3988
@@ -84,9 +87,6 @@ Troll John
 Second conversation
 4825-4841
 
-Troll Jade
-2759
-
 Be contacted by John
 Third conversation
 5322
@@ -96,7 +96,7 @@ Fourth conversation
 
 Troll in sane and linear manner
 3807-3808
-3829-3830
+3829-3831
 
 Resume backwards trolling
 3567
@@ -105,6 +105,17 @@ Troll John
 Eighth conversation
 3503
 
+Troll Jade
+2759
+
+Be contacted by Jade
+Have memo with Jade and self
+4751-4752
+# Ask future self why Jade needs to contact you when the robot explodes
+# Apologize somewhere between now and being future self
+# Begin having a bunch of tedious off screen conversations with future Jade from this point onwards
+# Karkat begins attempting to contact not-so-future Jade about the 4th wall
+
 Reach first conversation after John changed handle
 # Tell John to tell Jade to contact them
 3294
@@ -112,11 +123,7 @@ Reach first conversation after John changed handle
 Have memo with John and Dave
 4688-4690
 
-Be contacted by Jade
-Have memo with Jade and self
-4751-4752
-# Ask future self why Jade needs to contact you when the robot explodes
-# Apologize somewhere between now and being future self
+#Future Jade tries to establish a strict no memo policy
 
 Deliver message to past Jade
 # Tell Jade to contact you after robot explodes
@@ -124,12 +131,8 @@ Deliver message to past Jade
 # Not yet talked to future Jade
 3425-3426
 
-Talk to Jade
-# Password system exists
-# Why don't I hatemarry myself
-5872-5873
-Have memo with Jade and Kanaya
-5875-5885
+Attempt to contact Jade about 4th wall
+5039-5040
 
 Talk to Jade about Jadesprite
 # Tell Jade to take 4th wall, from future Jade
@@ -141,6 +144,13 @@ Be future Karkat in memo with Jade and self
 
 Upset Terezi
 5092-5095
+
+Talk to Jade
+# Password system exists
+# Why don't I hatemarry myself
+5872-5873
+Have memo with Jade and Kanaya
+5875-5885
 
 Witness fight
 5221-5261
@@ -236,11 +246,13 @@ Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
 Shoosh, pap
 5985-5995
 
-Find John's conversation with Vriska
-5764-5772
-
 See you soon
 6001-6004
+# "CG: LATER JADE, I'M GOING TO GO MAKE SURE JOHN KNOWS WHAT THE HELL HE'S SUPPOSED TO BE DOING."
+
+Find John's conversation with Vriska
+5764-5772
+# This is a way less dramatic final conversation.
 
 Cascade
 6009

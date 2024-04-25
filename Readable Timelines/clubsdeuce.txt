@@ -1,4 +1,4 @@
-Name: Clubs Deuce
+Name: Courtyard Droll
 Colour: #8F8F8F
 Image: clubs.png
 Group: Midnight Crew
@@ -10,9 +10,14 @@ Meet Sollux
 4407-4410
 4413
 
+Name: Clubs Deuce
+
 Command Sollux
 I REMEMBER THIS!
 4406-4412
+
+Attempt to implement nefarious plots, be stopped by unbelievable jackass
+2228-2231
 
 Midnight Crew: Act 1031
 2733

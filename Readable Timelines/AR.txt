@@ -1,6 +1,6 @@
 Name: Authority Regulator
 Colour: #000000
-Image: dersite.png
+Image: AR.png
 Group: Kids' Exiles
 
 Ticket car

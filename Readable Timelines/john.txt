@@ -16,17 +16,24 @@ B2
 Arrive on Earth
 3782-3783
 
+Image: spades.png
+
 Grow up
 4526
 
 Be trolled by Kanaya
 4605-4606
 
+Image: john.png
+
 Send Jade birthday present
 2899-2900
 
+	(Jade's POV)
+	3425
+<==
+
 Change pesterchum handle
-3425
 3428-3429
 
 Be introduced
@@ -110,7 +117,13 @@ Sleep
 
 Wake up
 Prepare for boss battle
-2551-2563
+2551-2552
+
+	(Jade's POV)
+	2974
+<==
+
+2553-2563
 
 Boss battle!
 2743
@@ -289,7 +302,11 @@ Talk with Vriska
 pchoooooooo!
 Talk to Dave
 Send Dave boonbuck
-4632-4637
+4632-4633
+
+Image: johntotallyhot.png
+
+4634-4637
 
 Talk to Vriska
 4684-4685
@@ -337,6 +354,8 @@ Be killed
 4975-4986
 	Remem8er.
 	9859
+
+Image: john.png
 
 RISE UP.
 4987

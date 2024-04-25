@@ -81,6 +81,8 @@ Take crowbar
 7702-7715
 
 Name: Jack English
+Image: jackenglish.png
+Color: #2ED73A
 
 Destroy Prospit
 7716-7723

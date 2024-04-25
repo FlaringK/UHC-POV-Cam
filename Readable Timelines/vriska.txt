@@ -102,35 +102,48 @@ Watch John do the windy thing
 Watch conversation between Tavros and Jade
 4957-4968
 
+Trick John into ascending
+4979-4987
+
 Visit WV in his dreams
 Kill Tavros
 5172-5197
-
-Trick John into ascending
-4979-4987
 
 Talk to John
 5365-5368
 5372-5375
 5393-5394
 
+Read Mindfang's Journal
+5406-5407
+
 Showdown
 5409-5413
 5415-5416
 5420-5445
 
+Be in dream bubble
+5503-5509
+
+Say goodbye to John
+5594
+5750-5759
+
+Seer: Ascend
+5644
+
 Flip.
 5660
-5670-5677
+5669-5675
 
 ======>
 	View alt-Vriska
+	5675-5677
 	5697-5707
 	5710-5714
 	5720-5734
 
 5736
-
 	FL1P
 	John????????
 	Be knocked out
@@ -248,11 +261,9 @@ Flip.
 Be killed by Terezi
 5737
 
-Say goodbye to John
-5594
-
 Have death judged
-5750-5763
+5748-5749
+5759-5760
 
 Troll alt-John
 5781-5785

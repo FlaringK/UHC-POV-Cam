@@ -148,7 +148,7 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(7) a {
   color: #000000 !important;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(7) p::Before {
-  content: url("assets://images/dersite.png");
+  content: url("assets://images/WV.png");
   display: inline-block;
   transform: translateY(5px);
 }
@@ -175,7 +175,7 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(8) a {
   text-shadow: 1px 1px 0px black;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(8) p::Before {
-  content: url("assets://images/prospitian.png");
+  content: url("assets://images/PM.png");
   display: inline-block;
   transform: translateY(5px);
 }
@@ -187,7 +187,7 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(9) {
   position: relative;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(9)::before {
-  content: "Jack Noir";
+  content: "Sovereign Slayer";
   color: black;
   position: absolute;
   top: 10px;
@@ -199,15 +199,15 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(9)::before {
   white-space: nowrap;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(9) a {
-  color: #000000 !important;
+  color: #1F9400 !important;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(9) p::Before {
-  content: url("assets://images/spades.png");
+  content: url("assets://images/slayer.png");
   display: inline-block;
   transform: translateY(5px);
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(9) p::After {
-  color: #000000;
+  color: #1F9400;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(10) {
   position: relative;
@@ -1045,17 +1045,17 @@ div[data-pageid*="009987"] .nextArrow div:nth-child(40)::before {
   white-space: nowrap;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(40) a {
-  color: #000000 !important;
+  color: #2ED73A !important;
   display: none;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(40) p::Before {
-  content: url("assets://images/spades.png");
+  content: url("assets://images/jackenglish.png");
   display: inline-block;
   transform: translateY(5px);
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(40) p::After {
   content: "End of Jack English's Timeline.";
-  color: #000000;
+  color: #2ED73A;
 }
 div[data-pageid*="009987"] .nextArrow div:nth-child(41) {
   position: relative;

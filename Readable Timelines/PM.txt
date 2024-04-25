@@ -1,6 +1,6 @@
 Name: Parcel Mistress
 Colour: #FFFFFF
-Image: prospitian.png
+Image: PM.png
 Group: Kids' Exiles
 
 2933

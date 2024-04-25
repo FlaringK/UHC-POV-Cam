@@ -1,0 +1,15 @@
+// page number
+"1901": [ // list of links
+  [
+      0, // character name
+      0, // character color
+      0, // character icon
+      0, // character group
+      [ // Next page links
+          [
+              1902, // next link
+              0 // 
+          ]
+      ]
+  ]
+],

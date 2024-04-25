@@ -6,6 +6,9 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 ## Changelog
 
+### v0.7
+- Better Homescreen
+
 #### v0.6.1
 - Fixed white hover text in scratch theme
 - Fixed Horuss's name in the timeline povmap
