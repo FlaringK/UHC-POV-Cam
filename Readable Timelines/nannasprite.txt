@@ -12,7 +12,7 @@ Inform John of game mechanics
 2317-2328
 
 Start baking
-2391
+2391-2392
 
 Assist John in strife
 2779-2780
@@ -26,6 +26,9 @@ Write message to John
 
 Be contacted by John
 3329
+
+Continue baking
+3438
 
 Prank John
 Give John boon
