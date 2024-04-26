@@ -209,16 +209,19 @@ Try to contact Dave
 	3553
 <==
 
+Prepare for nap
+3554
+
 ==>
 	Name: Doomed Rose
 	Talk with Dave
 	3543
-
-Future Dream Rose: Cease to exist.
-Fall asleep
-3554
+	Future Dream Rose: Cease to exist.
+	Fall asleep
+	3555
 <==
-3555-3556
+
+3556
 
 Be snooped on by John
 3590-3594
