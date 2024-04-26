@@ -75,17 +75,17 @@ Receive pumpkin, Lil Cal
 You're mother fuckin welcome
 Be hypnotised by Caliborn
 Stab own eyes
-Replace eyes with Lil Cal's eyes
-Replace right leg with Prospitian spike
-Take crowbar
-7702-7715
+7702-7713
 
 Name: Jack English
 Image: jackenglish.png
-Color: #2ED73A
+Colour: #2ED73A
 
+Replace eyes with Lil Cal's eyes
+Replace right leg with Prospitian spike
+Take crowbar
 Destroy Prospit
-7716-7723
+7714-7723
 
 Destroy Prospit's moon
 7734-7743
