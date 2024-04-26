@@ -206,13 +206,17 @@ Talk to Jaspers, dream Jade
 Try to contact Dave
 3523-3530
 
+	3553
+<==
+
 ==>
+	Name: Doomed Rose
 	Talk with Dave
 	3543
 
 Future Dream Rose: Cease to exist.
 Fall asleep
-3553-3554
+3554
 <==
 3555-3556
 
