@@ -160,6 +160,9 @@ Taunt Terezi with Lil' Cal
 	Be with Caliborn on purple (12) planet
 	7965
 
+	Be with Caliborn on orange (13) planet
+	8011
+
 	Be with Caliborn just before he conquers his final planet (8)
 	8092-8104
 

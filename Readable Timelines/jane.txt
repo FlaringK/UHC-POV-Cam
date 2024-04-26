@@ -257,6 +257,9 @@ Image: jane.png
 
 7678-7680
 
+# 7680 doesn't show next links, so we got to 7681 even though she isn't on that page.
+7681
+
 Act 6 Act 5 Act 1 x2 combo
 7688-7693
 7696-7705
