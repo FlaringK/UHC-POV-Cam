@@ -6,6 +6,12 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 ## Changelog
 
+### v0.8
+- Made icons change depending on story context
+- New icons for B1 and B2 Jack
+- Fanon icons for exiles added
+- A lot of timmeline fixes
+
 ### v0.7
 - Better Homescreen
 
