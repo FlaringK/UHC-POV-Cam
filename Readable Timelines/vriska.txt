@@ -109,6 +109,9 @@ Visit WV in his dreams
 Kill Tavros
 5172-5197
 
+Abscond
+5266
+
 Talk to John
 5365-5368
 5372-5375
