@@ -71,6 +71,9 @@ Destroy matriorb
 Kill Kanaya
 5221-5248
 
+Abscond
+5267
+
 Duel Vriska
 Be interrupted by Gamzee
 5409-5413

@@ -30,7 +30,7 @@ Be sent to Earth
 	Be on Earth (B2)
 	6013
 	6417-6421
-	6438-6439
+	6438-6440
 	
 	Be used as distraction
 	6443-6446

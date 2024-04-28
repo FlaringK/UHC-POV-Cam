@@ -18,7 +18,11 @@ Black out
 Sleepwalk.
 Wake up
 Talk with Dirk, Lil' Hal
-6370-6390
+6370-6385
+	(Dirk's POV)
+	6448
+<==
+6386-6390
 
 Talk with Jane
 Appearify Unabridged Colonel Sassacre's
