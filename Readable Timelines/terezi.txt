@@ -307,11 +307,18 @@ Flip.
 5660
 
 Look into future
+5670-5675
+
+======>
+	Name: Doomed Terezi
+	5676-5677
+	5697
+	Be killed by Jack
+	5713
+<======
+
 Kill Vriska
-5670-5677
-5697-5707
-5710-5714
-5720-5748
+5732-5748
 
 Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
 Shoosh, pap.
