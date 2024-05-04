@@ -12,6 +12,9 @@ Meet young Kanaya
 Hire Snowman
 4211
 
+Raise Damara
+5967-5968
+
 Contact Vriska
 4101-4102
 
@@ -31,8 +34,22 @@ Talk with Aradia of Jack Noir
 Contact Karkat through Kanaya's account
 5252-5255
 
-Have narrative taken over by Doc Scratch
-5514-5525
+The dÎsc is tø€ badly da™aged. You can no lcœger play Homeµ&uck.
+Explain events
+5661-5699
+
+Greet Spades Slick and past MSPAR
+5514-5524
+	
+	(Future MSPAR's perspective)
+	5700-5707
+<==
+
+Continue narration, but only briefly
+5708-5713
+
+Excuse self to past MSPAR
+5525
 
 Talk with Rose
 5527-5535
@@ -40,14 +57,15 @@ Talk with Rose
 Join conversation between Rose and Jade
 5538
 
-The dÎsc is tø€ badly da™aged. You can no lcœger play Homeµ&uck.
-Explain events
+	5714
+<==
+
 Be shocked by SS/Snowman kismesis
 Auspisticize between SS and Snowman
 Beat up SS
 Give SS gun
 Clean up mess
-5661-5774
+5715-5774
 5795
 5836
 5874
@@ -59,7 +77,8 @@ Settle down Aradia's ancestor
 5932
 
 Be killed by AH
-5934-5980
+5934-5966
+5969-5980
 
 You are an excellent host
 6011
