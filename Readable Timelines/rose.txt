@@ -331,8 +331,9 @@ Descend.
 Round Two.
 Be killed
 5678-5688
-5696
-5750
+5695-5696
+5755
+5753-5758
 	Remem8er.
 	9859
 

@@ -387,6 +387,10 @@ Notice grimdarkness
 Be killed
 5559-5596
 
+Be dead
+5686
+5695-5696
+
 Revive
 Receive message from Vriska
 Be asked on d8
