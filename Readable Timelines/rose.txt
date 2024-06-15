@@ -232,7 +232,11 @@ Just miss John
 Alchemize
 Create Thorns of Oglogoth (among other things)
 Aggrieve
-3702-3716
+3702-3710
+
+Image: roseangsty.png
+
+3711-3716
 
 Burn book
 3756-3758
@@ -314,6 +318,8 @@ Be killed
 
 Be revived
 5770
+
+Image: rose.png
 
 Wake up on Derse
 5768-5769

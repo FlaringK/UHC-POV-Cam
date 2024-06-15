@@ -1,10 +1,11 @@
 Name: Equiusprite
 Colour: #E00707
-Image: arquiusprite.png
+Image: equiusprite.png
 Group: Alpha Kids' Sprites
 
 	Name: ARquiusprite
-	
+	Image: arquiusprite.png
+
 	Attempt to remove tiaratop from Jane
 	9350-9377
 	
@@ -49,6 +50,7 @@ Group: Alpha Kids' Sprites
 
 7547-7554
 Name: ARquiusprite
+Image: arquiusprite.png
 7555-7557
 
 Witness arival of tricksters

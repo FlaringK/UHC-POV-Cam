@@ -125,6 +125,9 @@ Talk to Jane
 7590-7591
 
 Be found by trickster Jane
+7616-7625
+
+Image: tricksterjake.png
 Enter trickster mode
 Fly to Derse
 Convert Roxy
@@ -135,7 +138,9 @@ Convert Dirk
 Witness dear, sweet precious Fefetasplosion
 Alchemize
 Go back to Act 6 Act 5 Act 1
-7616-7678
+7626-7677
+
+Image: jake.png
 
 Act 6 Act 5 Act 1 x2 combo
 7688-7690-2

@@ -235,6 +235,10 @@ Talk with Jake
 Receive gift from Calliope
 Miss conversation with Roxy
 Alchemize jujus
+7583-7610
+
+Image: tricksterjane.png
+
 Engage trickster mode
 Fly to LOMAX
 Convert Jake
@@ -247,7 +251,11 @@ Convert Dirk
 Witness dear, sweet precious Fefetasplosion
 Alchemize
 Go back to Act 6 Act 5 Act 1
-7583-7680
+7611-7677
+
+Image: jane.png
+
+7678-7680
 
 Act 6 Act 5 Act 1 x2 combo
 7688-7692-2

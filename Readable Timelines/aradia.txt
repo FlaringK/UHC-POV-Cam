@@ -41,7 +41,10 @@ Bring Equius into game
 
 Talk to Equius
 Enter soulbot
-4178-4193
+4178-4186
+
+Image: aradiabot.png
+4187-4193
 4214
 
 Make her pay.
@@ -68,6 +71,8 @@ Troll rose
 
 Randomly explode
 5081-5087
+
+Image: aradia.png
 
 Wake.
 5197

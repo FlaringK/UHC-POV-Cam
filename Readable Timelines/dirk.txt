@@ -210,10 +210,17 @@ Create ARquiusprite
 7538-7557
 
 Be found by tricksters
+7648-7658
+
+Image: tricksterdirk.png
+
 Witness dear, sweet precious Fefetasplosion
 Alchemize
 Go back to Act 6 Act 5 Act 1
-7648-7678
+7659-7677
+
+Image: dirk.png
+
 
 Act 6 Act 5 Act 1 x2 combo
 Be on sacrificial slab

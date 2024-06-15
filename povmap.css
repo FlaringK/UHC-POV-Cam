@@ -86,7 +86,10 @@
 .povmap .agents div:nth-child(1) a { color: #BF0000 }
 .povmap .agents div:nth-child(2) a { color: #C39797 }
 .povmap .agents div:nth-child(3) a { color: #8F8F8F }
-.povmap .agents div:nth-child(4) a, .povmap .jackeng a { color: #000000 }
+
+.povmap .sovereignslay a { color: #1F9400 }
+
+.povmap .jackeng a { color: #2ED73A }
 
 .povmap .sprites .left div:nth-child(1) a { color: #00d5f2 }
 .povmap .sprites .left div:nth-child(2) a { color: #f2a400 }

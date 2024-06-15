@@ -1,6 +1,6 @@
 Name: Warweary Villein
 Colour: #000000
-Image: dersite.png
+Image: WV.png
 Group: Kids' Exiles
 
 WV?: Rise up.

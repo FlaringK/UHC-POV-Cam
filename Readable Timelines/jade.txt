@@ -1,6 +1,6 @@
 Name: Jade
 Colour: #4AC925
-Image: jade.png
+Image: jadewardrobifier.png
 Group: Kids
 
 Be created on meteor
@@ -26,8 +26,12 @@ Find present
 Contact John
 4526
 
+Image: jadediamond.png
+
 A good example of why babies should not be allowed to dual wield flintlock pistols
 4950-4954
+
+Image: jadewardrobifier.png
 
 Wish John happy birthday
 Be contacted by Karkat with message from future self
@@ -37,8 +41,12 @@ Receive package from Jake
 3427
 
 Be introduced
+2660-2699
+
+Image: jadewardrobifier3.png
+
 Talk to Dave
-2660-2735
+2700-2735
 	2282
 <==
 
@@ -140,9 +148,12 @@ Start building
 Be trolled by Tavros
 3836
 
+Image: jade.png
+
 Witness destruction of Prospit's moon
 Have dream self die, robot explode
 3840
+
 	Remem8er.
 	9859
 	
@@ -205,8 +216,16 @@ Ignore Karkat
 5039
 
 Prepare for Christmas
+5041-5050
+
+Image: jadeironlass.png
+
 Be given LPOS by Eridan
-5041-5077
+5051-5052
+
+Image: jade.png
+
+5053-5077
 
 Use compu-sooth spectagoggles
 View John, Rose, Davesprite, doomed Dave, Dave
@@ -231,6 +250,8 @@ Talk with John
 Ask John how he got a flying car
 5315-5319
 
+Image: jadeironlass.png
+
 Be told of breeding duties by Kanaya
 Encourage Kanaya to raise matriorb
 5204-5220
@@ -240,6 +261,8 @@ Tell Rose of Mom, Dad
 
 Attempt to contact John about Rose
 5588-5590
+
+Image: jade.png
 
 Meet Aradia, Aradia, Sollux in dream bubble
 Meet Kanaya
