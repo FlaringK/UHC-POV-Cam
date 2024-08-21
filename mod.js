@@ -3,7 +3,7 @@ let toPageString = pageNumber => pageNumber < 10000 ? `00${pageNumber}` : `0${pa
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
-  modVersion: "0.6",
+  modVersion: "0.8",
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: `A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><br />
