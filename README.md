@@ -6,10 +6,10 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 ## Changelog
 
-#### v0.8.1
+### v0.9
 - Far too many timeline gixes to reasonably list
 - Act 6 Act 5 Act 1 x2 Combo pages fixed
-- Hide original link option added
+- Added "Hide Original Links" option
 
 ### v0.8
 - Made icons change depending on story context
