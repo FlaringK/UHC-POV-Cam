@@ -4,15 +4,18 @@ A port of [madman-bob](https://github.com/madman-bob/Homestuck-POV-Cam)'s Homest
 
 Download this mod as a ZIP file, extract it, and place it into your mods folder within the UHC asset pack. [Here's a guide for installing mods](https://github.com/Bambosh/unofficial-homestuck-collection/blob/main/MODDING.md#installing-mods)
 
-TODO: Fix line breaks
-
 ## Changelog
+
+#### v0.8.1
+- Far too many timeline gixes to reasonably list
+- Act 6 Act 5 Act 1 x2 Combo pages fixed
+- Hide original link option added
 
 ### v0.8
 - Made icons change depending on story context
 - New icons for B1 and B2 Jack
 - Fanon icons for exiles added
-- A lot of timmeline fixes
+- A lot of timeline fixes
 
 ### v0.7
 - Better Homescreen
