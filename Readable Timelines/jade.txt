@@ -85,14 +85,20 @@ Play advanced bass solo
 Fly to John's tower
 2947-2951
 
+	
+
 Talk to John
 Wake up
 Harpoon to frog temple
 2973
+	(John POV)
+	2551
+<==
 	2069
 	2193
 <==
 2974
+	(John POV)
 	2552
 <==
 2975-2980
