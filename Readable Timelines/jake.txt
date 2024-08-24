@@ -143,30 +143,30 @@ Go back to Act 6 Act 5 Act 1
 Image: jake.png
 
 Act 6 Act 5 Act 1 x2 combo
-7688-7690-2
-7694-7700-2
-7706-7714-2
+7688-7691
+7694-7701
+7706-7715
 
 Ascend
-7740-7748-2
-7754
+7740-7749
+7754-7755
 
 Be attacked by Jack Noir
-7758-7762-2
+7758-7763
 
 Jade arrives
-7770-7774-2
-7778-7782-2
+7770-7775
+7778-7783
 
 Jade gets mind controlled
-7786-7792-2
+7786-7793
 
 Jane gets mind controlled
 Be beaten up by Jane
-7798-7808-2
+7798-7809
 
 Be taken to Derse
-7814-7824-2
+7814-7825
 
 	Wait for arrival of John, Roxy
 	Nervously talk with John

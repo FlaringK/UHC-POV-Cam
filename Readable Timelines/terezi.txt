@@ -174,11 +174,13 @@ Give Sollux tips on being blind
 5376-5378
 
 Be attacked
-Have puncture holes on neck
-5417
 
 Join others in dream bubble
 5504-5508
+
+Wake up
+5417
+5419
 
 Tell Dave of problems
 5597-5610
@@ -305,11 +307,18 @@ Flip.
 5660
 
 Look into future
+5670-5675
+
+======>
+	Name: Doomed Terezi
+	5676-5677
+	5697
+	Be killed by Jack
+	5713
+<======
+
 Kill Vriska
-5670-5677
-5697-5707
-5710-5714
-5720-5748
+5732-5748
 
 Attempt rare and highly dangerous 5x SHOWDOWN COMBO.
 Shoosh, pap.

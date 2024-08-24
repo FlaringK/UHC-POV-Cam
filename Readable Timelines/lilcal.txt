@@ -30,7 +30,7 @@ Be sent to Earth
 	Be on Earth (B2)
 	6013
 	6417-6421
-	6438-6439
+	6438-6440
 	
 	Be used as distraction
 	6443-6446
@@ -53,19 +53,26 @@ Be sent to Earth
 	7682-7687
 	
 	Be used as conduit between Caliborn and Jack via alternate self
-	7708-7710-2
+	7708-7711
 	
 	Have Caliborn's, ARquisprite's, 1/2 Gamzee's souls placed in self
 	Be banished to void
 	9312-9344
 
 Be on Earth (B1)
+
+Feed Dave
+4665-4667
+
 Fistbump Dave
 2350-2351
 2353-2355
 2362-2366
 
 Be used to taunt Dave
+2464
+2467
+2482
 2492-2494
 2498-2499
 
@@ -160,7 +167,7 @@ YOU'RE MOTHER FUCKIN WELCOME
 Be used as conduit between Caliborn and Jack via alternate self
 Have eyes removed
 Be destroyed?
-7704-7720-2
+7704-7721
 
 	How'd he get here?
 	5133

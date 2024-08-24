@@ -3,11 +3,14 @@ Colour: #6A006A
 Image: eridan.png
 Group: Trolls
 
+LARP with Vriska
+4359-4361
+
 Teaser introduction
 3966-3967
 
 Be introduced
-4307-4320
+4306-4320
 4337-4339
 
 Do something ridiculous
@@ -15,7 +18,8 @@ Talk to Feferi
 4342-4351
 
 Talk to Vriska
-4356-4365
+4356-4358
+4365
 
 Try to convince Kanaya to get Vriska to talk to you
 4243
@@ -70,6 +74,9 @@ Kill Feferi
 Destroy matriorb
 Kill Kanaya
 5221-5248
+
+Abscond
+5267
 
 Duel Vriska
 Be interrupted by Gamzee

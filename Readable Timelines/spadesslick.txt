@@ -6,8 +6,9 @@ Group: Midnight Crew
 Learn Karkat's blood colour
 Be in cahoots with Karkat
 4198
+4199-4205
 4197
-4199-4209
+4206-4209
 
 There there, you blubbering goddamn pansy
 4370
@@ -118,9 +119,12 @@ Move this along.
 
 Enter Doc Scratches apartment
 Attack Doc Scratch
-5516-5525
+5517-5525
 
-Continue attacking Doc Scratch
+	(Future MSPAR perspective)
+	5701-5711
+<==
+
 Set Doc Scratches apartment on fire
 Kill Matchsticks
 Be killed by Quarters
@@ -131,7 +135,7 @@ Cause Vriska's death to be registered as just
 Clocks destroyed: 1001/1000
 Be beat up by Doc Scratch
 Be given command, gun by Doc Scratch
-5701-5771
+5712-5771
 
 Cascade
 6009

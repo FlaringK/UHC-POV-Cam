@@ -6,11 +6,17 @@ Download this mod as a ZIP file, extract it, and place it into your mods folder 
 
 ## Changelog
 
+### v0.9
+- Far too many timeline gixes to reasonably list
+- Act 6 Act 5 Act 1 x2 Combo pages fixed
+- Added "Hide Original Links" option
+- Added original license from madman-bob's repo
+
 ### v0.8
 - Made icons change depending on story context
 - New icons for B1 and B2 Jack
 - Fanon icons for exiles added
-- A lot of timmeline fixes
+- A lot of timeline fixes
 
 ### v0.7
 - Better Homescreen

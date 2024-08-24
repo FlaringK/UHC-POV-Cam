@@ -29,8 +29,11 @@ Image: john.png
 Send Jade birthday present
 2899-2900
 
+	(Jade's POV)
+	3425
+<==
+
 Change pesterchum handle
-3425
 3428-3429
 
 Be introduced
@@ -61,7 +64,7 @@ MAKE HASTE ON THE NARROW CATWALK!
 2150-2170
 
 Second tier prototype sprite
-2175-2193
+2174-2193
 	2973
 <==
 2194
@@ -80,14 +83,15 @@ Put the bunny back in the box
 Notice door is fixed
 Be pranked
 Meet Nanasprite
-2316-2331
+2367
+2315-2331
 
 GET THE COOKIES!
 2334-2338
 
 Put bunny in strife specibus
 Start building
-2371-2390
+2370-2390
 
 Hammer your way to victory
 Wonder where can opener is
@@ -114,7 +118,13 @@ Sleep
 
 Wake up
 Prepare for boss battle
-2551-2563
+2551-2552
+
+	(Jade's POV)
+	2974
+<==
+
+2553-2563
 
 Boss battle!
 2743
@@ -378,10 +388,15 @@ Notice grimdarkness
 Be killed
 5559-5596
 
+Be dead
+5680-5683
+5689-5690
+5694-5696
+
 Revive
 Receive message from Vriska
 Be asked on d8
-5749-5759
+5749-5758
 
 Revive Rose
 5770

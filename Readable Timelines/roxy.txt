@@ -18,7 +18,11 @@ Black out
 Sleepwalk.
 Wake up
 Talk with Dirk, Lil' Hal
-6370-6390
+6370-6385
+	(Dirk's POV)
+	6448
+<==
+6386-6390
 
 Talk with Jane
 Appearify Unabridged Colonel Sassacre's
@@ -148,21 +152,21 @@ Image: roxy.png
 
 Act 6 Act 5 Act 1 x2 combo
 Be on sacrificial slab
-7688-7690-2
+7688-7691
 
 Talk with Jake, Jane
-7694-7720-2
+7694-7721
 
 Ascend
-7740-7748-2
-7756-7760-2
+7740-7749
+7756-7761
 
 Fall into trap x2 combo
-7784
-7806-7810-2
+7784-7785
+7806-7811
 
 Be dragged by Jade to Derse
-7814-7824-2
+7814-7825
 
 Be given mission by Jade
 Be intimidated by Jade

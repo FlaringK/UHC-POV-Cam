@@ -109,6 +109,9 @@ Visit WV in his dreams
 Kill Tavros
 5172-5197
 
+Abscond
+5266
+
 Talk to John
 5365-5368
 5372-5375
@@ -126,11 +129,15 @@ Be in dream bubble
 5503-5509
 
 Say goodbye to John
+5645
 5594
-5750-5759
+5646
+5750-5758
 
 Seer: Ascend
 5644
+
+5759
 
 Flip.
 5660
@@ -138,7 +145,7 @@ Flip.
 
 ======>
 	View alt-Vriska
-	5675-5677
+	5676-5677
 	5697-5707
 	5710-5714
 	5720-5734
@@ -259,7 +266,7 @@ Flip.
 	10027
 
 Be killed by Terezi
-5737
+5737-5741
 
 Have death judged
 5748-5749
@@ -271,7 +278,7 @@ Troll alt-John
 5849-5853
 
 DOTA
-6715
+6715-6716
 
 Punch Hussie in face
 DD: Ascend more casually.

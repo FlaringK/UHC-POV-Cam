@@ -37,6 +37,10 @@ Wish John happy birthday
 Be contacted by Karkat with message from future self
 3425
 
+	(John's POV)
+	2900
+<==
+
 Receive package from Jake
 3427
 
@@ -81,14 +85,20 @@ Play advanced bass solo
 Fly to John's tower
 2947-2951
 
+	
+
 Talk to John
 Wake up
 Harpoon to frog temple
 2973
+	(John POV)
+	2551
+<==
 	2069
 	2193
 <==
 2974
+	(John POV)
 	2552
 <==
 2975-2980
@@ -421,14 +431,14 @@ Save Jake, Jane from Union Jack
 Teleport Union Jack to the outer ring
 Be mind controlled by )(IC
 Zap tiaratop onto Jane
-7764-7790-2
+7764-7791
 Colour: #000000
-7792-7804-2
+7792-7805
 
 Beat up Dirk
 Teleport Dirk to the outer ring
 Take Roxy to Derse
-7808-7824-2
+7808-7825
 
 Intimidate Roxy
 Tell Roxy about her void powers

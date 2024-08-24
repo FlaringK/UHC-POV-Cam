@@ -132,7 +132,7 @@ Deliver message to past Jade
 3425-3426
 
 Attempt to contact Jade about 4th wall
-5039
+5039-5040
 
 Talk to Jade about Jadesprite
 # Tell Jade to take 4th wall, from future Jade
@@ -238,6 +238,10 @@ Apologise for giving Bilious Slick cancer
 	
 	ACT 7
 	10027
+
+======>
+	Name: Doomed Karkat
+	5713
 
 See Terezi kill Vriska
 5741-5748

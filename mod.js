@@ -3,7 +3,7 @@ let toPageString = pageNumber => pageNumber < 10000 ? `00${pageNumber}` : `0${pa
 module.exports = {
   title: "Homestuck POV Cam Port", 
   author: "<a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>, ported by <a href='https://flaringk.github.io/Portfolio/'>FlaringK</a>",
-  modVersion: "0.8",
+  modVersion: "0.9",
 
   summary: "A port of madman-bob's Homestuck POV Cam Chrome extension",
   description: `A port of <a href='https://github.com/madman-bob/Homestuck-POV-Cam'>madman-bob</a>'s Homestuck POV Cam Chrome extension to the UHC. <a href='https://github.com/FlaringK/UHC-POV-Cam'>Github</a><br />
@@ -24,7 +24,13 @@ module.exports = {
       model: "disableHover",
       label: "Always display character names",
       desc: "Always display each timeline's character name instead of viewing them by hovering with your mouse."
-    },{
+    },
+    {
+      model: "hideOriginalLink",
+      label: "Hide original next page link",
+      desc: "If one or more characters link to the next page, hide the original link to the next page."
+    },
+    {
       model: "Kids",
       label: "Disable Beta Kids timelines",
     },
@@ -107,7 +113,7 @@ module.exports = {
       styles: [
         {
           // Set collide & act 7 style manually
-          source: api.store.get("disableHover") ? "./collideact7_nohover.css" : "./collideact7.css"
+          body: api.store.get("collideAct7Style", "") // mod must be restarted twice to update
         },
         {
           source: "./povmap.css"
@@ -119,6 +125,11 @@ module.exports = {
 
       edit(archive) {
 
+        let collideStyle = ""
+        let act7Style = ""
+        let hideOriginalLink = api.store.get("hideOriginalLink", false)
+        const tereziRetconPages = [8948, 8132, 3938, 4476, 5270, 5610, 5622, 5736].map(page => toPageString(page))
+
         // For each page in homestuck
         for (let i = 1901; i < 10028; i++) {
           const pageString = toPageString(i)
@@ -128,59 +139,252 @@ module.exports = {
             let pageLinkDataList = povData.timelines[String(i)]
             let LinkStyle = ""
 
-            // Each Character data
+            let x2ComboLeftPage = ((pageString >= 7688) && (pageString <= 7825)) && (pageString % 2) == 0
+            let x2ComboRightPage = ((pageString >= 7688) && (pageString <= 7825)) && (pageString % 2) == 1
+            let x2Combo = x2ComboRightPage || x2ComboLeftPage
+
+            let collide = pageString == 9987
+            let act7 = pageString == 10027
+
+            let characterNextLinks = []
+            let originalNextLinks = archive.mspa.story[pageString].next
+            let originalNextLink
+            let hideOriginalLinkWithCSS = false
+
+            let tereziRetconPage = tereziRetconPages.includes(pageString)
+
+            let linkIndex = 1   // Initialize to 1, then subtract 1 at start of for loop below
+
+            if (tereziRetconPage)
+              originalNextLink = originalNextLinks.length == 2 ? archive.mspa.story[pageString].next[1] : false
+            else
+              originalNextLink = originalNextLinks.length == 1 ? archive.mspa.story[pageString].next[0] : false
+
+            // Add character links to page
             for (let j = 0; j < pageLinkDataList.length; j++) {
               let linkData = pageLinkDataList[j]
 
-              // Add in missing pageNext
-              if (!linkData[4][0]) linkData[4][0] = [parseInt(pageString)]
+              // If character group is not hidden, add character's next links to next pages array
+              if (!api.store.get(povData.groups[linkData[3]])) {
+                // Add in missing pageNext
+                if (!linkData[4][0]) linkData[4][0] = [parseInt(pageString)]
+                for (let k = 0; k < linkData[4].length; k++) {
+                  linkIndex += 1
+                  characterNextLinks.push(toPageString(linkData[4][k][0]))
+                  archive.mspa.story[pageString].next.push(toPageString(linkData[4][k][0]))
+                }
+              }
+            }
+
+            if (hideOriginalLink && characterNextLinks.includes(originalNextLink)) {
+              if (x2Combo) {
+                hideOriginalLinkWithCSS = true
+              } else {
+                let originalLinkIndex = archive.mspa.story[pageString].next.indexOf(originalNextLink)
+                archive.mspa.story[pageString].next.splice(originalLinkIndex, 1)
+              }
+            }
+
+            // Style added character links
+            for (let j = 0; j < pageLinkDataList.length; j++) {
+              let linkData = pageLinkDataList[j]
 
               for (let k = 0; k < linkData[4].length; k++) {
-                archive.mspa.story[pageString].next.push(toPageString(linkData[4][k][0]))
-                let linkIndex = archive.mspa.story[pageString].next.length
 
-                LinkStyle += `
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) {
-                  ${api.store.get(povData.groups[linkData[3]]) ? "display: none;" : ""}
-                  position: relative;
-                }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
-                  content: "${povData.peoplenames[linkData[0]]}";
-                  position: absolute;
-                  top: 10px;
-                  right: calc(100% + 5px);
-                  background: white;
-                  border: solid black 1px;
-                  font-size: 12px;
-                  padding: 2px;
-                  white-space: nowrap;
-                  color: black;
-                }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) a {
-                  color: ${povData.colours[linkData[1]]} !important; 
-                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-                  ${linkData[4][k][0] == pageString ? "display: none;" : ""}
-                } 
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::Before { 
-                  content: url("assets://images/${povData.images[linkData[2]]}");
-                  display: inline-block;
-                  transform: translateY(5px); 
-                }
-                div[data-pageid*="${pageString}"] .nextArrow div:nth-child(${linkIndex}) p::After {
-                  ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
-                  color: ${povData.colours[linkData[1]]}; 
-                  ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
-                }
-                `
+                // If character group is not hidden, style the previously added links
+                if (!api.store.get(povData.groups[linkData[3]])) {
 
+                  linkIndex -= 1
+
+                if (!x2Combo && !collide && !act7) {
+                  LinkStyle += `
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
+                      position: relative;
+                    }
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                          top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                    }
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                      color: ${povData.colours[linkData[1]]};
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                  `
+                } else if (x2ComboLeftPage) {
+                  LinkStyle += `
+                    div .leftPage .nextArrow div:nth-child(1) {
+                        ${hideOriginalLinkWithCSS ? "display: none;" : ""}
+                    }
+
+                    div .nextArrow div:nth-last-child(${linkIndex}) {
+                        /* position: relative; */
+                    }
+                    div .leftPage .nextArrow div:nth-last-child(${linkIndex}) div${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                    div .leftPage .nextArrow div:nth-last-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                    }
+                    div .leftPage .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                  `
+                } else if (x2ComboRightPage) {
+                  LinkStyle += `
+                    div .rightPage .nextArrow div:nth-child(1) {
+                        ${hideOriginalLinkWithCSS ? "display: none;" : ""}
+                    }
+
+                    div .rightPage .nextArrow div:nth-last-child(${linkIndex}) {
+                      position: relative;
+                    }
+                      div .rightPage .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                      div .rightPage .nextArrow div:nth-last-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == pageString ? "display: none;" : ""}
+                    }
+                      div .rightPage .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                      div .rightPage .nextArrow div:nth-last-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == pageString ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                      color: ${povData.colours[linkData[1]]};
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                  `
+                } else if (collide) {
+                  collideStyle += `
+                    /* Collide */
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
+                      position: relative;
+                    }
+                      div[data-pageid*="009987"] .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      color: black;
+                    }
+                      div[data-pageid*="009987"] .nextArrow div:nth-last-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == "009987" ? "display: none;" : ""}
+                    }
+                      div[data-pageid*="009987"] .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                      div[data-pageid*="009987"] .nextArrow div:nth-last-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == "009987" ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                      color: ${povData.colours[linkData[1]]};
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                  `
+                } else if (act7) {
+                  act7Style += `
+                    /* Act 7 */
+                    div[data-pageid*="010027"] .nextArrow div:first-child {
+                      margin-bottom: 20px;
+                    }
+                    div[data-pageid*="010027"] .nextArrow div + div {
+                      font-size: x-large !important;
+                    }
+
+                      div[data-pageid*="${pageString}"] .nextArrow div:nth-last-child(${linkIndex}) {
+                      position: relative;
+                    }
+                      div[data-pageid*="010027"] .nextArrow div:nth-last-child(${linkIndex})${api.store.get("disableHover") ? "" : ":hover"}:before {
+                      content: "${povData.peoplenames[linkData[0]]}";
+                      position: absolute;
+                      top: 10px;
+                      right: calc(100% + 5px);
+                      background: white;
+                      border: solid black 1px;
+                      font-size: 12px;
+                      padding: 2px;
+                      white-space: nowrap;
+                      /* color: black; */
+                    }
+                      div[data-pageid*="010027"] .nextArrow div:nth-last-child(${linkIndex}) a {
+                      color: ${povData.colours[linkData[1]]} !important;
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                      ${linkData[4][k][0] == "010027" ? "display: none;" : ""}
+                    }
+                      div[data-pageid*="010027"] .nextArrow div:nth-last-child(${linkIndex}) p::Before {
+                      content: url("assets://images/${povData.images[linkData[2]]}");
+                      display: inline-block;
+                      transform: translateY(5px);
+                    }
+                      div[data-pageid*="010027"] .nextArrow div:nth-last-child(${linkIndex}) p::After {
+                      ${linkData[4][k][0] == "010027" ? `content: "End of ${povData.peoplenames[linkData[0]]}'s Timeline.";` : ""}
+                      color: ${povData.colours[linkData[1]]};
+                      ${povData.colours[linkData[1]] == "#FFFFFF" ? "text-shadow: 1px 1px 0px black;" : ""}
+                    }
+                      `
+                }
               }
-
+            }
             }
 
             archive.mspa.story[pageString].content += `\n<style>${LinkStyle}</style>`
 
           }
         }
+
+        // Store collide and act 7 style to be used on next start
+        api.store.set("collideAct7Style", collideStyle + act7Style)
 
         archive.tweaks.modHomeRowItems.push({
           href: "/povmap",

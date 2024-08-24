@@ -225,19 +225,19 @@ Image: dirk.png
 Act 6 Act 5 Act 1 x2 combo
 Be on sacrificial slab
 Talk to Jane
-7688-7692-2
-7696-7698-2
+7688-7693
+7696-7699
 
 Ascend
-7722-7750-2
+7722-7751
 
 Meet )(IC
-7758-7760-2
-7784
+7758-7761
+7784-7785
 
 Attack )(IC
 Be teleported to furthest ring
-7806-7812-2
+7806-7813
 
 Contact ARquiusprite
 Learn of Dave, Davesprite
