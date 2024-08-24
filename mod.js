@@ -113,7 +113,7 @@ module.exports = {
       styles: [
         {
           // Set collide & act 7 style manually
-          body: api.store.get("collideAct7Style", "") // mod must be restarted twice to update
+          body: api.store.get("collideAct7Style", "a") // mod must be restarted twice to update; fallback is "a" since "" crashes TUHC
         },
         {
           source: "./povmap.css"
