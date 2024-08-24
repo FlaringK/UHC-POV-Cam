@@ -37,20 +37,24 @@ Talk to Jade
 2729
 
 Be introduced
-2209-2224
+2209-2222
 
-Talk to John about playing Sburb
+Talk to John
+hey so what sort of insane loot did you rake in today
+2223-2224
 	(John's POV)
 	1926
 <==
-1935
-1939
 
 Check Midnight Crew
-2225-2227
+2225-2231
 
 Talk with Rose about playing Sburb
 2232-2233
+
+Talk to John about playing Sburb
+1935
+1939
 
 Play sick beats
 Have game stolen by Rambunctious crow
@@ -289,7 +293,8 @@ Caption: On LOFAF
 Talk to Jade about her moving through space and you, time
 Deploy laserstation
 4924-4932
-Make... wait, what?
+
+Make... wait, what?
 5041-5042
 
 Deploy cloning apparatus
